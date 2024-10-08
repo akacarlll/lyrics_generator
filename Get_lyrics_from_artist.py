@@ -9,8 +9,8 @@ from bs4 import BeautifulSoup
 import requests 
 
 
-token = 'vEuhOt5S8b7JMcQuXZhlSNouoVIPQruY6a0bsie-lifgyPxsx_dPVzDSZools0pG'
-GENIUS_API_TOKEN = 'vEuhOt5S8b7JMcQuXZhlSNouoVIPQruY6a0bsie-lifgyPxsx_dPVzDSZools0pG'
+token = ****
+GENIUS_API_TOKEN = ****
 genius = lg.Genius(token)
 
 
