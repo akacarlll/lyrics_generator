@@ -13,7 +13,7 @@ import os
 
 token = 'vEuhOt5S8b7JMcQuXZhlSNouoVIPQruY6a0bsie-lifgyPxsx_dPVzDSZools0pG'
 GENIUS_API_TOKEN = 'vEuhOt5S8b7JMcQuXZhlSNouoVIPQruY6a0bsie-lifgyPxsx_dPVzDSZools0pG'
-genius = lg.Genius(token)
+genius = lg.Genius(GENIUS_API_TOKEN)
 
 
 
@@ -37,36 +37,32 @@ def get_artist_id(artist_name):
         print(f"Erreur lors de la récupération de l'ID pour {artist_name}: {e}")
         return None
 
-def get_songs(artist_id):
-    """Récupère les titres des chansons d'un artiste donné."""
-    timeout_duration = 20
+def get_songs(artist_id, max_songs=100):
+    """Récupère jusqu'à un nombre donné de chansons pour un artiste, triées par popularité."""
     songs = []
     page = 1
-    max_songs = 100
-    while True:
+    while len(songs) < max_songs:
         url = f"https://api.genius.com/artists/{artist_id}/songs?page={page}"
         headers = {'Authorization': 'Bearer ' + GENIUS_API_TOKEN}
         response = requests.get(url, headers=headers).json()
         songs_data = response['response']['songs']
-        try:
-            response = requests.get(url, headers=headers, timeout=timeout_duration).json()
-            songs_data = response['response']['songs']
-        except requests.exceptions.Timeout:
-            print(f"Requête timeout pour la page {page}, tentative de nouvelle requête...")
-            continue  # Réessayer la requête pour cette page
-        except requests.exceptions.RequestException as e:
-            print(f"Erreur de connexion : {e}")
-            break  # Quitter la boucle en cas d'erreur de connexion
         if not songs_data:
             break
-        
+
+        # Récupérer la popularité et trier manuellement (si disponible)
         for song in songs_data:
-            if len(songs) >= max_songs:
-                return songs
-            songs.append(song['title'])
-        
+            if len(songs) >= max_songs:  # Stopper si on atteint la limite
+                break
+            songs.append({
+                'title': song['title'],
+                'popularity': song.get('stats', {}).get('pageviews', 0)  # Exemple de mesure de popularité
+            })
+
         page += 1
-    return songs
+
+    # Trier manuellement par popularité
+    sorted_songs = sorted(songs, key=lambda x: x['popularity'], reverse=True)
+    return [song['title'] for song in sorted_songs]
 
 def download_lyrics(song_title, artist_name):
     """Télécharge les paroles d'une chanson donnée."""
@@ -111,7 +107,8 @@ def all_artist_songs(artist_to_scrape):
 
 
 # Liste d'artistes à scraper
-#   # Remplacez par votre liste d'artistes
+# Remplacez par votre liste d'artistes
+"""
 artist_to_scrape = ['GIMS',
  'TIAKOLA',
  'GUY2BEZBAR',
@@ -130,11 +127,10 @@ artist_to_scrape = ['GIMS',
  'DISTURBED',
  'THEODORT',
  'BOUSS',
- 'SABRINA CARPENTER']
-# Appeler la fonction pour télécharger les paroles
-#for artist in artist_to_scrape:
-    #artist_id = get_artist_id(artist)
-    #print(f"ID pour {artist}: {artist_id}")
+ 'SABRINA CARPENTER']"""
+ 
+
+
     
     
 all_artist_songs(artist_to_scrape)
