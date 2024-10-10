@@ -6,13 +6,16 @@ import pandas as pd
 import numpy as np
 import random 
 from bs4 import BeautifulSoup
-import requests
+
 from tqdm import tqdm 
 import os
 
 
-token = 'vEuhOt5S8b7JMcQuXZhlSNouoVIPQruY6a0bsie-lifgyPxsx_dPVzDSZools0pG'
-GENIUS_API_TOKEN = 'vEuhOt5S8b7JMcQuXZhlSNouoVIPQruY6a0bsie-lifgyPxsx_dPVzDSZools0pG'
+
+
+
+token = ****
+GENIUS_API_TOKEN = ****
 genius = lg.Genius(token)
 
 
@@ -67,7 +70,7 @@ def get_songs(artist_id):
         
         page += 1
     return songs
-
+  
 def download_lyrics(song_title, artist_name):
     """Télécharge les paroles d'une chanson donnée."""
 
@@ -109,7 +112,6 @@ def all_artist_songs(artist_to_scrape):
         else:
             print(f"ID d'artiste non trouvé pour {artist}")
 
-
 # Liste d'artistes à scraper
 #   # Remplacez par votre liste d'artistes
 artist_to_scrape = ['GIMS',
@@ -135,6 +137,6 @@ artist_to_scrape = ['GIMS',
 #for artist in artist_to_scrape:
     #artist_id = get_artist_id(artist)
     #print(f"ID pour {artist}: {artist_id}")
-    
-    
+  
 all_artist_songs(artist_to_scrape)
+
