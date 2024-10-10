@@ -6,7 +6,9 @@ import pandas as pd
 import numpy as np
 import random 
 from bs4 import BeautifulSoup
-import requests 
+import requests
+from tqdm import tqdm 
+import os
 
 
 token = 'vEuhOt5S8b7JMcQuXZhlSNouoVIPQruY6a0bsie-lifgyPxsx_dPVzDSZools0pG'
@@ -28,27 +30,39 @@ def get_artist_id(artist_name):
         # Vérifie si la réponse contient la clé 'response'
         if 'response' in data and data['response']['hits']:
             return data['response']['hits'][0]['result']['primary_artist']['id']
-        else:
-            print(f"Aucune donnée trouvée pour l'artiste: {artist_name}")
-            return None
+        
+        print(f"Aucune donnée trouvée pour l'artiste: {artist_name}")
+        return None
     except Exception as e:
         print(f"Erreur lors de la récupération de l'ID pour {artist_name}: {e}")
         return None
 
 def get_songs(artist_id):
     """Récupère les titres des chansons d'un artiste donné."""
+    timeout_duration = 20
     songs = []
     page = 1
+    max_songs = 100
     while True:
         url = f"https://api.genius.com/artists/{artist_id}/songs?page={page}"
         headers = {'Authorization': 'Bearer ' + GENIUS_API_TOKEN}
         response = requests.get(url, headers=headers).json()
         songs_data = response['response']['songs']
-        
+        try:
+            response = requests.get(url, headers=headers, timeout=timeout_duration).json()
+            songs_data = response['response']['songs']
+        except requests.exceptions.Timeout:
+            print(f"Requête timeout pour la page {page}, tentative de nouvelle requête...")
+            continue  # Réessayer la requête pour cette page
+        except requests.exceptions.RequestException as e:
+            print(f"Erreur de connexion : {e}")
+            break  # Quitter la boucle en cas d'erreur de connexion
         if not songs_data:
             break
         
         for song in songs_data:
+            if len(songs) >= max_songs:
+                return songs
             songs.append(song['title'])
         
         page += 1
@@ -95,7 +109,7 @@ def all_artist_songs(artist_to_scrape):
         else:
             print(f"ID d'artiste non trouvé pour {artist}")
 
-            
+
 # Liste d'artistes à scraper
 #   # Remplacez par votre liste d'artistes
 artist_to_scrape = ['GIMS',
@@ -121,3 +135,6 @@ artist_to_scrape = ['GIMS',
 #for artist in artist_to_scrape:
     #artist_id = get_artist_id(artist)
     #print(f"ID pour {artist}: {artist_id}")
+    
+    
+all_artist_songs(artist_to_scrape)
