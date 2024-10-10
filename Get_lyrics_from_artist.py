@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 import random 
 from bs4 import BeautifulSoup
-import requests
+
 from tqdm import tqdm 
 import os
 
@@ -105,7 +105,6 @@ def all_artist_songs(artist_to_scrape):
         else:
             print(f"ID d'artiste non trouvé pour {artist}")
 
-
 # Liste d'artistes à scraper
 # Remplacez par votre liste d'artistes
 """
@@ -134,3 +133,4 @@ artist_to_scrape = ['GIMS',
     
     
 all_artist_songs(artist_to_scrape)
+
