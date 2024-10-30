@@ -1,0 +1,4 @@
+
+"{dataset_name}#csv":
+  type: pandas.CSVDataset
+  filepath: "C:\Users\carlf\Documents\GitHub\Lyrics-Generator-\all_songs\{dataset_name}.csv"

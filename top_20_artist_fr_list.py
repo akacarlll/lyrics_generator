@@ -1,3 +1,4 @@
+
 import pandas as pd 
 import numpy as np
 import random 
@@ -49,3 +50,4 @@ df = pd.DataFrame(top_20)
 df
 
 artist_to_scrape = df["Artiste"]
+
