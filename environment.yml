@@ -16,6 +16,7 @@ dependencies:
   - kedro
   - kedro-viz
   - kedro-datasets
+  - nltk
   - pip:
       - lyricsgenius  # Pour récupérer les paroles via l'API Genius
       - scikit-learn  # Pour des méthodes de prétraitement ou d'analyse
