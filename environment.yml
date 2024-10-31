@@ -1,9 +1,8 @@
-name: lyrics_pipeline_env
+name: lyrics_genius
 channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3.9
   - pandas
   - numpy
   - matplotlib
@@ -11,12 +10,8 @@ dependencies:
   - spotipy
   - requests
   - jupyterlab
-  - ipykernel
-  - re  # Package pour la manipulation de chaînes de caractères (regex)
+  - ipykernel  # Pour les notebooks Jupyter
   - kedro
   - kedro-viz
   - kedro-datasets
   - nltk
-  - pip:
-      - lyricsgenius  # Pour récupérer les paroles via l'API Genius
-      - scikit-learn  # Pour des méthodes de prétraitement ou d'analyse
