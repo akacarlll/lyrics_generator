@@ -5,6 +5,7 @@ import random
 import time
 import os
 from top_20_artist_fr_list import scrape_top_20
+from scrapping_wiki import clean_texts
 
 
 
@@ -116,13 +117,14 @@ def all_artist_songs(artist_to_scrape):
 # Liste d'artistes à scraper
 # Remplacez par votre liste d'artistes
 
-artist_to_scrape = scrape_top_20()
+#artist_to_scrape = scrape_top_20()
+artist_to_scrape = clean_texts()
  
 
 
  
-if __name__ == "__main__":
-    all_artist_songs(artist_to_scrape)  
+# if __name__ == "__main__":
+all_artist_songs(artist_to_scrape)  
     
 
 
