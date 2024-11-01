@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-# lyrics_generation documentation build
+# lyrics_generator documentation build
 # configuration file, created by sphinx-quickstart.
 #
 # This file is execfile()d with the current directory set to its
@@ -21,11 +21,11 @@
 import re
 
 from kedro.framework.cli.utils import find_stylesheets
-from lyrics_generation import __version__ as release
+from lyrics_generator import __version__ as release
 
 # -- Project information -----------------------------------------------------
 
-project = "lyrics_generation"
+project = "lyrics_generator"
 author = "Kedro"
 
 # The short X.Y version.
@@ -121,7 +121,7 @@ html_show_copyright = False
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = "lyrics_generationdoc"
+htmlhelp_basename = "lyrics_generatordoc"
 
 # -- Options for LaTeX output ------------------------------------------------
 
@@ -149,8 +149,8 @@ latex_elements = {
 latex_documents = [
     (
         master_doc,
-        "lyrics_generation.tex",
-        "lyrics_generation Documentation",
+        "lyrics_generator-.tex",
+        "lyrics_generator- Documentation",
         "Kedro",
         "manual",
     )
@@ -163,8 +163,8 @@ latex_documents = [
 man_pages = [
     (
         master_doc,
-        "lyrics_generation",
-        "lyrics_generation Documentation",
+        "lyrics_generator-",
+        "lyrics_generator- Documentation",
         [author],
         1,
     )
@@ -178,11 +178,11 @@ man_pages = [
 texinfo_documents = [
     (
         master_doc,
-        "lyrics_generation",
-        "lyrics_generation Documentation",
+        "lyrics_generator-",
+        "lyrics_generator- Documentation",
         author,
-        "lyrics_generation",
-        "Project lyrics_generation codebase.",
+        "lyrics_generator-",
+        "Project lyrics_generator- codebase.",
         "Data-Science",
     )
 ]

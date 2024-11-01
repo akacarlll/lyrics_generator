@@ -3,12 +3,12 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "lyrics_generation"
+name = "lyrics_generator"
 readme = "README.md"
 dynamic = ["dependencies", "version"]
 
 [project.scripts]
-lyrics-generation = "lyrics_generation.__main__:main"
+lyrics-generation = "lyrics_generator.__main__:main"
 
 [project.entry-points."kedro.hooks"]
 
@@ -33,15 +33,15 @@ dev = [
 
 [tool.setuptools.dynamic]
 dependencies = {file = "requirements.txt"}
-version = {attr = "lyrics_generation.__version__"}
+version = {attr = "lyrics_generator.__version__"}
 
 [tool.setuptools.packages.find]
 where = ["src"]
 namespaces = false
 
 [tool.kedro]
-package_name = "lyrics_generation"
-project_name = "Lyrics Generation"
+package_name = "lyrics_generator"
+project_name = "lyrics_generator"
 kedro_init_version = "0.19.9"
 tools = ['Linting', 'Testing', 'Documentation', 'Data Structure', 'Kedro Viz']
 example_pipeline = "False"
@@ -50,7 +50,7 @@ source_dir = "src"
 [tool.pytest.ini_options]
 addopts = """
 --cov-report term-missing \
---cov src/lyrics_generation -ra"""
+--cov src -ra"""
 
 [tool.coverage.report]
 fail_under = 0
@@ -73,3 +73,5 @@ select = [
     "T201", # Print Statement
 ]
 ignore = ["E501"]  # Ruff format takes care of line-too-long
+[tool.kedro_telemetry]
+project_id = "6b89bb863a1844fdab29c3920a079271"
