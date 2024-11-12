@@ -23,3 +23,8 @@ def clean_lyrics(lyrics):
     # Supprimer les espaces supplémentaires
     lyrics = re.sub(r'\s+', ' ', lyrics).strip()
     return lyrics
+
+def clean_lyrics_column(df:pd.DataFrame)-> pd.DataFrame:
+    """Nettoie les paroles dans la colonne 'lyrics' de chaque ligne du DataFrame."""
+    df['Lyrics'] = df['Lyrics'].apply(clean_lyrics)
+    return df

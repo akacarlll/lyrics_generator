@@ -8,7 +8,7 @@ readme = "README.md"
 dynamic = ["dependencies", "version"]
 
 [project.scripts]
-lyrics-generation = "lyrics_generator.__main__:main"
+lyrics_generator = "lyrics_generator.__main__:main"
 
 [project.entry-points."kedro.hooks"]
 

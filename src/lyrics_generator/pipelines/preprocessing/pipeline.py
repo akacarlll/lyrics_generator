@@ -1,13 +1,41 @@
-from .nodes import clean_lyrics, create_wordcloud, get_genre, get_release_year
+from .nodes import clean_lyrics_column, is_french, concatenate
 from kedro.pipeline import Pipeline, node
+from lyrics_generator.pipelines.preprocessing.list import get_file_names
 
+folder_path = r"C:\Users\carlf\Documents\GitHub\lyrics_generator\data\01_raw"
 
-def create_pipeline(**kwargs):
-    return Pipeline([
-        node(
-            func=clean_df,
-            inputs="raw_data",  # Remplace "raw_data" par le dataset approprié
-            outputs="cleaned_data",  # Le nom du dataset de sortie
-            name="clean_df_node"
+def create_pipeline(folder_path, **kwargs):
+    pipeline_nodes = []
+    file_name = get_file_names(folder_path)
+    french_datasets = []
+    for dataset_name in file_name :
+        pipeline_nodes.append(
+            node(
+                func=clean_lyrics_column,
+                inputs=f"{dataset_name}#csv",
+                outputs=f"cleaned_{dataset_name}",
+                name=f"clean_{dataset_name}"
+            ), 
         )
-    ])
+        # Ajoute le nœud de vérification de langue
+        french_output = f"french_{dataset_name}"
+        pipeline_nodes.append(
+            node(
+                func=is_french,
+                inputs=f"cleaned_{dataset_name}",
+                outputs=french_output,
+                name= f"french_{dataset_name}"
+            )
+        )
+        french_datasets.append(french_output)
+
+    # Ajoute le nœud de concaténation pour tous les jeux de données en français
+    pipeline_nodes.append(
+        node(
+            func=concatenate,
+            inputs=french_datasets,  # Utilisation de tous les noms de datasets en entrée
+            outputs="all_lyrics",
+            name="concatenate_all_lyrics"
+        )
+    )
+    return Pipeline(pipeline_nodes)

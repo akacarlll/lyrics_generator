@@ -2,7 +2,7 @@
 
 import pandas as pd
 
-def concatenate(dfs: list) -> pd.DataFrame:
+def concatenate(*dfs) -> pd.DataFrame:
     """
     Concatène une liste de DataFrames en un seul DataFrame.
 

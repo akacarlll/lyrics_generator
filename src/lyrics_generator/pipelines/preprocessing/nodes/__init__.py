@@ -1,9 +1,8 @@
-from preprocessing.nodes._clean_lyrics import clean_lyrics
-from preprocessing.nodes._word_cloud import create_wordcloud
-from preprocessing.nodes._get_genre import get_genre
-from preprocessing.nodes._get_year import get_release_year
-from preprocessing.nodes._tokenizing import tokenize
-from preprocessing.nodes._concatenate import concatenate
+
+from lyrics_generator.pipelines.preprocessing.nodes._tokenizing import tokenize
+from lyrics_generator.pipelines.preprocessing.nodes._concatenate import concatenate
+from lyrics_generator.pipelines.preprocessing.nodes._clean_lyrics import clean_lyrics_column
+from lyrics_generator.pipelines.preprocessing.nodes._is_french import is_french
 
 
-__all__ = ["clean_lyrics", "create_wordcloud", "get_genre", "get_release_year", "tokenize", "concatenate" ]
+__all__ = ["clean_lyrics_column", "tokenize", "concatenate", "is_french" ]

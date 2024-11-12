@@ -3,7 +3,7 @@ import pandas as pd
 from spotipy import Spotify
 from spotipy.oauth2 import SpotifyClientCredentials
 
-def get_genre(df, client_id, client_secret):
+def get_genre(df:pd.DataFrame, client_id: str, client_secret:str)-> pd.DataFrame:
     """
     Récupère le genre musical pour chaque artiste unique dans la colonne 'Artist' d'une DataFrame.
 

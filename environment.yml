@@ -16,3 +16,4 @@ dependencies:
   - kedro-datasets
   - nltk
   - lyricsgenius
+  - langdetect
