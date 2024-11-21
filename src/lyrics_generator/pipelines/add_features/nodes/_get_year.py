@@ -1,29 +1,37 @@
 import pandas as pd
 from spotipy import Spotify
 from spotipy.oauth2 import SpotifyClientCredentials
+import time 
+import random
 
-def get_release_year(df, client_id, client_secret):
+# Configuration pour accéder à l'API Spotify (remplace par tes propres identifiants)
+CLIENT_ID = "c14b20ba16e147ffb6af73cc595b861a"
+CLIENT_SECRET = '0e38f48d57264d06a5d6ec44af587f02'
+REDIRECT_URI = 'https://github.com/akacarlll/Lyrics-Generator-'  # Assure-toi que cette URL est configurée dans ton application Spotify
+SCOPE = 'user-library-read user-read-recently-played'
+
+def add_release_year_column(df):
     """
-    Récupère l'année de sortie pour chaque titre dans la DataFrame.
+    Ajoute une colonne 'Release_Year' au DataFrame contenant les années de sortie des chansons.
     
     Paramètres :
-    - df : DataFrame contenant les colonnes 'Artist' et 'Track' pour les noms d'artistes et les titres de chansons.
+    - df : DataFrame contenant les colonnes 'Artist' et 'Title' pour les noms d'artistes et les titres de chansons.
     - client_id : ID client pour l'API Spotify.
     - client_secret : Secret client pour l'API Spotify.
     
     Retourne :
-    - Un dictionnaire avec les titres comme clés et leurs années de sortie comme valeurs.
+    - Le DataFrame avec une nouvelle colonne 'Release_Year'.
     """
     
     # Authentification avec Spotify
-    sp = Spotify(client_credentials_manager=SpotifyClientCredentials(client_id=client_id, client_secret=client_secret))
+    sp = Spotify(client_credentials_manager=SpotifyClientCredentials(client_id="c14b20ba16e147ffb6af73cc595b861a", client_secret='0e38f48d57264d06a5d6ec44af587f02'))
     
-    # Dictionnaire pour stocker l'année de sortie de chaque chanson
-    track_release_years = {}
+    # Liste pour stocker les années de sortie
+    release_years = []
     
     for index, row in df.iterrows():
         artist_name = row['Artist']
-        track_name = row['Track']
+        track_name = row['Title']
         
         try:
             # Recherche de la chanson sur Spotify
@@ -36,14 +44,19 @@ def get_release_year(df, client_id, client_secret):
                 if release_date:
                     # Extraire uniquement l'année
                     release_year = release_date.split("-")[0]
-                    track_release_years[(artist_name, track_name)] = release_year
+                    release_years.append(release_year)
                 else:
-                    track_release_years[(artist_name, track_name)] = "Date inconnue"
+                    release_years.append("Date inconnue")
             else:
-                track_release_years[(artist_name, track_name)] = "Non trouvé"
+                release_years.append("Non trouvé")
                 
         except Exception as e:
             print(f"Erreur pour le titre '{track_name}' de l'artiste {artist_name}: {e}")
-            track_release_years[(artist_name, track_name)] = "Erreur"
+            release_years.append("Erreur")
+        wait = random.uniform(0.001,0.02)
+        time.sleep(wait)
+        print(f"Sleeping for {wait:.2f} seconds before the next download...")
+    # Ajouter la colonne 'Release_Year' au DataFrame
+    df['Release_Year'] = release_years
     
-    return track_release_years
+    return df

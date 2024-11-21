@@ -2,12 +2,10 @@ import re
 import pandas as pd
 
 
-
 def clean_lyrics(lyrics):
     """Nettoie les paroles en deux étapes."""
     # Étape 1: Supprimer tout avant la première occurrence de "Lyrics"
     lyrics = re.sub(r'^.*?Lyrics\s*', '', lyrics, flags=re.DOTALL).strip()
-    
     # Étape 2: Supprimer le mot "Lyrics"
     lyrics = re.sub(r'\bLyrics\b', '', lyrics).strip()
     
@@ -22,6 +20,12 @@ def clean_lyrics(lyrics):
     
     # Supprimer les espaces supplémentaires
     lyrics = re.sub(r'\s+', ' ', lyrics).strip()
+    
+    lyrics = lyrics.replace('You might also like', '')
+    
+    # Retirer les espaces multiples
+    lyrics = ' '.join(lyrics.split())
+    
     return lyrics
 
 def clean_lyrics_column(df:pd.DataFrame)-> pd.DataFrame:

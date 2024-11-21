@@ -1,4 +1,4 @@
-from .nodes import clean_lyrics_column, is_french, concatenate
+from .nodes import clean_lyrics_column, is_french, concatenate, remove_fake_lyrics, tokenize
 from kedro.pipeline import Pipeline, node
 from lyrics_generator.pipelines.preprocessing.list import get_file_names
 
@@ -16,26 +16,34 @@ def create_pipeline(folder_path, **kwargs):
                 outputs=f"cleaned_{dataset_name}",
                 name=f"clean_{dataset_name}"
             ), 
-        )
-        # Ajoute le nœud de vérification de langue
-        french_output = f"french_{dataset_name}"
+        ),
         pipeline_nodes.append(
             node(
-                func=is_french,
+                func=remove_fake_lyrics,
                 inputs=f"cleaned_{dataset_name}",
-                outputs=french_output,
-                name= f"french_{dataset_name}"
-            )
-        )
-        french_datasets.append(french_output)
+                outputs=f"_{dataset_name}_lyrics",
+                name=f"{dataset_name}_lyrics"
+            ), 
+        ),
+    #     # Ajoute le nœud de vérification de langue
+    #     french_output = f"french_{dataset_name}"
+    #     pipeline_nodes.append(
+    #         node(
+    #             func=is_french,
+    #             inputs=f"cleaned_{dataset_name}",
+    #             outputs=french_output,
+    #             name= f"french_{dataset_name}"
+    #         )
+    #     )
+    #     french_datasets.append(french_output)
 
-    # Ajoute le nœud de concaténation pour tous les jeux de données en français
-    pipeline_nodes.append(
-        node(
-            func=concatenate,
-            inputs=french_datasets,  # Utilisation de tous les noms de datasets en entrée
-            outputs="all_lyrics",
-            name="concatenate_all_lyrics"
-        )
-    )
+    # # Ajoute le nœud de concaténation pour tous les jeux de données en français
+    # pipeline_nodes.append(
+    #     node(
+    #         func=concatenate,
+    #         inputs=french_datasets,  # Utilisation de tous les noms de datasets en entrée
+    #         outputs="all_lyrics",
+    #         name="concatenate_all_lyrics"
+    #     )
+    # )
     return Pipeline(pipeline_nodes)

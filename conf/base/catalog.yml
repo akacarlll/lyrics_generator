@@ -32,4 +32,24 @@ cleaned_{dataset_name}:
   save_args:
     index: False
 
+"{dataset_name}#xlsx":
+  type: pandas.ExcelDataset
+  filepath: C:/Users/carlf/Documents/GitHub/lyrics_generator/data/02_intermediate/{dataset_name}.xlsx
+  save_args: 
+    encoding: 'utf-8'
+# "{dataset_name}#xlsx":
+#   type: pandas.ExcelDataset
+#   filepath: C:/Users/carlf/Documents/GitHub/lyrics_generator/data/02_intermediate/{dataset_name}.xlsx
+#   save_args: 
+#     encoding: 'utf-8'
+
+
+# _{dataset_name}_lyrics:
+#   <<: *csv
+#   filepath: C:/Users/carlf/Documents/GitHub/lyrics_generator/data/03_primary/_{dataset_name}_lyrics.xlsx  # Extension changée en .xlsx
+#   save_args:
+#     index: False
+
+
+
 
