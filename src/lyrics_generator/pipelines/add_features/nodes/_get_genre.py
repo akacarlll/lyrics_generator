@@ -1,12 +1,11 @@
 import pandas as pd
 from spotipy import Spotify
 from spotipy.oauth2 import SpotifyClientCredentials
+from conf.local.settings import CLIENT_ID, CLIENT_SECRET, REDIRECT_URI, SCOPE
 
 # Configuration pour accéder à l'API Spotify (remplace par tes propres identifiants)
-CLIENT_ID = "c14b20ba16e147ffb6af73cc595b861a"
-CLIENT_SECRET = '0e38f48d57264d06a5d6ec44af587f02'
-REDIRECT_URI = 'https://github.com/akacarlll/Lyrics-Generator-'  # Assure-toi que cette URL est configurée dans ton application Spotify
-SCOPE = 'user-library-read user-read-recently-played'
+CLIENT_ID = CLIENT_ID
+CLIENT_SECRET = CLIENT_SECRET
 
 def add_genre_column(df: pd.DataFrame) -> pd.DataFrame:
     """

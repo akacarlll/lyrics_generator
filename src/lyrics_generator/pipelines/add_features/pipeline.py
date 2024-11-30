@@ -12,7 +12,6 @@ def create_pipeline2(folder_path, **kwargs):
         pipeline_nodes.extend([
             node(
                 func=add_genre_column,
-                # inputs=f"_{dataset_name}_lyrics",  # Utilise le nom original du dataset
                 inputs=f"{dataset_name}",
                 outputs=f"genred_{dataset_name}",
                 name=f"genred_{dataset_name}"

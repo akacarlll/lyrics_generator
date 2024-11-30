@@ -1,4 +1,4 @@
-Artist,Title,Lyrics
+GeniusName,Title,Lyrics,Artist
 Sopra M'baba,Hiro,"57 ContributorsHiro Lyrics[Intro]
 J’aurais aimé voyager à travers le temps
 J’aurais aimé voyager à travers le temps
@@ -70,7 +70,7 @@ Donc j’inspire un grand coup et je souffle sur ma 30ème bougie…
 [Outro]
 J’aurais aimé voyager à travers le temps
 Mais on ne peut vivre que le présent
-On ne peut vivre que le présent12Embed"
+On ne peut vivre que le présent12Embed",Soprano
 Sopra M'baba,Marche,"92 ContributorsMarche Lyrics[Paroles de ""Marche"" ft. Jamel Debbouze, Still Fresh, Taïro, S.Pri Noir, Sadek, Sneazzy, Nekfeu, Kool Shen, Disiz La Peste, Akhenaton, Lino, Nessbeal, Soprano & Dry]
 
 [Intro extraite du film ""La Marche"" - Olivier Gourmet]
@@ -222,7 +222,7 @@ Des émissions d'actu pourries de la haine font le socle
 Quel nom prédestiné : ""TNT""
 Toutes nos illusions d'unité dynamitées
 [Outro extraite du film ""La Marche"" - Jamel Debbouze]
-Moi aussi j'suis un marcheur ! ... La France est comme une mobylette : pour avancer, il lui faut du mélange !27Embed"
+Moi aussi j'suis un marcheur ! ... La France est comme une mobylette : pour avancer, il lui faut du mélange !27Embed",Soprano
 Sopra M'baba,Le temps d’un instant,"1 ContributorLa chute de la maison Usher LyricsSon cœur est un luth suspendu ;
 Sitôt qu’on le touche, il résonne.
 
@@ -391,7 +391,7 @@ Ici, il se dressa furieusement sur ses pieds, et hurla ces syllabes, comme si da
 
 À l’instant même, comme si l’énergie surhumaine de sa parole eût acquis la toute-puissance d’un charme, les vastes et antiques panneaux que désignait Usher entr’ouvrirent lentement leurs lourdes mâchoires d’ébène. C’était l’œuvre d’un furieux coup de vent ; — mais derrière cette porte se tenait alors la haute figure de lady Madeline Usher, enveloppée de son suaire. Il y avait du sang sur ses vêtements blancs, et toute sa personne amaigrie portait les traces évidentes de quelque horrible lutte. Pendant un moment, elle resta tremblante et vacillante sur le seuil ; — puis, avec un cri plaintif et profond, elle tomba lourdement en avant sur son frère, et, dans sa violente et définitive agonie, elle l’entraîna à terre, — cadavre maintenant et victime de ses terreurs anticipées.
 
-Je m’enfuis de cette chambre et de ce manoir, frappé d’horreur. La tempête était encore dans toute sa rage quand je franchissais la vieille avenue. Tout d’un coup, une lumière étrange se projeta sur la route, et je me retournai pour voir d’où pouvait jaillir une lueur si singulière, car je n’avais derrière moi que le vaste château avec toutes ses ombres. Le rayonnement provenait de la pleine lune qui se couchait, rouge de sang, et maintenant brillait vivement à travers cette fissure à peine visible naguère, qui, comme je l’ai dit, parcourait en zigzag le bâtiment depuis le toit jusqu’à la base. Pendant que je regardais, cette fissure s’élargit rapidement ; — il survint une reprise de vent, un tourbillon furieux ; — le disque entier de la planète éclata tout à coup à ma vue. La tête me tourna quand je vis les puissantes murailles s’écrouler en deux. — Il se fit un bruit prolongé, un fracas tumultueux comme la voix de mille cataractes, — et l’étang profond et croupi placé à mes pieds se referma tristement et silencieusement sur les ruines de la Maison Usher.Embed"
+Je m’enfuis de cette chambre et de ce manoir, frappé d’horreur. La tempête était encore dans toute sa rage quand je franchissais la vieille avenue. Tout d’un coup, une lumière étrange se projeta sur la route, et je me retournai pour voir d’où pouvait jaillir une lueur si singulière, car je n’avais derrière moi que le vaste château avec toutes ses ombres. Le rayonnement provenait de la pleine lune qui se couchait, rouge de sang, et maintenant brillait vivement à travers cette fissure à peine visible naguère, qui, comme je l’ai dit, parcourait en zigzag le bâtiment depuis le toit jusqu’à la base. Pendant que je regardais, cette fissure s’élargit rapidement ; — il survint une reprise de vent, un tourbillon furieux ; — le disque entier de la planète éclata tout à coup à ma vue. La tête me tourna quand je vis les puissantes murailles s’écrouler en deux. — Il se fit un bruit prolongé, un fracas tumultueux comme la voix de mille cataractes, — et l’étang profond et croupi placé à mes pieds se referma tristement et silencieusement sur les ruines de la Maison Usher.Embed",Soprano
 Sopra M'baba,Ferme les yeux et imagine toi,"23 ContributorsFerme les yeux et imagine toi Lyrics[Intro]
 Hey, Blacko Soprano...
 Sniper, Psy 4
@@ -479,7 +479,7 @@ Tu verras comme ta vie est belle !
 Ça n'arrive qu'aux autres, on ne réalise pas tant que ça ne nous touche pas
 On sait très bien ce qu'il se passe ailleurs mais on ose se plaindre
 Relativise, ferme les yeux et imagine-toi
-Tu verras comme ta vie est belle !5Embed"
+Tu verras comme ta vie est belle !5Embed",Soprano
 Sopra M'baba,Fresh Prince,"50 ContributorsFresh Prince Lyrics[Intro]
 Jeffrey !
 
@@ -560,7 +560,7 @@ Yeah, danse à la Carlton
 Will, danse à la Carlton
 Hé, hé danse à la Carlton
 Ha ha, on danse à la Carlton en Cosmopolitanie
-À la Carlton haha17Embed"
+À la Carlton haha17Embed",Soprano
 Sopra M'baba,Visage de la honte,"1 ContributorLa chute de la maison Usher LyricsSon cœur est un luth suspendu ;
 Sitôt qu’on le touche, il résonne.
 
@@ -729,7 +729,7 @@ Ici, il se dressa furieusement sur ses pieds, et hurla ces syllabes, comme si da
 
 À l’instant même, comme si l’énergie surhumaine de sa parole eût acquis la toute-puissance d’un charme, les vastes et antiques panneaux que désignait Usher entr’ouvrirent lentement leurs lourdes mâchoires d’ébène. C’était l’œuvre d’un furieux coup de vent ; — mais derrière cette porte se tenait alors la haute figure de lady Madeline Usher, enveloppée de son suaire. Il y avait du sang sur ses vêtements blancs, et toute sa personne amaigrie portait les traces évidentes de quelque horrible lutte. Pendant un moment, elle resta tremblante et vacillante sur le seuil ; — puis, avec un cri plaintif et profond, elle tomba lourdement en avant sur son frère, et, dans sa violente et définitive agonie, elle l’entraîna à terre, — cadavre maintenant et victime de ses terreurs anticipées.
 
-Je m’enfuis de cette chambre et de ce manoir, frappé d’horreur. La tempête était encore dans toute sa rage quand je franchissais la vieille avenue. Tout d’un coup, une lumière étrange se projeta sur la route, et je me retournai pour voir d’où pouvait jaillir une lueur si singulière, car je n’avais derrière moi que le vaste château avec toutes ses ombres. Le rayonnement provenait de la pleine lune qui se couchait, rouge de sang, et maintenant brillait vivement à travers cette fissure à peine visible naguère, qui, comme je l’ai dit, parcourait en zigzag le bâtiment depuis le toit jusqu’à la base. Pendant que je regardais, cette fissure s’élargit rapidement ; — il survint une reprise de vent, un tourbillon furieux ; — le disque entier de la planète éclata tout à coup à ma vue. La tête me tourna quand je vis les puissantes murailles s’écrouler en deux. — Il se fit un bruit prolongé, un fracas tumultueux comme la voix de mille cataractes, — et l’étang profond et croupi placé à mes pieds se referma tristement et silencieusement sur les ruines de la Maison Usher.Embed"
+Je m’enfuis de cette chambre et de ce manoir, frappé d’horreur. La tempête était encore dans toute sa rage quand je franchissais la vieille avenue. Tout d’un coup, une lumière étrange se projeta sur la route, et je me retournai pour voir d’où pouvait jaillir une lueur si singulière, car je n’avais derrière moi que le vaste château avec toutes ses ombres. Le rayonnement provenait de la pleine lune qui se couchait, rouge de sang, et maintenant brillait vivement à travers cette fissure à peine visible naguère, qui, comme je l’ai dit, parcourait en zigzag le bâtiment depuis le toit jusqu’à la base. Pendant que je regardais, cette fissure s’élargit rapidement ; — il survint une reprise de vent, un tourbillon furieux ; — le disque entier de la planète éclata tout à coup à ma vue. La tête me tourna quand je vis les puissantes murailles s’écrouler en deux. — Il se fit un bruit prolongé, un fracas tumultueux comme la voix de mille cataractes, — et l’étang profond et croupi placé à mes pieds se referma tristement et silencieusement sur les ruines de la Maison Usher.Embed",Soprano
 Sopra M'baba,Roule,"23 ContributorsRoule Lyrics[Couplet 1]
 Le jour se lève
 La vie reprend
@@ -794,7 +794,7 @@ Je refais le monde avec des si
 Oui je roule, roule, roule, roule, roule
 Jusqu'au bout de la nuit
 J’accélère, majeur en l'air
-En insultant ta foutue maladie5Embed"
+En insultant ta foutue maladie5Embed",Soprano
 Sopra M'baba,De Marseille à Paris,"36 ContributorsDe Marseille à Paris Lyrics[Paroles de ""De Marseille à Paris"" ft. Dr Bériz, Bedjik, H Magnum & Soprano]
 
 [Intro : Maitre Gims]
@@ -918,7 +918,7 @@ Le game n'est pas un trottoir pourquoi tu te prostitues ?
 Dédicace à Bedjik et à Shin Sekaï
 Avec un putain de flow qui découpe comme San ku kai
 Rien qu'jpars en live, faut qu'je fly
-Donc je vous dis bye bye bye bye bye-bye bye !4Embed"
+Donc je vous dis bye bye bye bye bye-bye bye !4Embed",Soprano
 Sopra M'baba,Ça fait mal (Remix),"41 ContributorsÇa fait mal (Remix) Lyrics[Intro - DJ Battle & Sefyu]
 Ok, this is the remix baby !
 Zehef
@@ -1002,7 +1002,7 @@ Il reste ma banquette arrière, yeah (Il reste ma banlieue Ouest)
 Dans une cage d'escalier, on peut l'faire
 On peut finir à l'hôtel si y'a plus d'place, sa mère
 Il reste ma banquette arrière, yeah
-Il reste ma banquette arrière, yeah (Il reste ma banlieue Ouest)1Embed"
+Il reste ma banquette arrière, yeah (Il reste ma banlieue Ouest)1Embed",Soprano
 Sopra M'baba,Regarde moi,"16 ContributorsRegarde moi Lyrics[Refrain]
 Regarde-moi, je suis la France d’en bas
 Le chômage et la crise, mec, c’est moi qui la combat
@@ -1090,7 +1090,7 @@ Le chômage et la crise, mec, c’est moi qui la combat
 Je vis au quotidien ce que tu ne connais pas
 Que tu ne comprends pas juste en bas de chez toi
 Regarde-moi ! (Ouais-ouais regarde-moi-moi !)
-Regarde-moi ! (Ouais-ouais regarde-moi-moi !)2Embed"
+Regarde-moi ! (Ouais-ouais regarde-moi-moi !)2Embed",Soprano
 Sopra M'baba,Dans mon monde,"17 ContributorsDans mon monde Lyrics[Paroles de ""Dans mon monde"" ft. Soprano]
 
 [Couplet 1 - Fababy]
@@ -1165,7 +1165,7 @@ J'reste dans mon monde j'reste dans mon monde
 Enfermé dans ma chambre j'reste dans mon monde
 Isolé dans mon coin j'reste dans mon monde
 À traîner dans l'quartier j'reste dans mon monde
-J'reste dans mon monde j'reste dans mon monde3Embed"
+J'reste dans mon monde j'reste dans mon monde3Embed",Soprano
 Sopra M'baba,Mon Everest,"25 ContributorsMon Everest Lyrics[Paroles de ""Mon Everest"" ft. Marina Kaye]
 
 [Couplet 1 : Soprano]
@@ -1241,7 +1241,7 @@ Tout est possible quand tu sais qui tu es
 Tout est possible quand t'assumes qui tu es
 Tout est possible quand tu sais qui tu es
 Tout est possible quand t'assumes qui tu es
-Marina, Soprano7Embed"
+Marina, Soprano7Embed",Soprano
 Sopra M'baba,Cosmo,"29 ContributorsCosmo Lyrics[Couplet 1]
 Où sont les filles, les femmes au tempérament de guerrières ?
 Oui qui savent comment faire la fête, qu'elles soient mères ou célibataires
@@ -1291,7 +1291,7 @@ Eh, eh, unis on est trop beau (trop beau) !
 Lalalala, lalalala
 Lalalala, lalalala
 Lalalala, lalalala
-Lalalala, lalalala21Embed"
+Lalalala, lalalala21Embed",Soprano
 Sopra M'baba,Halla Halla,"24 ContributorsHalla Halla Lyrics[Refrain: Soprano]
 Veux-tu vraiment que je cesse de parler des blocs ? (Oh no!)
 Veux-tu vraiment que je cesse de parler des jeunes ? (Oh no!)
@@ -1370,7 +1370,7 @@ Halla Halla ! Halla Halla !
 Pour les mecs des blocs c'est: ""Aye aye aye ah-ah !""
 Pour les quartiers d'France c'est: ""Aye aye aye ah-ah !""
 Pour les Marseillais c'est: ""Aye aye aye ah-ah !""
-Et si t'aimes pas c'est: ""Aïe aïe aïe !""2Embed"
+Et si t'aimes pas c'est: ""Aïe aïe aïe !""2Embed",Soprano
 Sopra M'baba,Follow Me,"3 ContributorsBlack Night LyricsWast El fighte fi wastt Elama
 Swagi black night Dalma
 Sarf el tama3 dah El 9amar
@@ -1459,7 +1459,7 @@ Kawav rouhek chouf flou
 Rassi ghir fil ma3assi w chitan y9abelou
 Yestenaw ghir fi mouti bach yebdaw ygaylou
 موش فخرة ناس داوي لحرابش كي لملاوي في حومنا لجنداري شيخة تسكتلك الكلاوي كراكة مانيش هاوي
-فراقة موش هواوي حراقة و العيساوي ثوق و منحبوش كساويEmbed"
+فراقة موش هواوي حراقة و العيساوي ثوق و منحبوش كساويEmbed",Soprano
 Sopra M'baba,Moi j’ai pas,"42 ContributorsMoi j’ai pas Lyrics[Couplet 1]
 Moi j'ai pas la culture d'AKH
 Ni la plume de Oxmo, ni la culture du Double H
@@ -1535,7 +1535,7 @@ Toi t'es pas moi Sopra'M'Baba
 [Outro]
 Yeah
 Demande pas d'être quelqu'un d'autre
-Yeah5Embed"
+Yeah5Embed",Soprano
 Sopra M'baba,Combien,"35 ContributorsCombien Lyrics[Paroles de ""Combien"" ft. Many, JuL, Solda, Moubarak, Soprano, Elams, Soso Maness, Veazy, Jhonson]
 
 [Couplet 1 : Many]
@@ -1677,7 +1677,7 @@ Je charbonne, j'travaille, le reste c'est le bon Dieu (le reste c'est le bon Die
 Tard la night, combien j'ai fait de vœux (combien j'ai fait de vœux)
 Je charbonne, j'travaille, le reste c'est le bon Dieu (le reste c'est le bon Dieu)
 Tard la night, combien j'ai fait de vœux (combien j'ai fait de vœux)
-Je charbonne, j'travaille, le reste c'est le bon Dieu (le reste c'est le bon Dieu)Embed"
+Je charbonne, j'travaille, le reste c'est le bon Dieu (le reste c'est le bon Dieu)Embed",Soprano
 Sopra M'baba,Au bout du chemin,"16 ContributorsAu bout du chemin Lyrics[Couplet 1: Sadek]
 Laisse les penser qu'j'irai jamais nulle part
 La seule chose qui peut m’arrêter c'est une balle
@@ -1747,7 +1747,7 @@ Regarde moi la tête haute au bout du chemin
 J'ai perdu l'sommeil et j'pense qu'à demain
 Mais qu'est-ce qui m'attend au bout du chemin ?
 Qu'importe le sacrifice que je dois faire pour y arriver
-L'important est que j'sois au bout du cheminEmbed"
+L'important est que j'sois au bout du cheminEmbed",Soprano
 Sopra M'baba,Bafana Bafana (Remix),"35 ContributorsBafana Bafana (Remix) Lyrics[Couplet 1 : La Fouine]
 Les keufs frappent on n'ouvre pas, Banlieue Sale t'approuves pas
 Ton équipe c'est personne ma gueule, même Google te trouve pas
@@ -1865,7 +1865,7 @@ Chargez, Chargez
 Char-char-char-char-char-chargez
 Banlieue Sale, Banlieue-Banlieue Sale
 Banlieue Sale, Banlieue-Banlieue Sale
-Chargez, Chargez1Embed"
+Chargez, Chargez1Embed",Soprano
 Sopra M'baba,Fais le Moonwalk,"12 ContributorsFais le Moonwalk Lyrics[Paroles de ""Fais le Moonwalk"" ft. Soprano & JuL]
 
 [Intro : Soprano]
@@ -1966,7 +1966,7 @@ Quand t’entends Sopra Jul, fais le moonwalk
 Quand t’entends DJ Abdel, fais le moonwalk
 Quand t’entends DJ Kost, fais le moonwalk
 Quand t’arrives à Marseille, fais le moonwalk
-En boite en survêt’ Lacoste, fais le moonwalk2Embed"
+En boite en survêt’ Lacoste, fais le moonwalk2Embed",Soprano
 Sopra M'baba,Clown,"21 ContributorsClown Lyrics[Couplet 1]
 Désolé ce soir je n'ai pas le sourire
 Je fais mine d'être sur la piste malgré la routine
@@ -2021,7 +2021,7 @@ Lalalalala lalala lala
 [Outro]
 Désolé ce soir je n'ai pas le sourire
 J'ai le maquillage qui coule, mes larmes font de la lessive
-Sur mon visage de clown (mon visage de clown)4Embed"
+Sur mon visage de clown (mon visage de clown)4Embed",Soprano
 Sopra M'baba,Les portes du pénitencier (Version longue),"42 ContributorsLes portes du pénitencier (Version longue) Lyrics[Intro]
 Andy Dufresnes nous avait tous fait rêver avec son coup d'éclat musical
 Mais il avait passé deux semaines au trou pour ça
@@ -2273,7 +2273,7 @@ Pour que tu puisses nous entendre parler sans avoir à passer sur les ondes
 On t'met de côté les meilleurs plans, les meilleures blagues, les meilleures anecdotes
 Tu peux compter sur tes potes quand on t'ouvrira les portes
 
-[Refrain : Nemir]18Embed"
+[Refrain : Nemir]18Embed",Soprano
 Sopra M'baba,13 Organisé (Bonus Track),"33 Contributors13 Organisé (Bonus Track) Lyrics[Paroles de ""13 Organisé"" ft. Many, Akhenaton, K-Ra, Jazzy Jazz, Sysa, Don Choa, 2Bang, Moubarak, Tonyno, Shurik’n, Dadinho, A-Deal, MOH, Zak & Diego, Graya, Sauzer, Sat l’Artificier, Zbig, Menzo, Youzi, Oussagaza, SAF, Soso Maness, Jhonson, Fahar, Stone Black, DRIME, Le Rat Luciano, 100 Blaze, L’Algérino, Alonzo, Soprano, Veazy, AM La Scampia, Keny Arkana, Friz, Djiha, Kamikaz, Thabiti, As, Bilk, Elams, Solda, Kofs, Houari, JuL, SCH & Naps]
 
 [Intro : Naps]
@@ -2803,7 +2803,7 @@ On met ton camp sur le banc, j'ai le col levé à la Cantona
 Crois pas qu'la vie c'est un dream car, dehors, c'est marche ou crève
 Moi, j'ai toujours la même team, j'fais toujours partie d'la crème
 J'ai connu l'âge d'or du rap, quelques déceptions dans le hood
-Moi, de la gloire, je m'en tape, avec les frères, on s'serre les coudesEmbed"
+Moi, de la gloire, je m'en tape, avec les frères, on s'serre les coudesEmbed",Soprano
 Sopra M'baba,Ils Nous Connaissent Pas,"29 ContributorsIls Nous Connaissent Pas Lyrics[Refrain]
 Ils nous connaissent pas, non non non non non
 Ils nous connaissent pas, non non non non non
@@ -2866,7 +2866,7 @@ Ils nous connaissent pas, non non non non non
 Ils nous connaissent pas, non non non non non
 Aujourd'hui ils nous parlent d'identité nationale, d'Europe etc
 Pendant que la jeunesse ne sait plus où elle va
-Non non non non non7Embed"
+Non non non non non7Embed",Soprano
 Sopra M'baba,Mon précieux,"14 ContributorsMon précieux Lyrics[Couplet 1]
 Ta douce mélodie me réveille chaque matin
 Avant même d'embrasser ma femme je te prends par la main
@@ -2923,7 +2923,7 @@ Mon précieux, mon précieux, mon précieux
 Mon précieux, mon précieux, mon précieux
 Mon précieux, mon précieux, mon précieux
 Mon précieux, mon précieux, mon précieux
-*Vous avez 39 nouvelles demandes d'amis, vous avez 120 nouveaux likes, vous n'avez pas vu vos amis depuis 2 mois, votre vie est digitale LOL*3Embed"
+*Vous avez 39 nouvelles demandes d'amis, vous avez 120 nouveaux likes, vous n'avez pas vu vos amis depuis 2 mois, votre vie est digitale LOL*3Embed",Soprano
 Sopra M'baba,La vie du binks,"23 ContributorsLa vie du binks Lyrics[Paroles de ""La vie du binks"" ft. Ninho, SCH, Leto, Soprano, Hornet La Frappe & Sadek]
 
 [Intro : Ninho]
@@ -3046,7 +3046,7 @@ J'ai rêvé d'Miami Beach, j'me suis taillé (J'me suis tiré)
 On vend le shit mais on est très bien organisés (J'me suis tiré)
 Tout l'monde est payé, le bosseur est sociable
 La vie du binks (Fucking binks), du fucking binks (Fucking binks)
-Eh, eh, eh2Embed"
+Eh, eh, eh2Embed",Soprano
 Sopra M'baba,A la bien,"21 ContributorsA la bien Lyrics[Intro]
 Envoie le mic à Marseille on le fait (à la bien)
 Pour les mecs en bas des blocs on le fait (à la bien)
@@ -3133,7 +3133,7 @@ J'te jure (fous la bien) cousin (à la bien)
 Pour toute la jeunesse de France on l'fait (à la bien)
 Pour les frangins enfermés on l'fait (à la bien)
 Pour mes amis sur MySpace on l'fait (à la bien)
-La famille (fous la bien) t'as compris (à la bien)1Embed"
+La famille (fous la bien) t'as compris (à la bien)1Embed",Soprano
 Sopra M'baba,La Mala,"8 ContributorsLa Mala Lyrics[Paroles de ""La Mala"" ft. Soprano]
 
 [Intro : Gradur & Soprano]
@@ -3196,7 +3196,7 @@ Prends les tickets, prends les tickets si tu veux rentrer au VIP
 Oui j’fais la mala, mala, mala, mala, mala
 Oui j’fais la mala, mala, mala, mala, mala
 Sopra' fait mala, mala, mala, mala, mala
-Et dur-Gra fait sa mala, mala, mala, mala, malaEmbed"
+Et dur-Gra fait sa mala, mala, mala, mala, malaEmbed",Soprano
 Sopra M'baba,Bario,"15 ContributorsBario Lyrics[Refrain - Soprano]
 Mama m'a dit vas-y vis deviens un homme
 Ne te fais pas absorber par cette vida loca
@@ -3255,7 +3255,7 @@ Bario, bario, bario, bario, ayaya
 Bario, bario, bario, bario, ayaya
 Bario, bario, bario, bario, ayaya
 
-[Refrain - Soprano]8Embed"
+[Refrain - Soprano]8Embed",Soprano
 Sopra M'baba,Le Diable ne s’habille plus en Prada,"24 ContributorsLe Diable ne s’habille plus en Prada Lyrics[Paroles de ""Le Diable ne s'habille plus en Prada""]
 
 [Couplet 1]
@@ -3320,7 +3320,7 @@ Depuis qu'on lui a pris son job
 Oui l’élève a dépassé son maître
 Oui l'élève a dépassé son maître
 Oui l'enfer est bien plus gros sur terre
-Depuis qu'les hommes font pire que Lucifer8Embed"
+Depuis qu'les hommes font pire que Lucifer8Embed",Soprano
 Sopra M'baba,Tout a changé,"22 ContributorsTout a changé Lyrics[Paroles de ""Tout a changé"" ft. Le Rat Luciano, Soprano, JuL, L'Algérino, Sysa, Solda, Menzo, Stone Black & Fahar]
 
 [Intro]
@@ -3464,7 +3464,7 @@ Tout a changé, tout a changé
 À la base, y avait pas d'avenir
 Tout a changé
 Tout a changé, tout a changé, tout a changé, tout a changé
-Tout a changé, tout a changé, tout a changé, tout a changéEmbed"
+Tout a changé, tout a changé, tout a changé, tout a changéEmbed",Soprano
 Sopra M'baba,Le retour des blocks,"8 ContributorsJamais j’oublierai - Shan LyricsJamais J'oublierai
 
 [Refrain]
@@ -3686,7 +3686,7 @@ Jump jump jump jump jump jumpt
 C'est haha ! (Haha !)
 C'est jump jump jump jump jump
 Jump jump jump jump jump jumpt
-C'est haha ! (Haha !)You might also likeEmbed"
+C'est haha ! (Haha !)You might also likeEmbed",Soprano
 Sopra M'baba,Puisqu’il faut vivre,"22 ContributorsPuisqu’il faut vivre Lyrics[Couplet unique]
 Yeah
 Puisqu'il faut vivre, autant l'faire avec le sourire
@@ -3755,7 +3755,7 @@ A.L.O.N, Vinz, Sya, yeah
 Puisqu'il faut vivre, autant l'faire avec le sourire
 Pour un meilleur avenir
 Yeah
-Sopra M'Baba, yeah3Embed"
+Sopra M'Baba, yeah3Embed",Soprano
 Sopra M'baba,Le son des bandits,"10 ContributorsR.A.P (Rimes Anti Personnel) Lyrics[Intro : Sam's]
 S.A.M.S
 Sopra M'baba
@@ -3852,7 +3852,7 @@ Et plombent l'ambiance un peu comme des fêtards calibrés
 Donc pas de panique, on arrive on manie la rime
 Habile manie ma mine magique, oui mon ami c'est...
 
-[Refrain - Soprano]Embed"
+[Refrain - Soprano]Embed",Soprano
 Sopra M'baba,Millionnaire,"10 ContributorsMillionnaire Lyrics[Couplet 1]
 Je veux être riche de ton sourire
 De ta volonté à reconstruire
@@ -3901,7 +3901,7 @@ Remplis-moi les poches d’espoir
 
 [Outro]
 Sois mon luxe, ma mine de diamants
-Sois mon luxe, ma mine de diamantsYou might also like3Embed"
+Sois mon luxe, ma mine de diamantsYou might also like3Embed",Soprano
 Sopra M'baba,Comme une bouteille à la mer,"29 ContributorsTranslationsEnglishLégendaire Lyrics[Paroles de ""Légendaire"" ft. Calbo, R.E.D.K., Lino, Oxmo Puccino, Soprano, JuL, Rim’K & SCH]
 
 [Intro : SCH]
@@ -4012,7 +4012,7 @@ Reçoit de nouveaux ients-cli et le Diable attend les remerciements
 Dehors, on compte les pertas, on nous vend la liberté
 Ça ressort la grosse Bertha, la révolte a déserté
 Kho, ici, c'est l'Omerta, jusqu'au bout, ils vont merder
-C'est tous les mêmes, tir dans l'tas, donc on va les alerter1Embed"
+C'est tous les mêmes, tir dans l'tas, donc on va les alerter1Embed",Soprano
 Sopra M'baba,Barman,"19 ContributorsBarman Lyrics[Couplet 1]
 Comme tous les matins avant d’aller sur le chantier
 Il vient me parler de tous ses problèmes de foyer
@@ -4067,7 +4067,7 @@ Ils m’ont tous saoulé
 
 [Outro]
 Ils m’ont tous saoulé
-Oh Jeffrey, tu me remets des glaçons ?You might also like2Embed"
+Oh Jeffrey, tu me remets des glaçons ?You might also like2Embed",Soprano
 Sopra M'baba,Le Mzé,"4 ContributorsGoldorak LyricsPartie 1
 
 [Intro]
@@ -4132,7 +4132,7 @@ Alonzo m'a dit ""finis-les"", donc j'arrache à César ce qui appartient à PSY4
 Ah-ah-ah, ah-ah-ah, ah-ah-ah
 Ah-ah-ah, ah-ah-ah, ah-ah-ah
 J'me relève à chaque fois comme un vaillant
-Car on ne perd jamais tant qu'on est vivantEmbed"
+Car on ne perd jamais tant qu'on est vivantEmbed",Soprano
 Sopra M'baba,En feu,"24 ContributorsEn feu Lyrics[Intro]
 J'suis en feu (j'suis chaud, j'suis chaud, j'suis chaud)
 J'suis en feu (j'suis chaud, j'suis chaud, j'suis chaud)
@@ -4246,7 +4246,7 @@ J'suis en feu
 [Outro]
 Oh oh oh oh, appelle les pompiers
 Oh oh oh oh, appelle les pompiers
-Appelle les pompiers4Embed"
+Appelle les pompiers4Embed",Soprano
 Sopra M'baba,Le monde est...,"5 ContributorsLe monde est chaud LyricsLe monde est chaud, le monde est chaud, le monde a chaud
 Le monde est chaud, le monde est chaud, le monde a chaud
 Le monde est chaud, le monde est chaud, le monde a chaud
@@ -4299,7 +4299,7 @@ Lo Lo kelebe Ndounia yoro dora
 Le monde est chaud, le monde est chaud, le monde a chaud
 Le monde est chaud, le monde est chaud, le monde a chaud
 Le monde est chaud, le monde est chaud, le monde a chaud
-Le monde est chaud, le monde est chaud, le monde a chaudEmbed"
+Le monde est chaud, le monde est chaud, le monde a chaudEmbed",Soprano
 Sopra M'baba,No Me Mires Más,"19 ContributorsNo Me Mires Más Lyrics[Paroles de ""No Me Mires Más"" ft. Soprano]
 
 [Refrain : Kendji]
@@ -4401,7 +4401,7 @@ Amigo, amigo
 Tú juegas con el peligro
 Amigo, amigo
 Amigo, amigo
-Tú juegas con el peligroEmbed"
+Tú juegas con el peligroEmbed",Soprano
 Sopra M'baba,Le coach,"15 ContributorsLe coach Lyrics[Intro : Soprano]
 Hey
 Ouh nananana
@@ -4478,7 +4478,7 @@ Allez, allez, allez, allez
 Abdos, dips, pompes, barre, abdos, dips, pompes, barre
 Enchaînez les squats, enchaînez les squats, enchaînez les squats, squats, squats
 Abdos, dips, pompes, barre, abdos, dips, pompes, barre
-Allez, dix secondes de récup' et on repartEmbed"
+Allez, dix secondes de récup' et on repartEmbed",Soprano
 Sopra M'baba,La promesse,"31 ContributorsLa promesse Lyrics[Couplet 1 : Soprano]
 Oh Mama, j’tiendrai mes promesses plus qu’Obama
 J’tiendrai mes promesses plus que Métierama
@@ -4606,7 +4606,7 @@ Tu verras, j’t’en fais la promesse
 Oh Mama
 Mama, j'me bats
 Je vais m’en sortir
-C’est ma promesse3Embed"
+C’est ma promesse3Embed",Soprano
 Sopra M'baba,Inaya,"12 ContributorsInaya Lyrics[Intro]
 J'ai souvent eu tendance, à rapper ma peine
 Aujourd'hui j'viens chanter ma joie, Inaya
@@ -4675,7 +4675,7 @@ Oh Inaya
 Oh Inaya
 
 [Outro]
-Yeah Inaya, ma fille, ma vie…2Embed"
+Yeah Inaya, ma fille, ma vie…2Embed",Soprano
 Sopra M'baba,Zoum,"20 ContributorsZoum Lyrics[Paroles de ""Zoum"" ft. Niska]
 
 [Intro : Soprano & Niska]
@@ -4763,7 +4763,7 @@ Comme Savastano dans la Scampia (Savastano dans la, méchant, méchant, méchant
 On vient rentrer dans la leyenda (Sopra M'Baba, Sopra M'Baba, Sopra M'Baba, Sopra M'Baba)
 Nah, yah
 [Outro : Niska]
-SaleEmbed"
+SaleEmbed",Soprano
 Sopra M'baba,J’te parle,"21 ContributorsJ’te parle Lyrics[Refrain : Soprano]
 Ce qui nous anime c'est le combat qu'on doit mener
 Facile d'être lâche et d'abandonner
@@ -4838,7 +4838,7 @@ En gros je te parle de nos vies, sûrement de la tienne aussi
 Ce qui nous anime c'est le combat qu'on doit mener
 Facile d'être lâche et d'abandonner
 On s'doit d'en parler, de les déranger, tout ça doit changer
-On s'doit d'en parler, de les dérangerEmbed"
+On s'doit d'en parler, de les dérangerEmbed",Soprano
 Sopra M'baba,Afrika,"22 ContributorsAfrika Lyrics[Couplet 1: Soprano]
 J’ai la peau couleur pétrole donc tu connais ma richesse
 Beaucoup trop loin sont mes Comores donc tu connais ma tristesse
@@ -4918,7 +4918,7 @@ Bo m'ba kardja udiwaza, gardjo uredjeyi incha'Allah
 - Nan y’a chanter et rapper, lui il rappe
 - Nan qu’il fasse du rap, du raï ou du kuduro à m’ment donné c’est la même mayonnaise
 - Là c’est du rap c’est pas du chant
-- Nan écoutes-moi, qu’il rap ou qu’il chante c’est pareil, il chante c’est bien, nan tais-toi, à m’ment donné, il a qu’a rapper comme ça lui chante, et voilà, point barre, c'est pas con ces jeunes là...Embed"
+- Nan écoutes-moi, qu’il rap ou qu’il chante c’est pareil, il chante c’est bien, nan tais-toi, à m’ment donné, il a qu’a rapper comme ça lui chante, et voilà, point barre, c'est pas con ces jeunes là...Embed",Soprano
 Sopra M'baba,Accroche-toi à mes ailes,"17 ContributorsAccroche-toi à mes ailes Lyrics[Couplet 1]
 Des familles sous l'périph, des élèves en manif'
 Des étés sous la pluie une jeunesses en treillis
@@ -5006,7 +5006,7 @@ Accroche-toi à mes ailes (Lenny)
 Accroche-toi à mes ailes (merci à tout ceux qui ont acheté ce disque)
 Accroche-toi à mes ailes (ceux qui m'soutiennent depuis longtemps)
 Accroche-toi à mes ailes (tout ceux qui savent que la vie c'est XX)
-Yeah, Sopra m'baba5Embed"
+Yeah, Sopra m'baba5Embed",Soprano
 Sopra M'baba,À plumes ouvertes,"24 ContributorsÀ plumes ouvertes Lyrics[Couplet 1: R.E.D.K.]
 J'ai pas de p'tites coupures, ils me comprennent par crainte du Seigneur
 Et vu la tournure que les choses prennent, je crains le pire, espère le meilleur
@@ -5088,7 +5088,7 @@ Pourquoi ça coupe? On est à l'époque du serato
 Merde, je crois que ma plume a bu un coup d'trop
 Faut qu'elle décuve, on va la prendre pour une alcoolo
 C'était E=2MC's ma poule
-Voilà ce qui se passe quand on laisse la parole à nos plumes2Embed"
+Voilà ce qui se passe quand on laisse la parole à nos plumes2Embed",Soprano
 Sopra M'baba,Meskine,"12 ContributorsMeskine Lyrics[Intro : Soprano & R.E.D.K]
 Ego... trip
 Pour qu'les gars... tripent
@@ -5173,7 +5173,7 @@ Shoote-les (shoote-les) Shoote-les (shoote-les) Shoote-les tous !
 Shoote-les tous ! Shoote-les tous ! Shoote-les ! R.E.D.K...
 Shoote-les (shoote-les) Shoote-les (shoote-les) Shoote-les (shoote-les)
 Shoote-les tous ! Shoote-les tous ! Shoote-les tous ! Shoote-les !
-Haaaaha !Embed"
+Haaaaha !Embed",Soprano
 Sopra M'baba,C’est que du rap,"42 ContributorsC’est que du rap Lyrics[Couplet 1 : Oli & Soprano]
 Allô les rappeurs, ça faisait longtemps
 On a fait chanter toute la France comme une chorale
@@ -5320,7 +5320,7 @@ Je ne comprends pas pourquoi tu parles, c'est que du rap !
 La la la la la la la, la la la la la la la, la la la la la la la
 La la la la la la la, la la la la la la la, la la la la la la la
 La la la la la la la, la la la la la la la, la la la la la la la
-La la la la la la la, la la la la la la la, la la la la la la la5Embed"
+La la la la la la la, la la la la la la la, la la la la la la la5Embed",Soprano
 Sopra M'baba,Légendaire,"29 ContributorsTranslationsEnglishLégendaire Lyrics[Paroles de ""Légendaire"" ft. Calbo, R.E.D.K., Lino, Oxmo Puccino, Soprano, JuL, Rim’K & SCH]
 
 [Intro : SCH]
@@ -5431,7 +5431,7 @@ Reçoit de nouveaux ients-cli et le Diable attend les remerciements
 Dehors, on compte les pertas, on nous vend la liberté
 Ça ressort la grosse Bertha, la révolte a déserté
 Kho, ici, c'est l'Omerta, jusqu'au bout, ils vont merder
-C'est tous les mêmes, tir dans l'tas, donc on va les alerter1Embed"
+C'est tous les mêmes, tir dans l'tas, donc on va les alerter1Embed",Soprano
 Sopra M'baba,La colombe,"21 ContributorsLa colombe Lyrics[Intro]
 Hey les gars
 J'voudrais juste poser un texte
@@ -5536,7 +5536,7 @@ Mon rap des coups d'feux, sous leurs putains d’artifices !
 [Outro]
 C’est ça… merde… on avance à l’instinct… juste pour être libre…
 C’est c’qu’il y a dans ma tête, c’est ça... avoir des ailes…
-Rejoindre les cieux comme la colombe... être libre...2Embed"
+Rejoindre les cieux comme la colombe... être libre...2Embed",Soprano
 Sopra M'baba,"Amour, Gloire & Cité... 6.6.6","15 ContributorsAmour, Gloire & Cité... 6.6.6 Lyrics[Couplet 1: Alonzo]
 6.6.6…
 Quand mon coeur parle, ma bouche écoute et mes oreilles s’taisent
@@ -5606,7 +5606,7 @@ On s’est regardés un peu plus loin que nos barreaux
 On s’est regardés un peu plus loin que le béton, mamée
 T’inquiète pas, l’homme est intelligent depuis longtemps
 6.6.6 que dieu nous écarte
-Dis-leur…3Embed"
+Dis-leur…3Embed",Soprano
 Sopra M'baba,Mélancolique Anonyme,"15 ContributorsMélancolique Anonyme Lyrics[Intro : Soprano & Thierry Desroses]
 - Bonsoir à toutes et à tous. Bienvenue à notre réunion hebdomadaire des mélancoliques anonymes. Réservons un accueil particulièrement chaleureux aux nouveaux, pour qui ça n'a certainement pas été facile de venir jusqu'à nous. Nous allons débuter cette réunion par un témoignage. Qui veut se lancer?
 - Moi
@@ -5700,7 +5700,7 @@ Ouais je rêve de ""13"", ouais je rêve Soprano!
 - Vous avez compris pourquoi vous étiez tombé dans la mélancolie?
 - Vous savez, le monde il est tellement fou, les gens ils n’ont plus de valeurs, y’a plus de gens... J'vois beaucoup de gens autour de moi qui touchent le fond, et beaucoup de gens autour de moi qui n’ont plus rien à perdre, moi ça me fais peur tout ça...
 - Ça vous fait peur?
-- Ça me fait vraiment peur, car y’a pas plus dangereux qu’une personne qui n’a plus rien à perdre...1Embed"
+- Ça me fait vraiment peur, car y’a pas plus dangereux qu’une personne qui n’a plus rien à perdre...1Embed",Soprano
 Sopra M'baba,Musica,"13 ContributorsMusica Lyrics[Paroles de ""Musica"" ft. Ninho]
 
 [Couplet 1 : Ninho]
@@ -5783,7 +5783,7 @@ Une vie d’artiste, une vie d’criminel (une vie d’criminel)
 [Outro : Ninho]
 Une vie d’artiste, une vie d’criminel (vie d’artiste)
 Et le film aurait pu finir tragiquement
-HeyEmbed"
+HeyEmbed",Soprano
 Sopra M'baba,Dernière Chance,"6 ContributorsDernière Chance Lyrics(Cousin Beat Bounce/Léa Castel)
 
 [Couplet 1 : Léa Castel]
@@ -5834,7 +5834,7 @@ Mais pourquoi, je ne le mérite pas
 Je veux avoir une dernière chance
 Que Dieu révise son jugement
 Mais je n'ai pas le choix, obligée de vivre avec ça
-Mais pourquoi, je ne le mérite pas2Embed"
+Mais pourquoi, je ne le mérite pas2Embed",Soprano
 Sopra M'baba,Victory,"22 ContributorsVictory Lyrics-ZAKARY, ZAKARY!
 Monte,qu'est-ce que tu fais ?
 Il pleut arrête de t'entrainer maintenant, CA SUFFIT !
@@ -5901,7 +5901,7 @@ Quoi qu'il arrive aujourd'hui je suis prêt a la vivre VICTORY
 
 Ohhhhhhhhhhooohhhhhhhhhhhhhooohhhhhhhhhhhh
 
-VICTORY, Moi rêver je n'ai que sa !Embed"
+VICTORY, Moi rêver je n'ai que sa !Embed",Soprano
 Sopra M'baba,Parle-moi,"11 ContributorsParle-moi Lyrics
 
 [Intro]
@@ -6006,7 +6006,7 @@ J'suis différent depuis les poste-cassettes
 Rappeur, chanteur depuis mes premières baskets
 Un phœnix ne meurt jamais
 Un phœnix ne meurt jamais
-""Hey ! I'm not surprised motherfucker !""3Embed"
+""Hey ! I'm not surprised motherfucker !""3Embed",Soprano
 Sopra M'baba,Marseille c’est...,"18 ContributorsMarseille c’est... Lyrics[Refrain - Jul]
 Marseille c'est la plage, le foot, la gratte en pleine chaleur
 J'vois les gadjis zoner et faire des béquilles en Faizer
@@ -6109,7 +6109,7 @@ On s'ennuie toute la nuit on parle, on tourne jusqu'à pas d'heure
 Marseille c'est la plage, le foot, la gratte en pleine chaleur
 J'vois les gadjis zoner et faire des béquilles en Faizer
 Les flics te font danser le moonwalk à coup d'taser
-On s'ennuie toute la nuit on parle, on tourne jusqu'à pas d'heureEmbed"
+On s'ennuie toute la nuit on parle, on tourne jusqu'à pas d'heureEmbed",Soprano
 Sopra M'baba,Frérot,"12 ContributorsFrérot Lyrics[Intro : Black M]
 Mon frérot
 
@@ -6200,7 +6200,7 @@ Frérot
 Mister Big Black M, Sopra M'baba (Mon frérot)
 Éternel Insatisfait, L'Everest (Mon frérot)
 2017, 2018, 2019, jusqu'à tant plus (Mon frérot)
-Frérot, mes kwells !2Embed"
+Frérot, mes kwells !2Embed",Soprano
 Sopra M'baba,Juste pour une nuit ?,"10 ContributorsCrazy Lyrics[Couplet 1]
 Génération à fond le foot, qui ne se parle qu'en bluetooth
 Qui ne croit plus aux discours, des politiques donc rien à foutre
@@ -6252,7 +6252,7 @@ Crazy, on est crazy, on est crazy yeah
 
 [Outro]
 On est crazy, on est crazy
-Crazy, on est crazy yeahEmbed"
+Crazy, on est crazy yeahEmbed",Soprano
 Sopra M'baba,Avant de s’en aller,"14 ContributorsAvant de s’en aller Lyrics[Refrain: Soprano]
 Se battre pour ses idées
 Avant de s'en aller
@@ -6326,7 +6326,7 @@ Avant de s'en aller
 Faut qu'on s'batte et qu'on réagisse
 Et que la poisse nous délaisse
 Que nos combats restent réalistes
-Avant de s'en allerEmbed"
+Avant de s'en allerEmbed",Soprano
 Sopra M'baba,Les cités d’or,"33 Contributors13 Organisé (Bonus Track) Lyrics[Paroles de ""13 Organisé"" ft. Many, Akhenaton, K-Ra, Jazzy Jazz, Sysa, Don Choa, 2Bang, Moubarak, Tonyno, Shurik’n, Dadinho, A-Deal, MOH, Zak & Diego, Graya, Sauzer, Sat l’Artificier, Zbig, Menzo, Youzi, Oussagaza, SAF, Soso Maness, Jhonson, Fahar, Stone Black, DRIME, Le Rat Luciano, 100 Blaze, L’Algérino, Alonzo, Soprano, Veazy, AM La Scampia, Keny Arkana, Friz, Djiha, Kamikaz, Thabiti, As, Bilk, Elams, Solda, Kofs, Houari, JuL, SCH & Naps]
 
 [Intro : Naps]
@@ -6856,7 +6856,7 @@ On met ton camp sur le banc, j'ai le col levé à la Cantona
 Crois pas qu'la vie c'est un dream car, dehors, c'est marche ou crève
 Moi, j'ai toujours la même team, j'fais toujours partie d'la crème
 J'ai connu l'âge d'or du rap, quelques déceptions dans le hood
-Moi, de la gloire, je m'en tape, avec les frères, on s'serre les coudesEmbed"
+Moi, de la gloire, je m'en tape, avec les frères, on s'serre les coudesEmbed",Soprano
 Sopra M'baba,Ma famille,"7 ContributorsMa famille Lyrics[Couplet 1 - Alonzo]
 Faut que je te parle bro'
 On se connait ça fait tant d'années
@@ -6926,7 +6926,7 @@ Tu es de ma famille (ouhouhouhouhou)
 Ni le temps ni la distance devrait te faire douter
 Quoiqu'il arrive tu es de ma famille (ouhouhouhouhouhou)
 Non ni la rancœur ni la fierté ne pourra le changer
-La la la, la la la famille1Embed"
+La la la, la la la famille1Embed",Soprano
 Sopra M'baba,L’Everest,"9 ContributorsL’Everest Lyrics[Refrain]
 Si à ma mort les regrets te rattrapent
 Dis-toi que je te pardonne
@@ -6999,7 +6999,7 @@ Pour affronter mon Everest
 En route vers l'Everest, le dépassement d'soi
 Tout faire pour mourir heureux
 Voilà de quoi j'te parle dans mon prochain album
-SopranoYou might also like5Embed"
+SopranoYou might also like5Embed",Soprano
 Sopra M'baba,Encore une nuit,"12 ContributorsEncore une nuit Lyrics[Corneille - Refrain]
 Encore une nuit, encore une nuit séparé de vous
 Et si mon cœur n'a pas les mots, c'est la distance qui le retient
@@ -7053,7 +7053,7 @@ Et si mon cœur n'a pas les mots, c'est la distance qui le retient
 Encore une nuit, encore une nuit, absent de nos rendez-vous
 Je cherche encore le courage de ces mots : “Je t'aime et je reviens”
 
-Encore une nuit, séparé de mon lit, à annoter des mes-ri ! Hahaha2Embed"
+Encore une nuit, séparé de mon lit, à annoter des mes-ri ! Hahaha2Embed",Soprano
 Sopra M'baba,Le Labo,"11 ContributorsLe Labo Lyrics[Couplet 1: Soprano]
 Yeah... Bienvenue dans le labo de deux passionnés, qu'ont fusionnés
 Pour donner le tournis à tous ces fous qui disait que Marseille avait coulé
@@ -7120,7 +7120,7 @@ Car-pe Diem et les Psy 4!
 [Outro]
 Hey, c'est E=2MC's
 Hey, Soprano, R.E.D.K
-Soprano, R.E.D.K1Embed"
+Soprano, R.E.D.K1Embed",Soprano
 Sopra M'baba,Qu’est-ce qu’elle est bonne,"6 ContributorsQu’est-ce qu’elle est bonne Lyrics[Intro : Singuila & Soprano]
 - Allô ?
 - Allô ?
@@ -7187,7 +7187,7 @@ Même si j'avoues mon pote, putain...
 [Refrain : Singuila] (x2)
 
 [Outro : Soprano]
-Singui', arrête tes bêtises2Embed"
+Singui', arrête tes bêtises2Embed",Soprano
 Sopra M'baba,On sait mais on fait,"5 ContributorsBangobang Lyrics[Intro]
 Medi Meyz
 Lartiste bang
@@ -7268,7 +7268,7 @@ Et ça fait bang bang bang, ça fait bango bango bang
 [Outro]
 Hey
 Lartiste
-Sopra M'BabaEmbed"
+Sopra M'BabaEmbed",Soprano
 Sopra M'baba,Châteaux de sable,"6 ContributorsChâteaux de sable Lyrics[Couplet 1: Soprano]
 C'est sous le préau des collèges la première fois qu'on s'est touché les lèvres
 Depuis mes yeux te chantent ne me quitte pas de Brel
@@ -7349,7 +7349,7 @@ On s'était promis de voyager sur le dos d'un éléphant traverser les océans p
 Tu rêvais d'être infirmière et moi d'être avocat
 On s'est jurés que nos enfants auraient la Baraka
 On croyait que notre amour nous protégerait de tout
-Mais la vie de couple ne se résume pas qu'a I love you ..1Embed"
+Mais la vie de couple ne se résume pas qu'a I love you ..1Embed",Soprano
 Sopra M'baba,Tant que Dieu,"15 ContributorsTant que Dieu Lyrics[Couplet 1 : Soprano]
 Stop !
 J’n’ai appris qu’à perdre, qu’à mettre les mains dans la merde
@@ -7419,7 +7419,7 @@ Assis comme un bouddah, écoute moi livrer des bouts d’âme
 [Refrain : Soprano 2x]
 Tant que Dieu me donne la chance de vivre
 Tant que Dieu me donne la force d’être libre
-J’rappe le ghettoEmbed"
+J’rappe le ghettoEmbed",Soprano
 Sopra M'baba,Mieux que nous,"10 ContributorsMieux que nous Lyrics[Paroles de ""Mieux que nous"" ft. Soprano]
 
 [Couplet 1: M. Pokora]
@@ -7494,7 +7494,7 @@ Petit à petit, Papa fait son nid
 Maman est partie se refaire une vie pas trop loin d'ici
 Petit à petit, Papa te l'a dit
 Tu feras ta vie, tu feras mieux qu'elle
-O-ho, tu feras mieux que nous4Embed"
+O-ho, tu feras mieux que nous4Embed",Soprano
 Sopra M'baba,La promesse (Remix),"24 ContributorsLa promesse (Remix) Lyrics[Couplet 1 : Disiz]
 J'ai parcouru les ghettos, des quartiers Nord à Brooklyn
 De la Grande Borne à Saint-Denis, de Guediawaye à Pikine
@@ -7717,7 +7717,7 @@ Car, comme dirait Kader : restons dans le biff du sujet
 L’argent nous a transformé en Gollum
 Ici, le Pascal n’est pas un grand frère mais un gourou
 Encore un texte qui part dans tous les sens en espérant qu’il ait un sens
-Ouais, en espérant qu’il ait un sens, Mama1Embed"
+Ouais, en espérant qu’il ait un sens, Mama1Embed",Soprano
 Sopra M'baba,À nos héros du quotidien,"10 ContributorsÀ nos héros du quotidien Lyrics[Paroles de ""À nos héros du quotidien""]
 
 [Couplet 1]
@@ -7781,7 +7781,7 @@ La la eh la la eh la la oh oooh
 J’voulais vous dire merci
 La la eh la la eh la la oh oooh
 J’voulais leur dire merci
-La la eh la la eh la la oh oooh2Embed"
+La la eh la la eh la la oh oooh2Embed",Soprano
 Sopra M'baba,Marseillais,"21 ContributorsA la bien Lyrics[Intro]
 Envoie le mic à Marseille on le fait (à la bien)
 Pour les mecs en bas des blocs on le fait (à la bien)
@@ -7868,7 +7868,7 @@ J'te jure (fous la bien) cousin (à la bien)
 Pour toute la jeunesse de France on l'fait (à la bien)
 Pour les frangins enfermés on l'fait (à la bien)
 Pour mes amis sur MySpace on l'fait (à la bien)
-La famille (fous la bien) t'as compris (à la bien)1Embed"
+La famille (fous la bien) t'as compris (à la bien)1Embed",Soprano
 Sopra M'baba,Enfants de la Lune,"15 ContributorsBario Lyrics[Refrain - Soprano]
 Mama m'a dit vas-y vis deviens un homme
 Ne te fais pas absorber par cette vida loca
@@ -7927,7 +7927,7 @@ Bario, bario, bario, bario, ayaya
 Bario, bario, bario, bario, ayaya
 Bario, bario, bario, bario, ayaya
 
-[Refrain - Soprano]8Embed"
+[Refrain - Soprano]8Embed",Soprano
 Sopra M'baba,Le pain,"15 ContributorsLe pain Lyrics[Refrain]
 Laisse-laisse-nous faire le pain
 Laisse-nous faire le pain, yeah
@@ -7986,7 +7986,7 @@ Fais vite, fais vite il est l'or ouais
 Fais vite il est l'or
 Fais vite, fais vite il est l'or ouais
 Eh ouais le 'zin, fais le pain !
-[Refrain]5Embed"
+[Refrain]5Embed",Soprano
 Sopra M'baba,Fragile,"13 ContributorsFragile LyricsElle était si timide et si fragile
 Introvertie et si naïve
 Au milieu de trente élèves
@@ -8060,7 +8060,7 @@ Elle qui ne voulait qu'être aimée
 Oh oh oh oh oh
 Elle qui ne voulait qu'être aimée
 Oh oh oh oh oh
-Elle qui ne voulait qu'être aiméeEmbed"
+Elle qui ne voulait qu'être aiméeEmbed",Soprano
 Sopra M'baba,À la vie à l’amour,"13 ContributorsÀ la vie à l’amour Lyrics[Couplet 1]
 Maman m'a dit la vie n'est pas facile
 Mais plus facile avec un grand sourire
@@ -8155,7 +8155,7 @@ Danse danse, à la vie à l'amour
 Laï laï laï laï laï laï laï
 Laï laï laï laï laï laï laï
 Danse danse
-Danse danse, à la vie à l'amourEmbed"
+Danse danse, à la vie à l'amourEmbed",Soprano
 Sopra M'baba,La colombe et le corbeau,"14 ContributorsLa colombe et le corbeau Lyrics[Intro]
 Mej, effrite le charbon
 Ouais, raisin blanc, ok
@@ -8205,7 +8205,7 @@ Avec une colombe dans la plume et un corbeau dans l'flow
 Lui demande pas d'rapper c'que tu penses, s'il n'le pense pas
 De faire du rap que t'aimes, s'il n'aime pas
 De rapper tes idées, yeah, s'il les combat
-Il t'l'a dit dans ""Moi j'ai pas"" : moi c'est Sopra'M'BabaYou might also likeEmbed"
+Il t'l'a dit dans ""Moi j'ai pas"" : moi c'est Sopra'M'BabaYou might also likeEmbed",Soprano
 Sopra M'baba,Luna,"11 ContributorsLuna Lyrics[Intro]
 Mon p'tit voyou, mon p'tit voyou
 Mon p'tit voyou, mon p'tit voyou
@@ -8289,7 +8289,7 @@ Oh...
 [Refrain]
 
 [Outro - Luna]
-Papa, papa...Embed"
+Papa, papa...Embed",Soprano
 Sopra M'baba,Fallait le faire,"36 ContributorsDe Marseille à Paris Lyrics[Paroles de ""De Marseille à Paris"" ft. Dr Bériz, Bedjik, H Magnum & Soprano]
 
 [Intro : Maitre Gims]
@@ -8413,7 +8413,7 @@ Le game n'est pas un trottoir pourquoi tu te prostitues ?
 Dédicace à Bedjik et à Shin Sekaï
 Avec un putain de flow qui découpe comme San ku kai
 Rien qu'jpars en live, faut qu'je fly
-Donc je vous dis bye bye bye bye bye-bye bye !4Embed"
+Donc je vous dis bye bye bye bye bye-bye bye !4Embed",Soprano
 Sopra M'baba,Cœurdonnier,"15 ContributorsCœurdonnier Lyrics[Paroles de ""Cœurdonnier""]
 
 [Couplet 1]
@@ -8485,7 +8485,7 @@ Tu recouds avec le sourire d'un passant
 Tu recolles avec la douceur d'une maman
 Tu tisses avec du jaune, noir et du blanc
 Mais quand je regarde ce monde de fou
-Je me dis que le cœurdonnier, c'est nous1Embed"
+Je me dis que le cœurdonnier, c'est nous1Embed",Soprano
 Sopra M'baba,Préface,"12 ContributorsPréface Lyrics[Intro]
 Attends, avant d'commencer l'album
 Mej, tu peux mettre un peu de l'encens ? Yes
@@ -8544,7 +8544,7 @@ A l'heure où le FN me veut dans un grand zoo
 Je combats le racisme et toutes ces idées grotesques
 En gardant la banane, à la Dani Alves
 Au moins pour Inaya, Luna, Lenny
-Au moins pour ceux qui croient en CosmopolitanieYou might also like3Embed"
+Au moins pour ceux qui croient en CosmopolitanieYou might also like3Embed",Soprano
 Sopra M'baba,Ma Dalton,"14 ContributorsMa Dalton Lyrics[Intro : Soprano]
 Seth Gueko
 Ma Dalton, Ma Dalton
@@ -8618,7 +8618,7 @@ Ma Dalton
 Seth Gueko, Soprano
 Ma Dalton
 
-Paroles rédigées et expliquées par la communauté RapGenius FranceEmbed"
+Paroles rédigées et expliquées par la communauté RapGenius FranceEmbed",Soprano
 Sopra M'baba,Au taquet,"10 ContributorsR.A.P (Rimes Anti Personnel) Lyrics[Intro : Sam's]
 S.A.M.S
 Sopra M'baba
@@ -8715,7 +8715,7 @@ Et plombent l'ambiance un peu comme des fêtards calibrés
 Donc pas de panique, on arrive on manie la rime
 Habile manie ma mine magique, oui mon ami c'est...
 
-[Refrain - Soprano]Embed"
+[Refrain - Soprano]Embed",Soprano
 Sopra M'baba,Animal Story,"12 ContributorsAnimal Story Lyrics[Couplet 1: Mister You]
 Demande à mon pote Souris on rêve tous d’un monde meilleur
 Je me sens comme une fourmi quand je vois la grandeur du Seigneur
@@ -8793,7 +8793,7 @@ Y'a trop de charognes qui tournent autour des nôtres ma parole c’est
 Animal Story
 Bienvenu là où cohabitent les hyènes, les loups et les lions
 Animal Story Story, Story
-Animal Story2Embed"
+Animal Story2Embed",Soprano
 Sopra M'baba,Coup de coeur,"22 ContributorsPuisqu’il faut vivre Lyrics[Couplet unique]
 Yeah
 Puisqu'il faut vivre, autant l'faire avec le sourire
@@ -8862,7 +8862,7 @@ A.L.O.N, Vinz, Sya, yeah
 Puisqu'il faut vivre, autant l'faire avec le sourire
 Pour un meilleur avenir
 Yeah
-Sopra M'Baba, yeah3Embed"
+Sopra M'Baba, yeah3Embed",Soprano
 Sopra M'baba,Ça ne change pas,"9 ContributorsÇa ne change pas Lyrics[Paroles de ""Ça ne change pas"" ft. Soprano]
 
 [Refrain : Jul & Soprano]
@@ -8963,7 +8963,7 @@ On s’la joue pas fais pas le mia
 Ils veulent me mettre dans leurs affaires
 Qu’est-c’qu’ils m’veulent ?
 Peut-être me voir à terre ?
-Ils peuvent bien aller se faireEmbed"
+Ils peuvent bien aller se faireEmbed",Soprano
 Sopra M'baba,Plan B,"30 ContributorsPlan B Lyrics[Refrain 1: Soprano]
 Petit quel est ton plan B, quel est ton plan B, quel est ton plan B
 D'ici je te vois tomber, je te vois tomber, je te vois tomber
@@ -9047,7 +9047,7 @@ Italia Massilia
 Petit quel est ton plan B, dis-moi quel est ton plan B
 Le plan A est mort frérot
 .
-.2Embed"
+.2Embed",Soprano
 Sopra M'baba,Je serai là,"5 ContributorsJe serai là Lyrics[Intro]
 Frangin
 On cherche souvent le bonheur avec des jumelles, des fois même on prend des fusils pour aller le chercher dans d'autres planètes. J'te jure, dès qu'on assouvi pas un caprice on se croit seul au monde et on fait souffrir ceux qui nous aiment vraiment, tu sais. Donc voilà un bouquet de rime pour mes plus belles roses
@@ -9097,7 +9097,7 @@ T'as toujours été là pour me sauver
 Si, si le soleil ne te souris plus et que la vie ne t'offre que la pluie
 Je serai là, je serai là
 Si les éclairs te font trembler et que la nuit tu ne trouves pas la paix
-Je serais là, je serais là1Embed"
+Je serais là, je serais là1Embed",Soprano
 Sopra M'baba,Repartir À Zéro,"10 ContributorsRepartir À Zéro Lyrics[Refrain : La Fouine & Soprano]
 Même en touchant le fond ayant le moral à zéro
 Là d'où l'on vient on apprend à repartir à zéro
@@ -9184,7 +9184,7 @@ Le moral à zéro, on repart à zéro
 Yeah quoi qu'il arrive la tête haute la famille
 On repart a zéro, même si le moral est a zéro
 Yeah c'est ça la fierté qu'on nous a appris en Afrique
-Sourire aux lèvres même quand le ciel te tombe sur la tête...1Embed"
+Sourire aux lèvres même quand le ciel te tombe sur la tête...1Embed",Soprano
 Sopra M'baba,La Famille,"9 ContributorsLa Famille Lyrics[Intro: Soprano]
 Dis-moi y'a quoi d'plus important qu'la famille ?
 C'est l'oxygène d'un être humain frangin, Léa !
@@ -9254,7 +9254,7 @@ C'est ces vrais potes, qui pourraient mourir pour toi, Léa
 [Refrain: Léa Castel]
 Quoi de plus important que la famille
 Je respire et je me bats pour ma famille
-Quoi de plus important que la familleEmbed"
+Quoi de plus important que la familleEmbed",Soprano
 Sopra M'baba,C’est Ma Life (bonne version),"16 ContributorsC’est Ma Life (bonne version) Lyrics[Refrain]
 C'est ma life, la vida loca
 Oui ma life, des soirées, des chichas
@@ -9336,7 +9336,7 @@ Oui ma life, tant pis si tu kiffes pas
 Donc laisse nous faire le show
 Entouré de mes khos
 Oui laisse nous faire le show
-Entouré de mes khosEmbed"
+Entouré de mes khosEmbed",Soprano
 Sopra M'baba,Ce qu’on laisse à nos mômes,"7 ContributorsCe qu’on laisse à nos mômes Lyrics[Couplet 1]
 Il passe son temps à regarder le ciel
 En espérant avoir des nouvelles de sa mère
@@ -9365,7 +9365,7 @@ You might also like[Outro]
 Regarde c'qu'on laisse à nos mômes
 Regarde c'qu'on laisse à nos mômes
 Regarde c'qu'on laisse à nos mômes
-Regarde c'que j'laisse à mes mômesEmbed"
+Regarde c'que j'laisse à mes mômesEmbed",Soprano
 Sopra M'baba,R.A.P (Rimes Anti Personnel),"10 ContributorsR.A.P (Rimes Anti Personnel) Lyrics[Intro : Sam's]
 S.A.M.S
 Sopra M'baba
@@ -9462,7 +9462,7 @@ Et plombent l'ambiance un peu comme des fêtards calibrés
 Donc pas de panique, on arrive on manie la rime
 Habile manie ma mine magique, oui mon ami c'est...
 
-[Refrain - Soprano]Embed"
+[Refrain - Soprano]Embed",Soprano
 Sopra M'baba,Rihanna,"13 ContributorsRihanna Lyrics[Refrain]
 Elle veut danser, chanter comme Rihanna
 Boire et fumer comme Rihanna
@@ -9540,7 +9540,7 @@ Twerker, twerker comme Rihanna
 Elle veut danser, chanter comme Rihanna
 Boire et fumer comme Rihanna
 Twerker, twerker comme Rihanna
-Être désirée tout comme Rihanna1Embed"
+Être désirée tout comme Rihanna1Embed",Soprano
 Sopra M'baba,Chérie coco,"7 ContributorsChérie coco Lyrics[Intro]
 Chaud ohohohohohohohohohohohoh
 Chaud ohohohohohohohohohohohoh
@@ -9612,7 +9612,7 @@ Chérie chérie coco, chérie chérie coco ,chérie chérie coco,oui chérie coc
 -Je suis venue chez vous magnifique
 -Chez nous on dit ""c'est sa qui est la vérité"" et chez vous ?
 -Ah chez nous on dis ""ZAKWELIE""
--Ah ouais donc c'est toi qui a raisonEmbed"
+-Ah ouais donc c'est toi qui a raisonEmbed",Soprano
 Sopra M'baba,Cité Rose,"7 ContributorsCité Rose Lyrics[Intro: Azize Diabate Abdoulaye]
 “On dit que lorsque l'on arrête de rêver on meurt
 Mais moi je veux pas arrêter de rêver”
@@ -9689,7 +9689,7 @@ Et m’a dit: ""Pour ne pas mourir continue à rêver!""
 Dans un milieu modeste
 Obligé de se battre pour que nos rêves naissent
 Scientifik, Sopra'M'Baba, R.E.D.K. (Cité rose!)
-Dans un milieu modeste (Cité rose!)Paroles rédigées et expliquées par la communauté RapGenius FranceEmbed"
+Dans un milieu modeste (Cité rose!)Paroles rédigées et expliquées par la communauté RapGenius FranceEmbed",Soprano
 Sopra M'baba,2011 BET Hip Hop Awards - International Flow Cypher,"34 Contributors2011 BET Hip Hop Awards - International Flow Cypher Lyrics[Intro: Estelle]
 This right here we call [?]
 Over old school beats like it's the new new
@@ -9777,7 +9777,7 @@ It's hunger; got one Grammy
 Need like 10 more for me to really act shabby
 So I'mma say it loud, and I'mma say it proud
 Make ya say my name, say my name out loud
-Elle!4Embed"
+Elle!4Embed",Soprano
 Sopra M'baba,Mélancolie,"10 ContributorsMélancolie Lyrics[Couplet 1]
 On y est, mon bébé
 Tu sais bien qu'il fallait qu'ça arrive
@@ -9822,7 +9822,7 @@ Ce soir que je serai dans tes drap
 Mais guérit-on vraiment de toi, mélancolie ?
 Mélancolie, mélancolie
 Mélancolie, mélancolie
-Oh oh, mélancolie2Embed"
+Oh oh, mélancolie2Embed",Soprano
 Sopra M'baba,Couvre moi,"35 ContributorsBafana Bafana (Remix) Lyrics[Couplet 1 : La Fouine]
 Les keufs frappent on n'ouvre pas, Banlieue Sale t'approuves pas
 Ton équipe c'est personne ma gueule, même Google te trouve pas
@@ -9940,7 +9940,7 @@ Chargez, Chargez
 Char-char-char-char-char-chargez
 Banlieue Sale, Banlieue-Banlieue Sale
 Banlieue Sale, Banlieue-Banlieue Sale
-Chargez, Chargez1Embed"
+Chargez, Chargez1Embed",Soprano
 Sopra M'baba,Je me sens seul,"9 ContributorsJe me sens seul Lyrics[Paroles de ""Je me sens seul"" feat. Lyna Mahyem, JuL, Lynda, Dina, Soprano, Imen Es, L'Algérino]
 
 [Refrain : L'Algérino]
@@ -10048,7 +10048,7 @@ Quitte à finir comme Pablo
 Et tu sais j'ai trop donné, volé, trop déconné, tourné, zoné, moi
 Et j'm'enfumais pour m'envoler, voler, voler, faut des lovés, mais
 J'sais qu'personne va m'sauver, ils viendront tous, mauvais, pour plein d'billets mauves
-Bitume, les plages dorés, attends, mi amore, faut qu'j'charbonne encoreEmbed"
+Bitume, les plages dorés, attends, mi amore, faut qu'j'charbonne encoreEmbed",Soprano
 Sopra M'baba,Avec le temps,"13 ContributorsAvec le temps Lyrics[Couplet 1]
 Je n'ai pas eu la vie de Ricky, pas de lit en Ferrari
 Mais plutôt des lits superposés cassés dans la nuit
@@ -10123,7 +10123,7 @@ La tête dans les nuages, comme toi j'attends
 Qu'il m'arrive enfin quelque chose de grand, yeah, yeah
 Les étoiles filantes passent pas souvent
 Mais j'ai appris à être patient
-Car je sais que Dieu est grand1Embed"
+Car je sais que Dieu est grand1Embed",Soprano
 Sopra M'baba,Sous le soleil,"11 ContributorsSous le soleil Lyrics[Paroles de ""Sous le soleil""]
 
 [Intro : JuL]
@@ -10331,7 +10331,7 @@ Tout en détente, sans casque, en deux temps
 Penser à ramener le bon vieux temps, celui qu'on aime tant
 Mais bon je tente
 On peut pas leur ressembler
-13 Organisé vient pour rassemblerEmbed"
+13 Organisé vient pour rassemblerEmbed",Soprano
 Sopra M'baba,Ton quartier nous connaît,"33 Contributors13 Organisé (Bonus Track) Lyrics[Paroles de ""13 Organisé"" ft. Many, Akhenaton, K-Ra, Jazzy Jazz, Sysa, Don Choa, 2Bang, Moubarak, Tonyno, Shurik’n, Dadinho, A-Deal, MOH, Zak & Diego, Graya, Sauzer, Sat l’Artificier, Zbig, Menzo, Youzi, Oussagaza, SAF, Soso Maness, Jhonson, Fahar, Stone Black, DRIME, Le Rat Luciano, 100 Blaze, L’Algérino, Alonzo, Soprano, Veazy, AM La Scampia, Keny Arkana, Friz, Djiha, Kamikaz, Thabiti, As, Bilk, Elams, Solda, Kofs, Houari, JuL, SCH & Naps]
 
 [Intro : Naps]
@@ -10861,7 +10861,7 @@ On met ton camp sur le banc, j'ai le col levé à la Cantona
 Crois pas qu'la vie c'est un dream car, dehors, c'est marche ou crève
 Moi, j'ai toujours la même team, j'fais toujours partie d'la crème
 J'ai connu l'âge d'or du rap, quelques déceptions dans le hood
-Moi, de la gloire, je m'en tape, avec les frères, on s'serre les coudesEmbed"
+Moi, de la gloire, je m'en tape, avec les frères, on s'serre les coudesEmbed",Soprano
 Sopra M'baba,Mondial,"1 ContributorOutro (Final) Lyrics[Verso]
 Estava pensativo no metro sem substâncias mas substantivos
 Sem depender do álcool, nem fumo
@@ -10934,7 +10934,7 @@ Eu quero menos olhos em cima de mim
 Todos estão sempre á espera que eu erre
 Lembrem-se que todos teremos um fim
 Rest in Peace ao Mota JR
-You might also like[Outro]Embed"
+You might also like[Outro]Embed",Soprano
 Sopra M'baba,À la Usain Bolt,"10 ContributorsÀ la Usain Bolt Lyrics[Alonzo - Refrain]
 (Aouh ! Eh !)
 Faut qu'ça marche
@@ -11031,7 +11031,7 @@ Moi je cherche l'oasis balnéaire
 Traverser les frontières, dans ces pays caniculaires
 Mettre ma mère chez les millionnaires ! (Dooonc !..)
 
-[Refrain]Embed"
+[Refrain]Embed",Soprano
 Sopra M'baba,Dans ma tête,"11 ContributorsDans ma tête Lyrics[Couplet : Soprano]
 Tu veux savoir c'qui a dans ma tête ?
 Y'a mon fils d'un côté, mon rap d'un côté
@@ -11081,7 +11081,7 @@ Baisser les bras ? T'es fou, ça hors de question !
 Au moins pour ma ville, au moins pour mon groupe
 Au moins pour tous ceux qui ont mis du goudron sur ma route
 Mon passé d'un côté, mon avenir d'un côté
-Y'a toutes ces choses que j'ai peur de faire capoterYou might also likeEmbed"
+Y'a toutes ces choses que j'ai peur de faire capoterYou might also likeEmbed",Soprano
 Sopra M'baba,Bombe Humaine,"9 ContributorsBombe Humaine Lyrics[Couplet 1: Soprano]
 Toi qui n'as plus rien à perdre, depuis que l'ange Gabriel s'est habillé en militaire
 Pour te prendre père, frères et mère
@@ -11165,7 +11165,7 @@ La vie est belle frangin
 Un sourire c'est peu mais ça fait beaucoup
 Tendons la main à ceux qui en ont besoin
 Évitons vite de devenir une bombe humaine
-Ça tiens à rien, ça tiens à rien frangin, a rien...Embed"
+Ça tiens à rien, ça tiens à rien frangin, a rien...Embed",Soprano
 Sopra M'baba,Flow siamois,"13 ContributorsFlow siamois Lyrics[Intro: Soprano]
 Jeune Padawan, tu n'es pas prêt pour ça
 Jeune Padawan, R.E.D.K., Soprano, tu n'es pas prêt pour ça
@@ -11228,7 +11228,7 @@ Sur la face des phases à rafales qui parlent à la masse donc dég-dég-dég-d�
 Eh mec, tu nous connais, venus pour tout dégommer
 On tire on vise le sommet (Allez, allez oust)
 Un flow qui fait décoller, pour tous les frères isolés
-Un son pour vous épauler (Allez, allez allez !)Embed"
+Un son pour vous épauler (Allez, allez allez !)Embed",Soprano
 Sopra M'baba,Je rappe comme ça me chante,"18 ContributorsJe rappe comme ça me chante Lyrics[Intro: Soprano]
 Ladies and gentlemen, ladies and gentlemen
 Sucka', motherfucka'
@@ -11324,7 +11324,7 @@ J'suis sorti de vos rangs, j'refuse les cases
 Rappe comme ça me chante et puis chante comme ça me rappe
 Vas-y Sopra chante:
 Rapper ou chanter, l'important est d'être vrai
-Avec tes idées, viens pas me menotterEmbed"
+Avec tes idées, viens pas me menotterEmbed",Soprano
 Sopra M'baba,No Life,"17 ContributorsNo Life Lyrics[Couplet 1 : Briganté]
 Formaté par MTV Base, Steve Jobs et le Groupe Bilderberg
 D'la drogue et d'la bouffe de synthèse pour un cancer à la trentaine
@@ -11391,7 +11391,7 @@ Du shit dans les cadis, des femmes en lingerie, les barbus
 Ayem et Nabilla en nouvelles égérie chez Barbie
 Puis s’en lit par la racine aux profs de mathématiques
 C'est l'enfer jusque derrière la rue Paradis
-[Refrain : Soprano] (x2)1Embed"
+[Refrain : Soprano] (x2)1Embed",Soprano
 Sopra M'baba,Au charbon,"33 Contributors13 Organisé (Bonus Track) Lyrics[Paroles de ""13 Organisé"" ft. Many, Akhenaton, K-Ra, Jazzy Jazz, Sysa, Don Choa, 2Bang, Moubarak, Tonyno, Shurik’n, Dadinho, A-Deal, MOH, Zak & Diego, Graya, Sauzer, Sat l’Artificier, Zbig, Menzo, Youzi, Oussagaza, SAF, Soso Maness, Jhonson, Fahar, Stone Black, DRIME, Le Rat Luciano, 100 Blaze, L’Algérino, Alonzo, Soprano, Veazy, AM La Scampia, Keny Arkana, Friz, Djiha, Kamikaz, Thabiti, As, Bilk, Elams, Solda, Kofs, Houari, JuL, SCH & Naps]
 
 [Intro : Naps]
@@ -11921,7 +11921,7 @@ On met ton camp sur le banc, j'ai le col levé à la Cantona
 Crois pas qu'la vie c'est un dream car, dehors, c'est marche ou crève
 Moi, j'ai toujours la même team, j'fais toujours partie d'la crème
 J'ai connu l'âge d'or du rap, quelques déceptions dans le hood
-Moi, de la gloire, je m'en tape, avec les frères, on s'serre les coudesEmbed"
+Moi, de la gloire, je m'en tape, avec les frères, on s'serre les coudesEmbed",Soprano
 Sopra M'baba,J’étais comme eux,"10 ContributorsJ’étais comme eux Lyrics[Intro : Demon One]
 Soprano, Démon one
 Marseille (ohhhh)
@@ -12016,7 +12016,7 @@ Pour tous les mecs des blocks
 Ohoh Ohoh Ohoh
 Mafia K'1 K'1
 C'est La Psykatra de la rimiaaaa
-Démon One, Sopra'mbaba1Embed"
+Démon One, Sopra'mbaba1Embed",Soprano
 Sopra M'baba,Capuchés,"11 ContributorsCapuchés Lyrics[Paroles de ""Capuchés"" ft. Soprano]
 
 [Intro : Naps & Soprano]
@@ -12097,7 +12097,7 @@ J'ai toujours la balafre, monsieur l'inspecteur
 Faut qu'on s'ballade, qu'on s'ballade, qu'on s'ballade
 Qu'on s'ballade, qu'on s'ballade, qu'on s'barre loin de là
 J'traîne qu'avec des malades, des malades, des malades
-Des malades, des malades, des malades, des tarésEmbed"
+Des malades, des malades, des malades, des tarésEmbed",Soprano
 Sopra M'baba,À l’ancienne,"35 ContributorsBafana Bafana (Remix) Lyrics[Couplet 1 : La Fouine]
 Les keufs frappent on n'ouvre pas, Banlieue Sale t'approuves pas
 Ton équipe c'est personne ma gueule, même Google te trouve pas
@@ -12215,7 +12215,7 @@ Chargez, Chargez
 Char-char-char-char-char-chargez
 Banlieue Sale, Banlieue-Banlieue Sale
 Banlieue Sale, Banlieue-Banlieue Sale
-Chargez, Chargez1Embed"
+Chargez, Chargez1Embed",Soprano
 Sopra M'baba,Dopé,"8 ContributorsDopé Lyrics[Couplet 1]
 Ok Ok
 Sopra débarque à l'improviste avec un flow dopé
@@ -12299,7 +12299,7 @@ Dopé dopé dopé
 Marseille est dopé
 Dopé dopé dopé
 Street Skillz est dopé
-Dopé dopé dopé2Embed"
+Dopé dopé dopé2Embed",Soprano
 Sopra M'baba,J’ai vu,"16 ContributorsJ’ai vu Lyrics[Couplet 1 : R.E.D.K.]
 On voit beaucoup de conneries, j'pourrais vous en donner la preuve
 Trop de choses horribles si bien que le voyant peut envier l'aveugle
@@ -12369,7 +12369,7 @@ Là où les hommes recherchent la paix avec les armes
 Naissances, tueries, bravoure et peine et des meilleurs j'en passe
 Même si c'est dans la douleur qu'on écrit son histoire
 Ne vois-tu pas que le monde est fait de rire et de frayeur
-Oui on y voit le pire et le meilleurEmbed"
+Oui on y voit le pire et le meilleurEmbed",Soprano
 Sopra M'baba,La voisine,"13 ContributorsLa voisine LyricsMademoiselle, dites-nous vraiment ce qui s'est passé
 
 [Couplet 1]
@@ -12464,7 +12464,7 @@ Si tu savais combien moi je t’aimais
 Oui pourtant si tu savais
 Oui pourtant si tu savais
 Oui pourtant si tu savais
-Pour payer tout le mal que tu m'as faitEmbed"
+Pour payer tout le mal que tu m'as faitEmbed",Soprano
 Sopra M'baba,Justice,"12 ContributorsJustice Lyrics[Refrain]
 J'suis là, t'es où ?
 J'te cherche un peu partout
@@ -12556,7 +12556,7 @@ J'te cherche en perdant espoir et je n'sais plus où aller
 Où tu es ? Où tu es ?
 Marre de voir les déboires de toutes ces œuvres inhumaines
 J'te cherche en perdant espoir et je n'sais plus où aller
-Où tu es ? Où tu es ?4Embed"
+Où tu es ? Où tu es ?4Embed",Soprano
 Sopra M'baba,Subliminal Show (Freestyle),"10 ContributorsSubliminal Show (Freestyle) Lyrics[Couplet 1 : Maitre Gims]
 Fier, Déter'
 Tu veux me balayer ; attends que je devienne poussière
@@ -12724,7 +12724,7 @@ Outsider, out, outsider
 Outsider, out, outsider
 J'fais du son qui ché-mar comme le sexe et la beuh
 C'est n'importe quoi comme Schwarzenegger
-Outsider, out, outsiderEmbed"
+Outsider, out, outsiderEmbed",Soprano
 Sopra M'baba,TKT,"15 ContributorsTKT Lyrics[Paroles de ""TKT"" ft. Soprano]
 
 [Intro : Soprano]
@@ -12823,7 +12823,7 @@ C'est la même t'inquiète ! (ah)
 C'est la même t'inquiète ! (ah)
 C'est la même t'inquiète ! (ah)
 C'est la même t'inquiète ! (ah)
-C'est la même t'inquiète ! (hahahahaha !)Embed"
+C'est la même t'inquiète ! (hahahahaha !)Embed",Soprano
 Sopra M'baba,Kalash & Roses,"11 ContributorsKalash & Roses Lyrics[Intro]
 C'est aujourd'hui en rentrant dans ta chambre
 Que j'ai compris que t'étais vraiment plus là
@@ -12900,7 +12900,7 @@ Kal-kalash and roses, kal-kalash and roses
 Posons les armes
 Oui, oui posons les armes
 Posons les armes
-Oui, oui posons les armes4Embed"
+Oui, oui posons les armes4Embed",Soprano
 Sopra M'baba,Rêves et illusions,"13 ContributorsRêves et illusions Lyrics[Couplet 1: R.E.D.K.]
 J’étais dans la confusion la plus totale moi qui pensait que le talent paierai
 Illusion trop sale j'repars avec des rêves à enterrer
@@ -12979,7 +12979,7 @@ Marre de vivre toutes ses punitions
 On rêve de pouvoir nous battre avec nos armes
 Au milieu d'l'arène à armes égales
 Bercé par mes illusions, chargeur vide
-Mon espoir n'a plus de munitionsEmbed"
+Mon espoir n'a plus de munitionsEmbed",Soprano
 Sopra M'baba,M. et Mme Smith,"6 ContributorsM. et Mme Smith Lyrics[Couplet 1 - Soprano & Kayna Samet]
 Tu crois que c'est une heure pour rentrer ?
 Tu sais que j't'attendais pour manger ?
@@ -13069,7 +13069,7 @@ On se comprend pas
 Na na na
 Na na na
 On se comprend pas
-Eh, notre histoire on dirait l'morceau avec Kayna et Sopra, ""M. et Mme Smith"", on s'l'écoute ?1Embed"
+Eh, notre histoire on dirait l'morceau avec Kayna et Sopra, ""M. et Mme Smith"", on s'l'écoute ?1Embed",Soprano
 Sopra M'baba,Halloween,"16 ContributorsHalloween Lyrics[Couplet 1 : Soprano]
 Ne me demande pas de rapper pour ta paroisse, ni de rapper pour tes palaces
 Je suis venu faire le car-wash, ouais de ce rap dégueulasse
@@ -13161,7 +13161,7 @@ Halloween
 Dans les charts je suis une Black Machine
 Tous ont touché l'eau, tous tous ont touché l'eau
 Tous, c'est de la médecine !
-Halloween, Halloween, HalloweenEmbed"
+Halloween, Halloween, HalloweenEmbed",Soprano
 Sopra M'baba,A 2000,"8 ContributorsA 2000 Lyrics[Intro : Soprano]
 Yeah, Kooseyl
 Soprano
@@ -13230,7 +13230,7 @@ J'suis à deux-mille, mille, mille pour le milli, milli
 J'suis à deux-milles, pour le milli
 J'suis à deux-mille, mille, pour le milli
 J'suis à deux-mille, pour le milli
-J'suis à deux-mille, mille, pour le milli1Embed"
+J'suis à deux-mille, mille, pour le milli1Embed",Soprano
 Sopra M'baba,Darwa,"13 ContributorsDarwa Lyrics[Refrain]
 Dîtes-moi on est là pourquoi ?
 Darwa Darwa !
@@ -13323,7 +13323,7 @@ Devinez qui est de retour sur scène, c'est Sopra'm'baba
 Que tout le monde lève les bras bien haut qu'on puisse se vider la tête avec Sopra'm'baba
 C'est l'faya
 Devinez qui est de retour sur scène, c'est Sopra'm'baba
-Que tout le monde lève les bras bien haut qu'on puisse se vider la tête avec Sopra'm'babaEmbed"
+Que tout le monde lève les bras bien haut qu'on puisse se vider la tête avec Sopra'm'babaEmbed",Soprano
 Sopra M'baba,À cœur ouvert,"29 ContributorsTranslationsEnglishLégendaire Lyrics[Paroles de ""Légendaire"" ft. Calbo, R.E.D.K., Lino, Oxmo Puccino, Soprano, JuL, Rim’K & SCH]
 
 [Intro : SCH]
@@ -13434,7 +13434,7 @@ Reçoit de nouveaux ients-cli et le Diable attend les remerciements
 Dehors, on compte les pertas, on nous vend la liberté
 Ça ressort la grosse Bertha, la révolte a déserté
 Kho, ici, c'est l'Omerta, jusqu'au bout, ils vont merder
-C'est tous les mêmes, tir dans l'tas, donc on va les alerter1Embed"
+C'est tous les mêmes, tir dans l'tas, donc on va les alerter1Embed",Soprano
 Sopra M'baba,Millions de mélos,"5 ContributorsMillions de mélos Lyrics[Intro : Bramsito]
 Ouh, ouh, ouh, ouh, ouh ,ouh
 Mmh, mmh
@@ -13507,7 +13507,7 @@ Ce soir, c'est gâté
 Pourtant, j'ai jamais quitté l'bendo (quitté l'bendo)
 J'resterai moi-même, oh (moi-même, oh)
 Mes millions de mélos (millions de mélos)
-Parti de zéro, ohEmbed"
+Parti de zéro, ohEmbed",Soprano
 Sopra M'baba,Block Party,"8 ContributorsJamais j’oublierai - Shan LyricsJamais J'oublierai
 
 [Refrain]
@@ -13729,7 +13729,7 @@ Jump jump jump jump jump jumpt
 C'est haha ! (Haha !)
 C'est jump jump jump jump jump
 Jump jump jump jump jump jumpt
-C'est haha ! (Haha !)You might also likeEmbed"
+C'est haha ! (Haha !)You might also likeEmbed",Soprano
 Sopra M'baba,Ninja,"11 ContributorsNinja Lyrics[Intro]
 Yah, yah, yah
 
@@ -13767,7 +13767,7 @@ Ton message est resté en lu un soir, cinq soirs, dix soirs car
 Il est parti comme un ninja (cheh), 'ja (cheh), 'ja (cheh)
 Il est parti comme un ninja (cheh), 'ja (cheh), 'ja (cheh)
 Il est parti comme un ninja (cheh), 'ja (cheh), 'ja (cheh)
-Il est parti comme un ninja (cheh), 'ja (cheh), 'ja (cheh)Embed"
+Il est parti comme un ninja (cheh), 'ja (cheh), 'ja (cheh)Embed",Soprano
 Sopra M'baba,Où aller,"80 ContributorsMoins un Lyrics[Paroles de ""Moins un"" ft. Nekfeu]
 
 [Intro : Nekfeu & Dinos]
@@ -13881,7 +13881,7 @@ Wanted bandidos, dangereux
 [Outro : ensemble, Dinos & Nekfeu]
 Dangereux, wanted bandidos, dangereux
 Eh, eh, eh
-Dangereux, dangereux7Embed"
+Dangereux, dangereux7Embed",Soprano
 Sopra M'baba,Ils disent,"13 ContributorsIls disent Lyrics[Couplet 1 : Soprano]
 Ils disent que c'est la faute de nos parents qu'en bas ça vend du shit
 Qu'on s'est coupés les ailes scolaires pour que le vice soit notre parachute
@@ -13947,7 +13947,7 @@ Je dis brise la glace comme Soraya Bonali
 [Outro : Soprano]
 Posons les armes
 Vivons en paix dans un monde métis voilà le message
-Soprano sur block life chez Marseille !Embed"
+Soprano sur block life chez Marseille !Embed",Soprano
 Sopra M'baba,Drapeau blanc,"10 ContributorsDrapeau blanc Lyrics[Intro : Nessbeal et Soprano]
 Nabil, Saïd
 Marseille, ris-Pa, oh !
@@ -14036,7 +14036,7 @@ Hey, aujourd'hui, on se fait la guerre
 [Outro : Soprano]
 Aujourd'hui, on se fait la guerre, frère
 Aujourd'hui, on se fait la guerre, kheye
-Aujourd'hui, on se fait la guerreEmbed"
+Aujourd'hui, on se fait la guerreEmbed",Soprano
 Sopra M'baba,Jeunesse France,"21 ContributorsA la bien Lyrics[Intro]
 Envoie le mic à Marseille on le fait (à la bien)
 Pour les mecs en bas des blocs on le fait (à la bien)
@@ -14123,7 +14123,7 @@ J'te jure (fous la bien) cousin (à la bien)
 Pour toute la jeunesse de France on l'fait (à la bien)
 Pour les frangins enfermés on l'fait (à la bien)
 Pour mes amis sur MySpace on l'fait (à la bien)
-La famille (fous la bien) t'as compris (à la bien)1Embed"
+La famille (fous la bien) t'as compris (à la bien)1Embed",Soprano
 Sopra M'baba,Attitude,"15 ContributorsAttitude Lyrics[Couplet 1 : Soprano]
 Six heure du mat' et tu zigzagues
 Attitude Jack Da'
@@ -14209,7 +14209,7 @@ Attitude de Jeffrey
 C’est la Psy 4 et la Sexion
 Attitude de refré
 (x2)
-3Embed"
+3Embed",Soprano
 Sopra M'baba,Justicier,"12 ContributorsJustice Lyrics[Refrain]
 J'suis là, t'es où ?
 J'te cherche un peu partout
@@ -14301,7 +14301,7 @@ J'te cherche en perdant espoir et je n'sais plus où aller
 Où tu es ? Où tu es ?
 Marre de voir les déboires de toutes ces œuvres inhumaines
 J'te cherche en perdant espoir et je n'sais plus où aller
-Où tu es ? Où tu es ?4Embed"
+Où tu es ? Où tu es ?4Embed",Soprano
 Sopra M'baba,Étoile d’un Jour,"10 ContributorsÉtoile d’un Jour Lyrics[Intro - L'Algérino]
 Dans c’monde y’a trop d’sang qui coule parce qu’on est différent
 Et notre point commun reste notre indifférence
@@ -14396,7 +14396,7 @@ Ooh
 Pour nos stars, lalala...
 Pour toutes nos stars, lalala...
 J’ai dit nos vraies stars (nos vraies stars), lalala...
-Pour toutes nos vraies stars, lalala...Embed"
+Pour toutes nos vraies stars, lalala...Embed",Soprano
 Sopra M'baba,Même Pas Un Peu,"7 ContributorsMême Pas Un Peu Lyrics[Refrain]
 Yeah, dis-moi qu'elle est faite pour moi
 Oh na na na, même pas un peu
@@ -14460,7 +14460,7 @@ J'ai dis danse-danse de la bonne qualité
 Danse-danse de la bonne qualité
 Allez go, bonne qualité
 Danse-danse de la bonne qualité
-C'est danse-danse de la bonne qualité1Embed"
+C'est danse-danse de la bonne qualité1Embed",Soprano
 Sopra M'baba,Sale sud Anthem,"8 ContributorsSale sud Anthem Lyrics[Intro - Soprano]
 Sale Sud !
 Mon équipe arrive les gars paniquez, on est là pour donner de la qualité, de la boucherie toi t'as pas idée
@@ -14540,7 +14540,7 @@ Qui peut lui dédier, moi qui peut tester ? On défonce comme le LSD, on se rép
 Man, heeeey hooo !
 Est-ce que mes soldats sont debout ? Yo je dis heeey hooo !
 On vit, on lutte, on meurt, debout et je dis heeey hooo !
-Où sont mes chiens de la casse ? Mes poumons ! Sale sud !You might also likeEmbed"
+Où sont mes chiens de la casse ? Mes poumons ! Sale sud !You might also likeEmbed",Soprano
 Sopra M'baba,Les 4 Fantastiques,"10 ContributorsLes 4 Fantastiques Lyrics[Refrain : L'Algérino]
 Ouh-ouh-ouh-ouh
 Y a les schmitts rends-les fous
@@ -14651,7 +14651,7 @@ Nous on sait faire des sous
 Ouh-ouh-ouh-ouh
 Y a les schmitts rends-les fous
 Bats les couilles des jaloux
-Nous on sait faire des sous1Embed"
+Nous on sait faire des sous1Embed",Soprano
 Sopra M'baba,Comment faire,"15 ContributorsPiranhas Lyrics[Couplet 1]
 Ne mets pas un pied dans mes marécages, j’ai la mâchoire d’un piranha
 Compare pas mes eaux troubles avec la piscine de Loana
@@ -14730,7 +14730,7 @@ Où sont mes chiens d'la casse, mes spartiates de Massilia ?
 Chez les piranhas
 Marseille où vous êtes ? Tous les quartiers qui vous êtes ?
 Que des piranhas
-De là je ne vous entends pas, la la la la la la la1Embed"
+De là je ne vous entends pas, la la la la la la la1Embed",Soprano
 Sopra M'baba,Amour Siamois,"7 ContributorsAmour Siamois Lyrics[Couplet 1: Soprano]
 Sur les tranchées de nos disputes, nos douilles diminuent
 Dis-moi va-t-on en finir à mains nues car t'es la seule qui sait réveiller mes démons
@@ -14796,7 +14796,7 @@ Mon amour (ma moitié t'es à moi)
 Mon amour siamois (t'es à moi)
 Mon amour siamois (ma moitié t'es à moi)
 Mon amour siamois (t'es à moi)
-Mon amour siamois3Embed"
+Mon amour siamois3Embed",Soprano
 Sopra M'baba,Cantare,"12 ContributorsCantare Lyrics[Couplet 1 : Soprano]
 J'sors du quartier très affamé
 Préviens le monde, j'suis venu le croquer
@@ -14855,7 +14855,7 @@ Chanter, je ne sais faire que ça
 Chanter nos peines et nos joies
 Cantare, cantare
 Chanter, chanter sans arrêt
-Au nom de nos favelasEmbed"
+Au nom de nos favelasEmbed",Soprano
 Sopra M'baba,Là-Bas,"12 ContributorsLà-Bas Lyrics[Intro : Soprano] (x2)
 Oh oh oh oh oh !
 Oh oh oh oh oh !
@@ -14925,7 +14925,7 @@ Besoin de changer d’air pour être vivant
 Oh oh oh oh oh !
 Oh oh oh oh oh !
 Là-bas peut-être que l’air est différent
-Ici c’est dead, là-bas peut-être…Embed"
+Ici c’est dead, là-bas peut-être…Embed",Soprano
 Sopra M'baba,Parles moi,"10 ContributorsParles moi Lyrics[Couplet 1 : Soprano]
 Fils, si aujourd'hui j'te parle à travers ce disque
 C'est pour que tu puisses savoir que ton père existe et qu'il s'appelle Saïd
@@ -14985,7 +14985,7 @@ Dédicacé à tout ceux qui savent c'que c'est d'être loin d'son fils, loin d's
 A tous ces pères enfermés
 A tous ces pères divorcés
 A ceux à qui on a volé le rôle de père
-A tous les enfants de la DDASSEmbed"
+A tous les enfants de la DDASSEmbed",Soprano
 Sopra M'baba,Le poids d’un amour,"5 ContributorsLe poids d’un amour Lyrics[Intro]
 Pourtant rien n'vaut la vie
 
@@ -15048,7 +15048,7 @@ Le poids de cet amour m’est devenu trop lourd
 [Outro] x2
 Pourtant rien n'vaut la vie
 Yeah
-Pourtant rien n'vaut la vieEmbed"
+Pourtant rien n'vaut la vieEmbed",Soprano
 Sopra M'baba,Plumer,"6 ContributorsPlumer Lyrics
 [Couplet 1 : Dadju]
 Tu veux le salaire de Messi
@@ -15145,7 +15145,7 @@ Plumer, plumer, plumer, tu t'fais constamment
 Plumer, plumer, plumer, tu t'fais constamment
 Plumer, plumer, plumer, tu t'fais constamment
 Plumer, plumer, plumer, tu t'fais constamment
-Plumer, plumer, plumer, tu t'fais constamment plumer1Embed"
+Plumer, plumer, plumer, tu t'fais constamment plumer1Embed",Soprano
 Sopra M'baba,13 Marseille,"10 ContributorsR.A.P (Rimes Anti Personnel) Lyrics[Intro : Sam's]
 S.A.M.S
 Sopra M'baba
@@ -15242,7 +15242,7 @@ Et plombent l'ambiance un peu comme des fêtards calibrés
 Donc pas de panique, on arrive on manie la rime
 Habile manie ma mine magique, oui mon ami c'est...
 
-[Refrain - Soprano]Embed"
+[Refrain - Soprano]Embed",Soprano
 Sopra M'baba,2 sortie,"1 ContributorCrazy Night Lyrics[Intro : Soprano & Diden]
 - Diden !
 - Ouais la famille ?
@@ -15312,7 +15312,7 @@ Faut qu'tu passes une crazy night
 
 [Pont 1 : Diden]
 
-[Refrain : Soprano] (x2)Embed"
+[Refrain : Soprano] (x2)Embed",Soprano
 Sopra M'baba,3615 Bonheur,"7 Contributors3615 Bonheur Lyrics[Paroles de ""3615 Bonheur""]
 
 [Couplet 1]
@@ -15385,7 +15385,7 @@ Ouh, ouh, ouh
 Ouh, ouh, ouh (Le 3615 Bonheur, allô ? Allô ?)
 Ouh, ouh, ouh (Le 3615 Bonheur)
 Ouh, ouh, ouh
-Ouh, ouh, ouh (Je fais le 3615 Bonheur, ah)Embed"
+Ouh, ouh, ouh (Je fais le 3615 Bonheur, ah)Embed",Soprano
 Sopra M'baba,Abusew,"10 ContributorsAbusew Lyrics[Paroles de ""Abusew"" ft. Gims]
 
 [Intro : Soprano]
@@ -15496,7 +15496,7 @@ Viens chez oi-m : on est sur écoute
 
 [Outro: Soprano]
 C'est le remix !
-Fais-moi voir ton colis !1Embed"
+Fais-moi voir ton colis !1Embed",Soprano
 Sopra M'baba,À l’instinct,"35 ContributorsBafana Bafana (Remix) Lyrics[Couplet 1 : La Fouine]
 Les keufs frappent on n'ouvre pas, Banlieue Sale t'approuves pas
 Ton équipe c'est personne ma gueule, même Google te trouve pas
@@ -15614,7 +15614,7 @@ Chargez, Chargez
 Char-char-char-char-char-chargez
 Banlieue Sale, Banlieue-Banlieue Sale
 Banlieue Sale, Banlieue-Banlieue Sale
-Chargez, Chargez1Embed"
+Chargez, Chargez1Embed",Soprano
 Sopra M'baba,Alléluia,"4 ContributorsAlléluia Lyrics[Intro] (x2)
 On  a trop fêté nos défaites
 Aujourd’hui on chante nos victoires
@@ -15675,7 +15675,7 @@ Alléluia, alléluia, alléluia, alléluia
 Alléluia, alléluia, alléluia, alléluia
 On  a trop fêté nos défaites
 Aujourd’hui on chante nos victoires
-Hamdulilah, hamdulilahYou might also likeEmbed"
+Hamdulilah, hamdulilahYou might also likeEmbed",Soprano
 Sopra M'baba,Allez tous vous faire...,"4 ContributorsAllez tous vous faire... Lyrics[Couplet 1]
 Encore...
 Les mêmes morts, les mêmes guerres
@@ -15756,7 +15756,7 @@ I want your love love love
 I need your love love love
 (Allez tous vous faire aimer)
 Give me your love love love
-Give me your love love loveEmbed"
+Give me your love love loveEmbed",Soprano
 Sopra M'baba,A l’orée des larmes,"3 ContributorsA l’orée des larmes Lyrics(Couplet 1 : Lili Poe)
 Ici, les années se sont écoulées
 Plus d'heures d'hiver que d'heures d'été
@@ -15818,7 +15818,7 @@ Et nos jours qui déraillent
 Oooh, à l'orée des larmes
 Quand elles sèchent c'est pour ne pas tomber
 Oooh, adorées des flammes
-Quand elles me guettent, je suis déjà tombéeEmbed"
+Quand elles me guettent, je suis déjà tombéeEmbed",Soprano
 Sopra M'baba,A Maalam - المعلم,"2 ContributorsA Maalam - المعلم Lyrics[المقطع الأول : أشرف]
 الفنايرية والعين ثلاثية.. روا لـيا
 مناغمية والنغمة رقايقية .. روا لـيا
@@ -15860,7 +15860,7 @@ You might also like[اللازمة : محسن]
 فينا و فينا النبار، و منا لي جاب الخبار
 هاذو هوما الميالة
 هاذو هوما الحيالة
-هاذو القوم المسفالة، ناسي و عليهم نغارEmbed"
+هاذو القوم المسفالة، ناسي و عليهم نغارEmbed",Soprano
 Sopra M'baba,Amour des miens,"3 ContributorsAmour des miens LyricsTu sais mino
 Tout ce que tu me demanderas, tu l'auras
 Parce que nous
@@ -15955,7 +15955,7 @@ Je n'ai plus peur de rien
 J'ai plus de voix pour qui
 Pour l'amour des miens
 
-ComprendesEmbed"
+ComprendesEmbed",Soprano
 Sopra M'baba,Anéanti,"12 ContributorsAnéanti Lyrics[Couplet 1 - Médine]
 Refaire le monde avec un disque de rap
 En racontant le monde et ses habitants qui dérapent
@@ -16033,7 +16033,7 @@ Par l'interprétation du mot martyr
 Anéanti (Anéanti)
 Par tous ces clichés qui m'empêchent de vivre
 Yeah. Pour tous ces jeunes de l'époque condamnés à construire
-Des châteaux d'sable près des marées hautesEmbed"
+Des châteaux d'sable près des marées hautesEmbed",Soprano
 Sopra M'baba,Apprends-moi,"4 ContributorsApprends-moi Lyrics[Couplet 1 - Nej]
 Un instant, j'aimerais t'apercevoir
 Juste un instant je t'attends
@@ -16110,7 +16110,7 @@ Apprends-moi à rêver
 Apprends-moi à rire
 Apprends-moi à aimer
 Apprends-moi à vivre
-Apprends-moi à rêverEmbed"
+Apprends-moi à rêverEmbed",Soprano
 Sopra M'baba,Armadeus & Ghettoven,"2 ContributorsArmadeus & Ghettoven Lyrics[Intro : Kalash l'Afro]
 Rendez les armes
 Armadeus et Ghettoven
@@ -16215,7 +16215,7 @@ Rendez les armes, c'est Armadeus et Ghettoven
 C'est Armadeus et Ghettoven
 Quand le ghetto gueule
 Quand nos rimes et nos micros deviennent des guns
-C'est Armadeus et GhettovenEmbed"
+C'est Armadeus et GhettovenEmbed",Soprano
 Sopra M'baba,À ta santé,"3 ContributorsÀ ta santé Lyrics[Paroles de ""À ta santé"" ft. Soprano]
 
 [Couplet 1 : Vianney, Soprano]
@@ -16258,7 +16258,7 @@ Ce soir, on lève nos verres à ta santé
 Toi, le malade, tu nous as soignés (Tu nous as soignés)
 Toi, le malade, tu nous as soignés (Tu nous as soignés)
 Toi, le malade, tu nous as soignés (Tu nous as soignés)
-Toi, le malade, tu nous as soignésEmbed"
+Toi, le malade, tu nous as soignésEmbed",Soprano
 Sopra M'baba,Au bout de nos peines,"7 ContributorsAu bout de nos peines Lyrics[Couplet 1: Corneille]
 Je sais attendre c’est dur quand on attend dans la brume
 Que le salut n’est pas sûr, tout comme ce train je présume
@@ -16313,7 +16313,7 @@ Sur les quais de gare de la chance
 Vers le bout de mes peines
 Vers le bout de mes peines
 Je sais attendre c’est dur
-Mais on s’en sortira c’est sûrEmbed"
+Mais on s’en sortira c’est sûrEmbed",Soprano
 Sopra M'baba,Au-delà des codes postaux,"4 ContributorsAu-delà des codes postaux Lyrics[Intro: Mystik]
 Meldek Music
 Street Skillz
@@ -16406,7 +16406,7 @@ Anno, Alilou, XXX, Roland, Tony
 Champollion sur la Canebière
 Ça fait tarpin plaisir
 DJ au labo
-Pa, pa, paEmbed"
+Pa, pa, paEmbed",Soprano
 Sopra M'baba,Au-delà des codes postaux (version spéciale),"2 ContributorsAu-delà des codes postaux (version spéciale) Lyrics[Intro: Mystik]
 Beh ouais
 Meldek Music présente
@@ -16499,7 +16499,7 @@ Y en a plein qui sont plus dans l'coup
 Eh ouais
 J'reviens pour leur couper la chique, leur faire la nique, nique
 Mystik a.k.a Khaladalik, lik
-DJ H au laboEmbed"
+DJ H au laboEmbed",Soprano
 Sopra M'baba,Au front,"6 ContributorsJe reste au front Lyrics[Couplet 1 : Soprano]
 C’est avec de l’entrave dans l’phrasé que j’envoie ces rimes
 Surine le rap français car j’pète les plombs comme mon poto Sérigne
@@ -16574,7 +16574,7 @@ Les renois sont devenus des boys
 J’vais laver l’affront
 J’ai plus d’camisole, ni d’auréole sous mon afro
 J’reste au front, affronte la vie comme elle me vient
-De loin elle me tourne le dos pour qu’je puisse lui mettre bien profondEmbed"
+De loin elle me tourne le dos pour qu’je puisse lui mettre bien profondEmbed",Soprano
 Sopra M'baba,Ayie Mama,"2 ContributorsMars LyricsParoles {M.A.R.S}
 
 [Soprano]
@@ -16664,7 +16664,7 @@ Hé Poto, si t'es pas de là, Aïe Aïe Aïe
 Centre Ville vient de, vient de, vient de M.A.R.S
 Plan d'Aou vient de, vient de, vient de M.A.R.S
 Paluce vient de, vient de, vient de M.A.R.S
-Hé Poto si t'es pas de là, Aïe Aïe AïeEmbed"
+Hé Poto si t'es pas de là, Aïe Aïe AïeEmbed",Soprano
 Sopra M'baba,Azzura,"6 ContributorsAzzura Lyrics[Intro]
 Hey
 Hey hey hey hey hey hey
@@ -16730,7 +16730,7 @@ Azzura-a-a-a-a
 Oh ha oh Azzura-a-a-a-a
 Tu n'es pas là pour jouer
 Tu cherches un homme à aimer
-Azzura, Azzura, Azzura-a-a-a-aEmbed"
+Azzura, Azzura, Azzura-a-a-a-aEmbed",Soprano
 Sopra M'baba,Bangobang,"5 ContributorsBangobang Lyrics[Intro]
 Medi Meyz
 Lartiste bang
@@ -16811,7 +16811,7 @@ Et ça fait bang bang bang, ça fait bango bango bang
 [Outro]
 Hey
 Lartiste
-Sopra M'BabaEmbed"
+Sopra M'BabaEmbed",Soprano
 Sopra M'baba,Bébé Love,"3 ContributorsBébé Love Lyrics[Paroles de ""Bébé Love""]
 
 [Intro]
@@ -16876,7 +16876,7 @@ Bé-bé-bé love
 Bé-bé-bé love
 Bé-bé-bé-bé-bé-bé love
 Bé-bé-bé love
-Bé-bé-bé-bé-bé-bé loveEmbed"
+Bé-bé-bé-bé-bé-bé loveEmbed",Soprano
 Sopra M'baba,Bebeto (Remix),"6 ContributorsBebeto (Remix) Lyrics[Paroles de ""Bebeto (Remix)"" ft. Naps, Soprano & Sooking]
 
 [Intro : Kendji Girac & Soolking]
@@ -17000,7 +17000,7 @@ Et vas-y, donne-moi ton cœur, ton sourire moqueur, ouais
 Ouh-la-la-la-la-la-la
 Et vas-y, donne-moi ton cœur, ton sourire moqueur, ouais (Vamos ya, sí)
 Ouh-la-la-la-la-la-la
-Et vas-y, donne-moi ton cœur, ton sourire moqueur, ouaisEmbed"
+Et vas-y, donne-moi ton cœur, ton sourire moqueur, ouaisEmbed",Soprano
 Sopra M'baba,Bellingham,"5 ContributorsBellingham Lyrics[Couplet 1 - S. Pri Noir]
 Quand je sors du bat je check (check)
 Quand je sors du bat je check (check)
@@ -17078,7 +17078,7 @@ Petit à petit, le crocodile deviendra coste-La (Prims)
 [Outro - Soprano & Youssoupha]
 (La tristesse dans la mélo')
 Bébé, je t'accueille les bras ouverts comme Jude Bellingham
-(La tristesse dans la mélo')Embed"
+(La tristesse dans la mélo')Embed",Soprano
 Sopra M'baba,Besoin De Renaître,"7 ContributorsBesoin De Renaître Lyrics[Couplet 1]
 Ouais ce soir j'rentre tard, j'ai perdu mes clefs
 J'fouille mes poches, vide tout mon sac sur l'palier
@@ -17151,7 +17151,7 @@ De devoir escalader des murs et casser des fenêtres
 Faut qu'je m'en sorte
 J'ai trop morflé, j'ai besoin de renaître
 Ouais et ça m'rend forte
-De devoir escalader des murs et casser des fenêtresEmbed"
+De devoir escalader des murs et casser des fenêtresEmbed",Soprano
 Sopra M'baba,Besoin d’être libre,"1 ContributorBesoin d’être libre LyricsYeah Maha
 Wech Saîd
 Regarde les jeunes y partent en couille, ils se déchirent entre eux t'as vu?
@@ -17235,7 +17235,7 @@ Refrain
 Matador-Soprano-Marseille
 Besoin d'être libre frangin, yeah yeah, okey
 Marseille-Marseille centre villes
-...Quartier nord1Embed"
+...Quartier nord1Embed",Soprano
 Sopra M'baba,Besoin d’être libre,"1 ContributorBesoin d’être libre LyricsYeah Maha
 Wech Saîd
 Regarde les jeunes y partent en couille, ils se déchirent entre eux t'as vu?
@@ -17319,7 +17319,7 @@ Refrain
 Matador-Soprano-Marseille
 Besoin d'être libre frangin, yeah yeah, okey
 Marseille-Marseille centre villes
-...Quartier nord1Embed"
+...Quartier nord1Embed",Soprano
 Sopra M'baba,BlackOut,"3 ContributorsBlackOut Lyrics[Refrain : Puissance Nord]
 BlackOut on a c'qu'il faut, BlackOut on fait c'qu'il faut
 BlackOut on a c'qu'il faut, BlackOut on fait c'qu'il faut
@@ -17421,7 +17421,7 @@ BlackOut, BlackOut
 Yeah, c’est la Puissance, Nord
 Double-doublement hardcore
 C’est Sopra M’baba
-Pour les-pour les Quartiers NordEmbed"
+Pour les-pour les Quartiers NordEmbed",Soprano
 Sopra M'baba,Block to the future,"11 ContributorsBlock to the future Lyrics[Paroles de ""Block To The Future""]
 
 [Intro - Soprano]
@@ -17489,7 +17489,7 @@ Déterminé à devenir ce que l'on doit être
 Alléluia (x2)
 Aujourd'hui la jeunesse sait relever la tête
 Alléluia (x2)
-Block to the Future (x4)2Embed"
+Block to the Future (x4)2Embed",Soprano
 Sopra M'baba,Bomb,"7 ContributorsBomb Lyrics[Paroles de ""Bomb""]
 
 [Pré-refrain]
@@ -17550,7 +17550,7 @@ J'suis perdu au milieu de la fumée des narguilés
 Trouve moi dans l'abri car ce soir dans la boite ça va sauter
 Ça va sauter, ça va sauter
 Au milieu de la piste elle bouge sa TNT
-Ça va sauter, ça va sauterEmbed"
+Ça va sauter, ça va sauterEmbed",Soprano
 Sopra M'baba,Bon pied,"3 ContributorsBon pied Lyrics[Paroles de ""Bon pied"" ft. Soprano]
 
 [Intro]
@@ -17609,7 +17609,7 @@ Les aider pour qu'ils oublient, ça n'en vaut pas la peine
 [Outro : Soprano]
 La Frappe, la m'Baba
 9.3, 1.3
-RahEmbed"
+RahEmbed",Soprano
 Sopra M'baba,Bourbier,"2 ContributorsBourbier Lyrics[Paroles de ""Bourbier"" ft. Soprano]
 
 [Intro : Soprano]
@@ -17674,7 +17674,7 @@ Ils m'auront pas, j'vais pas plier, non
 Ne croyez pas qu'j'ai oublié, non
 Tou-tou-tou-touh, tou-tou-tou-tou-tou-touh
 Yah
-Tou-tou-tou-touh, tou-tou-tou-tou-tou-touhEmbed"
+Tou-tou-tou-touh, tou-tou-tou-tou-tou-touhEmbed",Soprano
 Sopra M'baba,Boycott,"4 ContributorsBoycott Lyrics[Intro - Soprano]
 Yeah ça vient du goulag
 Jamel Mektoub Sopram'Baba de la Psykatra de la rimia
@@ -17788,7 +17788,7 @@ Soprano de la Psy4
 M.A.R.S-Montpellier
 Boycott !
 
-Paroles rédigées et annotées par la communauté française de Rap GeniusEmbed"
+Paroles rédigées et annotées par la communauté française de Rap GeniusEmbed",Soprano
 Sopra M'baba,Bruce Lee,"4 ContributorsBruce Lee Lyrics[Paroles de ""Bruce Lee""]
 
 [Intro : Mokliss]
@@ -17826,7 +17826,7 @@ J'ai l'gang le plus fou de Marseille à Hong Kong, ça jongle comme Zizou, Sopra
 J'ai le bing bang du rap, j'éclate les baffes, j'écarte les vagues, décapite les bacs, décale vite mes balles
 Te cane, oui, depuis ""Hala hala"", j'te balade dans l'Valhalla, sur Sopra tu disais quoi ? (Tu disais quoi ? Tu disais quoi ?)
 You might also like[Outro]
-Tu ne le sais pas, mais tu es déjà mort.Embed"
+Tu ne le sais pas, mais tu es déjà mort.Embed",Soprano
 Sopra M'baba,C24,"7 ContributorsC24 Lyrics[Paroles de ""C24""]
 
 [Intro]
@@ -17900,7 +17900,7 @@ Mes rap, des coups d'feux sous leurs putains d'artifices
 Être libre comme la colombe
 Des colons j'me délivre vu qu'ils ne livrent rien de mes livres
 J'ai décidé de revenir avec la plume de La colombe
-Voici l'nouveau chapitre, freedomEmbed"
+Voici l'nouveau chapitre, freedomEmbed",Soprano
 Sopra M'baba,Ça arrive,"10 ContributorsÇa arrive Lyrics[Couplet 1 : Soprano]
 Combien de cicatrices m'a dessiné la vie ?
 Quoi qu'je fasse, je vis avec
@@ -17970,7 +17970,7 @@ Demain, tout ira mieux, aujourd'hui ça n'va pas, c'est des choses qui arrivent
 C'est triste mais finir en prison, c'est des choses qui arrivent
 [Outro : Mac Tyer]
 Ouh, c'est la street mon pote
-Ouh1Embed"
+Ouh1Embed",Soprano
 Sopra M'baba,Cabeza,"5 ContributorsCabeza Lyrics[Intro : Soprano]
 Je l'ai trouvé dans un bouquet de roses
 Ses pétales étaient différents des autres
@@ -18062,7 +18062,7 @@ Et elle veut l'minimum-mum, pas l'million-lion-lion
 Toute mignonne-nionne
 Tous lui donne-donne
 Et elle veut l'minimum-mum, pas l'million-lion-lion
-Tous lui donne-donneEmbed"
+Tous lui donne-donneEmbed",Soprano
 Sopra M'baba,Ça ne suffira pas,"3 ContributorsÇa ne suffira pas Lyrics[Paroles de ""Ça ne suffira pas""]
 
 [Couplet 1]
@@ -18098,7 +18098,7 @@ Je n'cesserai jamais de t'honorer
 Comprends-moi ah ah
 Que ça fait du bien hein hein
 Tellement du bien hein hein
-YeahEmbed"
+YeahEmbed",Soprano
 Sopra M'baba,Ca Parait Normal,"7 ContributorsCa Parait Normal LyricsJ'ai vraiment galéré à écrire la deuxième moitié du premier couplet, j'ai dû passer le son au ralenti plusieurs fois, et encore ! je suis vraiment pas sûr. Donc, si vous avez plus de talent pour ce genre de paroles très rythmées, vous êtes les bienvenus ! Merci d'avance
 
 [Couplet 1]
@@ -18188,7 +18188,7 @@ Et [vont devoir ?] nous mettre en laisse
 Crois-moi faut être au-dessus d'ça
 Ils aiment nous voir dans l'cul-de-sac
 Vaudrait mieux qu'tu l'saches
-Big-up à tous ceux qui ont plus l'timeEmbed"
+Big-up à tous ceux qui ont plus l'timeEmbed",Soprano
 Sopra M'baba,Casanova,"10 ContributorsCasanova Lyrics[Couplet 1]
 J'ai toujours aimé les femmes
 Les blondes ou les brunes, mon charme
@@ -18258,7 +18258,7 @@ Oui, fini la Vida Loca depuis qu'elle joue avec moi
 Fini la Vida Loca
 (La la la la la la hey, la la la la la la hey)
 M'appelle plus Casanova
-(La la la la la la)Embed"
+(La la la la la la)Embed",Soprano
 Sopra M'baba,Ça va aller,"10 ContributorsÇa va aller Lyrics[Couplet 1 : Aketo]
 J'dois faire du chiffre avec mes lettres, toi tu pue le vice, allez salam
 J'ferais pas de hit avec mes thèmes, j'fais pas de feat avec ces chbebs
@@ -18327,7 +18327,7 @@ J'ai besoin de ta lumière pour me dire que demain ça va aller
 Quoi qu'il arrive ça va aller, quoi qu'il arrive ça va aller
 J'suis plus tout seul, donc pour leurs ailes
 J'affronte toutes les épreuves pour qu'ils sachent que demain ça va aller
-Quoi qu'il arrive ça va aller, quoi qu'il arrive ça va allerEmbed"
+Quoi qu'il arrive ça va aller, quoi qu'il arrive ça va allerEmbed",Soprano
 Sopra M'baba,C’est la folie,"4 ContributorsC’est la folie Lyrics[Couplet 1 : Amel Bent]
 Encore un matin, réveil sous la pression
 Dis-moi qu’tout va bien, dis-moi que tout est beau
@@ -18380,7 +18380,7 @@ C'est la folie, c'est la folie, c'est la folie, c'est la folie
 
 [Outro : Amel Bent]
 Après quoi on court ?
-Après quoi on court ?Embed"
+Après quoi on court ?Embed",Soprano
 Sopra M'baba,C’est la vie,"9 ContributorsC’est la vie Lyrics[Couplet 1]
 C'est la génération qu'a le mépris
 Drogue alcool, entend les cris
@@ -18486,7 +18486,7 @@ C'est la vie
 The blocks too hot
 We tryna movies rock
 Just another day another body drops
-C'est la vie2Embed"
+C'est la vie2Embed",Soprano
 Sopra M'baba,C’est Ma Life,"5 ContributorsC’est Ma Life Lyrics[Intro]
 Allô ?
 Merde cest le répondeur
@@ -18600,7 +18600,7 @@ Tant pis si tu kiffe pas
 Donc laisse nous faire le show
 Entourés de mes khos
 Oui laisse nous faire le show
-Entourés de mes khosEmbed"
+Entourés de mes khosEmbed",Soprano
 Sopra M'baba,C’est mon année,"3 ContributorsC’est mon année LyricsAlt Kontrol On The Beat
 Syger
 
@@ -18702,7 +18702,7 @@ Non, fais tout pour la famille
 
 (Pont: Veazy & Friz)
 Le mariage serait pas pour nous
-Et cette année elle est pour nousEmbed"
+Et cette année elle est pour nousEmbed",Soprano
 Sopra M'baba,C’est vrai,"18 ContributorsMarseille c’est... Lyrics[Refrain - Jul]
 Marseille c'est la plage, le foot, la gratte en pleine chaleur
 J'vois les gadjis zoner et faire des béquilles en Faizer
@@ -18805,7 +18805,7 @@ On s'ennuie toute la nuit on parle, on tourne jusqu'à pas d'heure
 Marseille c'est la plage, le foot, la gratte en pleine chaleur
 J'vois les gadjis zoner et faire des béquilles en Faizer
 Les flics te font danser le moonwalk à coup d'taser
-On s'ennuie toute la nuit on parle, on tourne jusqu'à pas d'heureEmbed"
+On s'ennuie toute la nuit on parle, on tourne jusqu'à pas d'heureEmbed",Soprano
 Sopra M'baba,Challenger,"7 ContributorsChallenger Lyrics[Intro : Kery James]
 Challenger, challenger, challenger
 
@@ -18868,7 +18868,7 @@ Challenger, challenger, toute ma vie, j'ai du challenger
 Nos rêves devant leurs portes fermées
 Il a fallu vraiment trimer
 Debout contre vents et marées
-Challenger, challenger, toute ma vie, j'ai du challengerEmbed"
+Challenger, challenger, toute ma vie, j'ai du challengerEmbed",Soprano
 Sopra M'baba,Chasseur d’étoiles,"5 ContributorsChasseur d’étoiles Lyrics[Intro]
 Hey
 Hey
@@ -18926,7 +18926,7 @@ Je pars à la chasse aux étoiles, je pars à la chasse aux étoiles
 
 [Outro]
 Prochain album, prochain album
-Chasseur d'étoiles (chasseur d'étoiles, chasseur d'étoiles, chasseur d'étoiles)Embed"
+Chasseur d'étoiles (chasseur d'étoiles, chasseur d'étoiles, chasseur d'étoiles)Embed",Soprano
 Sopra M'baba,Civil,"33 Contributors13 Organisé (Bonus Track) Lyrics[Paroles de ""13 Organisé"" ft. Many, Akhenaton, K-Ra, Jazzy Jazz, Sysa, Don Choa, 2Bang, Moubarak, Tonyno, Shurik’n, Dadinho, A-Deal, MOH, Zak & Diego, Graya, Sauzer, Sat l’Artificier, Zbig, Menzo, Youzi, Oussagaza, SAF, Soso Maness, Jhonson, Fahar, Stone Black, DRIME, Le Rat Luciano, 100 Blaze, L’Algérino, Alonzo, Soprano, Veazy, AM La Scampia, Keny Arkana, Friz, Djiha, Kamikaz, Thabiti, As, Bilk, Elams, Solda, Kofs, Houari, JuL, SCH & Naps]
 
 [Intro : Naps]
@@ -19456,7 +19456,7 @@ On met ton camp sur le banc, j'ai le col levé à la Cantona
 Crois pas qu'la vie c'est un dream car, dehors, c'est marche ou crève
 Moi, j'ai toujours la même team, j'fais toujours partie d'la crème
 J'ai connu l'âge d'or du rap, quelques déceptions dans le hood
-Moi, de la gloire, je m'en tape, avec les frères, on s'serre les coudesEmbed"
+Moi, de la gloire, je m'en tape, avec les frères, on s'serre les coudesEmbed",Soprano
 Sopra M'baba,Claque des dents,"8 ContributorsClaque des dents Lyrics
 [Intro - Ikbal, Hayce Lemsi & Soprano]
 I.K.B.A.L, (Hayce Lemsi)
@@ -19570,7 +19570,7 @@ Tu peux pas test les kings du ghetto
 Cla-claque des dents, cla-claque des dents, cla-claque des dents
 V'là l'équipe qui te met la pression
 Cla-claque des dents, cla-claque des dents, cla-claque des dents
-T'es dépassé, subis l'agression2Embed"
+T'es dépassé, subis l'agression2Embed",Soprano
 Sopra M'baba,Claque des dents (West Indies Remix),"4 ContributorsClaque des dents (West Indies Remix) Lyrics[Intro - Ikbal, Hayce Lemsi & Soprano]
 C'est l'remix, les Comores sont no limit
 Guadeloupe est no limite, Martinique est no limit
@@ -19668,7 +19668,7 @@ Dans mes lyrics, même ego trip, j'fais de XXX, j'brise les côtes d'un Fenwick
 XXX, tu finis quand je débite, quand j'te lapide avec des rimes
 Qui découpent à la scie les MC's à la Hayce Lemsi
 Asseyez-vous ici sur cette chaise éléctrique, que je vous mette au courant de qui est le king
-M'Baba !Embed"
+M'Baba !Embed",Soprano
 Sopra M'baba,Classic,"29 ContributorsTranslationsEnglishLégendaire Lyrics[Paroles de ""Légendaire"" ft. Calbo, R.E.D.K., Lino, Oxmo Puccino, Soprano, JuL, Rim’K & SCH]
 
 [Intro : SCH]
@@ -19779,7 +19779,7 @@ Reçoit de nouveaux ients-cli et le Diable attend les remerciements
 Dehors, on compte les pertas, on nous vend la liberté
 Ça ressort la grosse Bertha, la révolte a déserté
 Kho, ici, c'est l'Omerta, jusqu'au bout, ils vont merder
-C'est tous les mêmes, tir dans l'tas, donc on va les alerter1Embed"
+C'est tous les mêmes, tir dans l'tas, donc on va les alerter1Embed",Soprano
 Sopra M'baba,C O M B L E U S E D E R Ê V E S,"6 ContributorsC O M B L E U S E D E R Ê V E S Lyrics[Paroles de ""C O M B L E U S E D E R Ê V E S"" ft. Soprano]
 
 [Intro : Tayc & Soprano]
@@ -19858,7 +19858,7 @@ Que toi, que toi (tu combles mes rêves)
 Que toi, que toi, que toi, mami il n'y a que toi (tu combles mes rêves)
 Que toi, que toi
 Bébé il n'y a que toi, que toi, que toi
-Mami il n'y a que toi, que toi, que toi (tu combles mes rêves)Embed"
+Mami il n'y a que toi, que toi, que toi (tu combles mes rêves)Embed",Soprano
 Sopra M'baba,Coucou,"10 ContributorsCoucou Lyrics[Intro]
 Ladies and Gentlemen
 
@@ -19963,7 +19963,7 @@ T'inquiète pas
 T'inquiète pas
 Ça va bien
 T'inquiète pas
-CoucouEmbed"
+CoucouEmbed",Soprano
 Sopra M'baba,Courage Girl,"8 ContributorsCourage Girl Lyrics[Pont : version 1]
 Lady faut qu'tu tiennes
 Lady faut qu'tu tiennes
@@ -20053,7 +20053,7 @@ Courage Girl
 C'est bientôt l'heure de sortir du trou dans lequel on se planque
 C'est bientôt l'heure de manifester une vie d'abondance
 C'est bientôt notre moment
-C'est bientôt le moment de notre vieEmbed"
+C'est bientôt le moment de notre vieEmbed",Soprano
 Sopra M'baba,Crazy,"10 ContributorsCrazy Lyrics[Couplet 1]
 Génération à fond le foot, qui ne se parle qu'en bluetooth
 Qui ne croit plus aux discours, des politiques donc rien à foutre
@@ -20105,7 +20105,7 @@ Crazy, on est crazy, on est crazy yeah
 
 [Outro]
 On est crazy, on est crazy
-Crazy, on est crazy yeahEmbed"
+Crazy, on est crazy yeahEmbed",Soprano
 Sopra M'baba,Crazy Night,"1 ContributorCrazy Night Lyrics[Intro : Soprano & Diden]
 - Diden !
 - Ouais la famille ?
@@ -20175,7 +20175,7 @@ Faut qu'tu passes une crazy night
 
 [Pont 1 : Diden]
 
-[Refrain : Soprano] (x2)Embed"
+[Refrain : Soprano] (x2)Embed",Soprano
 Sopra M'baba,Danse Ce Soir / Midnightlude,"7 ContributorsDanse Ce Soir / Midnightlude Lyrics[Intro]
 Oh, apprécie, apprécie oui
 Oh, apprécie oui
@@ -20243,7 +20243,7 @@ Mais on questionne que les sheitan
 La vie est belle au naturel
 Mais on préfère la maquiller
 J'ai griffé le dos de l'Everest
-Au sommet, essouffléEmbed"
+Au sommet, essouffléEmbed",Soprano
 Sopra M'baba,Dans la peau,"6 ContributorsDans la peau Lyrics[Paroles de ""Dans la peau"" ft. Alonzo & Soprano]
 
 [Couplet 1 : Graya]
@@ -20313,7 +20313,7 @@ Des frères sont partis trop tôt, pour eux, je chanterai
 Ola, ola, ola, olalah, olalah
 Ça fait : ""Ola, ola, ola, olalah, olalah""
 Ça fait : ""Ola, ola, ola, olalah, olalah""
-Ça fait : ""Ola, ola, ola, olalah"", yeahEmbed"
+Ça fait : ""Ola, ola, ola, olalah"", yeahEmbed",Soprano
 Sopra M'baba,Demain c’est maintenant,"7 ContributorsDemain c’est maintenant Lyrics[Refrain 1]
 Demain c'est maintenant
 J'ai dis: ""demain c'est maintenant""
@@ -20388,7 +20388,7 @@ Narfagné zé guéléguélé
 Narfagné zé guéléguélé
 Narfagné zé guéléguélé
 Narfagné zé guéléguélé
-Narfagné zé guéléguéléEmbed"
+Narfagné zé guéléguéléEmbed",Soprano
 Sopra M'baba,Deviens ce que tu es,"4 ContributorsDeviens ce que tu es Lyrics[Couplet 1: Mino]
 Approchez-vous mes frères, écoutez-moi mes sœurs
 Si j'n'en fais qu´à ma tête, mon stylo n'en fais qu'à son cœur
@@ -20453,7 +20453,7 @@ Ce même genre d'histoire que tout le monde peut changer
 Ça commence dans le regard, la soif de victoire
 Dans la merde jusqu'au cou il nous reste plus qu'à chanter
 Oh oh oh oh oh oh oh oh oh oh
-Paroles rédigées et annotées par la communauté française de Rap GeniusEmbed"
+Paroles rédigées et annotées par la communauté française de Rap GeniusEmbed",Soprano
 Sopra M'baba,Dingue,"6 ContributorsDingue Lyrics[Paroles de ""Dingue""]
 
 [Refrain]
@@ -20526,7 +20526,7 @@ Dingue, dingue, dingue, dingue, dingue
 Dingue, dingue, dingue, dingue, dingue
 Dingue, dingue, dingue, dingue, dingue
 Eh oh, eh oh
-Eh oh, eh ohEmbed"
+Eh oh, eh ohEmbed",Soprano
 Sopra M'baba,Donc,"7 ContributorsDonc Lyrics[Dialogue: Soprano & Pascale Clark]
 - Bonjour Monsieur Soprano !
 - Bonjour !
@@ -20536,7 +20536,7 @@ Sopra M'baba,Donc,"7 ContributorsDonc Lyrics[Dialogue: Soprano & Pascale Clark]
 - J'suis pas très habitué. Vous voulez que j'dise quoi ?
 - Oh dites ce que vous voulez, ce qui vous passe par la tête
 - Bah le mieux c'est que j'me présente j'pense non ?
-- Ouais ouais, bonne idée. C'est un bon début, je vous écouteYou might also likeEmbed"
+- Ouais ouais, bonne idée. C'est un bon début, je vous écouteYou might also likeEmbed",Soprano
 Sopra M'baba,Du temps plein,"5 ContributorsDu temps plein LyricsHey, hi, hey
 Oh yeah
 
@@ -20609,7 +20609,7 @@ Du temps plein, du temps plein, du temps plein
 Pourtant je les porte dans mon cœur
 Je cherche du temps pour les miens
 Du temps, du temps, du temps plein
-Du temps pleinEmbed"
+Du temps pleinEmbed",Soprano
 Sopra M'baba,Échos,"3 ContributorsÉchos Lyrics[Couplet 1]
 Quand tu marches sous la pluie pour tes idéaux
 Quand tu braves les orages juste pour les autres
@@ -20699,7 +20699,7 @@ Ils n′auront pas le choix
 On est derrière toi
 Si tu crois en toi
 Ils n'auront pas le choix
-On marche avec toiEmbed"
+On marche avec toiEmbed",Soprano
 Sopra M'baba,Écrire l’Histoire,"2 ContributorsÉcrire l’Histoire Lyrics[Refrain : Soprano, Lil ' Saï & Luciano]
 Ecrire l'histoire d'un peu partout
 Prouver qu'on existe, y croire
@@ -20743,7 +20743,7 @@ Le quotidien prend un autre timing les valeurs s’inversent les vies se renvers
 Mon histoire n'est pas dans ton livre d'histoire, pourvu que ce soit dit
 On veut plus de tout comme tout le monde, qu'importe la peine pourvu qu'on soit digne
 
-[Refrain x4 : Soprano, Lil ' Saï & Luciano]Embed"
+[Refrain x4 : Soprano, Lil ' Saï & Luciano]Embed",Soprano
 Sopra M'baba,El Barrio,"1 ContributorCuartos: Brock vs. Hades Lyrics[Letra de ""Cuartos: Brock vs. Hades""]
 
 [Round 1: Brock & Hades]
@@ -20893,7 +20893,7 @@ De nombre Sin Chan y de apellido Nohara
 You, eres más malo que El Fary
 ¿Dónde coño te has deja'o a tu hermana Himawari?
 You, me comporto como un gamberro
-Yo seré Sin Chan, y tú serás mi perroEmbed"
+Yo seré Sin Chan, y tú serás mi perroEmbed",Soprano
 Sopra M'baba,En boucle,"6 ContributorsLe sud le fait mieux LyricsHey..Hey...Hey...Uh...Hey...Hey...Hey
 Kimfu production
 
@@ -20975,7 +20975,7 @@ N'essaie même pas de le faire, lelele sud le fait mieux [x2]
 N'essaie même pas de le faire car le sud le fait mieux
 Lelelelelele fait mieux, lelelelelele fait mieux [x2]
 N'essaie même pas de le faire, n'essaie même pas de le faire
-N'essaie même pas de le faire, lelele sud le fait mieux [x2]Embed"
+N'essaie même pas de le faire, lelele sud le fait mieux [x2]Embed",Soprano
 Sopra M'baba,En équipe,"3 ContributorsEn équipe Lyrics[Intro]
 Ouh-ouh-ouh, ouh-ouh-ouh
 Ouh-ouh-ouh, ouh-ouh-ouh
@@ -21046,7 +21046,7 @@ Au fait, qu'est-ce que tu dis dans le refrain ?
 Couroucoucou
 Couroucoucou stach, stach?
 Exactement
-N-Nan? Alors là j'vais devoir- pourquoi?Embed"
+N-Nan? Alors là j'vais devoir- pourquoi?Embed",Soprano
 Sopra M'baba,Et si on faisait,"3 ContributorsEt si on faisait Lyrics[Paroles de ""Et si on faisait""]
 
 [Couplet 1]
@@ -21128,13 +21128,13 @@ Aujourd'hui, je serai moi pour me ressembler
 Je n'veux plus de leurs vérités
 Aujourd'hui, je serai moi mais sans m'excuser
 Je n'veux plus de leurs libertés
-Aujourd'hui, je serai moi pour me ressemblerEmbed"
+Aujourd'hui, je serai moi pour me ressemblerEmbed",Soprano
 Sopra M'baba,Everest (Intro),"8 ContributorsEverest (Intro) Lyrics[Paroles de ""Everest (Intro)""]
 
 [Intro]
 Tolérance, solidarité, valeur, la famille, principes, Marseille, élévation, humanité, positivité, famille, Psy 4, choix, souder, force, humilité, vrais, Kwell, famille, intégrité, respect, passion, rime, chant, Marseille, Marseille, XX, Street Skillz, XX, joie, frérots, unis, métissage, unis
 Mon Everest, l'Everest, ton Everest, mon Everest, notre Everest Humanité, ensemble, dépassement d'soi
-L'EverestYou might also like1Embed"
+L'EverestYou might also like1Embed",Soprano
 Sopra M'baba,Facile à danser,"4 ContributorsFacile à danser Lyrics[Paroles de ""Facile à danser""]
 
 [Intro]
@@ -21196,7 +21196,7 @@ Facile à danser
 (Facile à danser)
 (Facile à danser)
 (Facile à danser)
-(Facile à danser, [ouiz?])Embed"
+(Facile à danser, [ouiz?])Embed",Soprano
 Sopra M'baba,Fly,"5 ContributorsFly Lyrics[Couplet 1]
 Comme tout l'monde je vis ma vie avec Joe Black aux fesses
 Des montagnes de soucis qu'on ne monte pas en tire-fesse
@@ -21252,7 +21252,7 @@ Faudra bien que je fly, fly, fly
 J'ai besoin de time, time, time
 [Outro]
 Avant que je fly
-Laissez-moi vivre ma life...juste avant que je fly, j'ai besoin de time...(x2)1Embed"
+Laissez-moi vivre ma life...juste avant que je fly, j'ai besoin de time...(x2)1Embed",Soprano
 Sopra M'baba,Forrest,"7 ContributorsForrest Lyrics[Paroles de ""Forrest""]
 
 [Intro]
@@ -21300,7 +21300,7 @@ Même si le monde ne me comprend pas
 [Outro]
 Forrest, cours
 Cours Forrest
-Forrest, coursEmbed"
+Forrest, coursEmbed",Soprano
 Sopra M'baba,Freedom,"7 ContributorsFreedom Lyrics[Paroles de ""Freedom""]
 
 [Pré-refrain]
@@ -21350,7 +21350,7 @@ Et j'espère encore te retrouver
 Freedom, freedom, freedom
 Freedom, freedom, freedom
 
-[Outro instrumentale]Embed"
+[Outro instrumentale]Embed",Soprano
 Sopra M'baba,Freestyle 13 organisé 2,"13 ContributorsFreestyle 13 organisé 2 Lyrics[Akhénaton]
 J'écris donc je suis, eux suivent la tendance
 La tendance sent le rance, loin du sens de la vie
@@ -22030,7 +22030,7 @@ J’rentre très tard la nuit, ça fait que des missisons, on joue pas à Call O
 En Dp ou Prada sa voura la slata, ça dit que t’es un monstre t’es un tigre
 (ouuuuuhhhhh)
 En Y de la Capelette au Plan D’Aou (ouuuuuhhhhh)
-10Kp pour te faire du saleEmbed"
+10Kp pour te faire du saleEmbed",Soprano
 Sopra M'baba,Freestyle Ikki,"2 ContributorsFreestyle Ikki Lyrics[Intro]
 Yeah, ok, Ikki
 Yeah, freestyle
@@ -22068,7 +22068,7 @@ You might also like[Refrain]
 Tous mes frères m'appellent Ikki, Ikki
 Crains personne comme Nicky, Nicky (Larson)
 Crains dégun comme Tapie, Tapie, Tapie (allez l'OM !)
-Légendaire comme Shady, Shady, ShadyEmbed"
+Légendaire comme Shady, Shady, ShadyEmbed",Soprano
 Sopra M'baba,Garde la tête haute,"7 ContributorsGarde la tête haute Lyrics[Paroles de ""Garde la tête haute""]
 
 [Couplet 1 : Jok'Air]
@@ -22130,7 +22130,7 @@ Devant les autres, devant les autres (Yah, hey)
 Pour nous bientôt viendront les beaux jours (Yah, hey, ouh)
 Garde la tête haute, garde la tête haute
 Devant les autres, devant les autres (Yah, hey)
-Pour nous bientôt viendront les beaux joursEmbed"
+Pour nous bientôt viendront les beaux joursEmbed",Soprano
 Sopra M'baba,G.H.E.T.T.O,"2 ContributorsG.H.E.T.T.O Lyrics[Paroles de ""G.H.E.T.T.O"" ft. Brasco & Aketo]
 
 [Refrain : Brasco]
@@ -22242,7 +22242,7 @@ Sopra M'Baba
 Aketo
 Street Lourd
 Deux
-Pull-up !Embed"
+Pull-up !Embed",Soprano
 Sopra M'baba,Goldorak,"4 ContributorsGoldorak LyricsPartie 1
 
 [Intro]
@@ -22307,7 +22307,7 @@ Alonzo m'a dit ""finis-les"", donc j'arrache à César ce qui appartient à PSY4
 Ah-ah-ah, ah-ah-ah, ah-ah-ah
 Ah-ah-ah, ah-ah-ah, ah-ah-ah
 J'me relève à chaque fois comme un vaillant
-Car on ne perd jamais tant qu'on est vivantEmbed"
+Car on ne perd jamais tant qu'on est vivantEmbed",Soprano
 Sopra M'baba,Gump,"2 ContributorsGump Lyrics[Paroles de ""Gump"" ft. P3GASE]
 
 [Intro: Soprano]
@@ -22376,7 +22376,7 @@ Cette liberté d'être qui je suis
 Oui je cours, à contre-courant
 Même si le monde ne me comprend pas
 Ça n'a pas de prix d'être
-MoiEmbed"
+MoiEmbed",Soprano
 Sopra M'baba,Hello,"11 ContributorsHello Lyrics[Couplet 1]
 Hello si tu m'entends, dis-toi que t'es la bienvenue
 Ici les femmes et les enfants n'attendent que toi
@@ -22415,7 +22415,7 @@ Prends soin de lui, prends soin de lui
 Prends soin de lui et qu'il repose avec toi
 Qu'il repose avec toi
 Prends soin de lui, prends soin de lui
-Et reviens nous voirYou might also like1Embed"
+Et reviens nous voirYou might also like1Embed",Soprano
 Sopra M'baba,Hey papi (Remix),"4 ContributorsHey papi (Remix) Lyrics[Couplet 1: Zaho]
 Que pourrais-tu bien me dire
 Si j'te disais que je lâchais tout
@@ -22488,7 +22488,7 @@ Yeah
 Yeah, papi
 A la bien cousin
 Zaho
-BlahEmbed"
+BlahEmbed",Soprano
 Sopra M'baba,Histoire sans fin,"3 ContributorsHistoire sans fin Lyrics[Paroles de ""Histoire sans fin"" ft. Clément Albertini]
 
 [Couplet 1: Soprano & Clément Albertini]
@@ -22546,7 +22546,7 @@ Pourrai-je me pardonner, recommencer
 Faire comme si rien n's'était passé
 Effacer le mal fait autour de moi ?
 [Outro: ensemble]
-Pardonnez-moiEmbed"
+Pardonnez-moiEmbed",Soprano
 Sopra M'baba,Iblissa,"3 ContributorsIblissa LyricsFaut qu´ça cesse, toutes ces guerres pour rien
 On est tous dans l´faux
 Qu´un chemin, on l´sait en plus
@@ -22619,7 +22619,7 @@ Et on s´étonne à chaque fois qu´notre existence est dans l´flou
 Il pleut des cordes sur les plages d´Ibiza
 Sur les flammes des Rizla, sur la flamme d´la statue d´U.S.A
 On vit dans l´faux
-Et on s´étonne à chaque fois qu´on touche le fond...Embed"
+Et on s´étonne à chaque fois qu´on touche le fond...Embed",Soprano
 Sopra M'baba,Ici,"80 ContributorsMoins un Lyrics[Paroles de ""Moins un"" ft. Nekfeu]
 
 [Intro : Nekfeu & Dinos]
@@ -22733,7 +22733,7 @@ Wanted bandidos, dangereux
 [Outro : ensemble, Dinos & Nekfeu]
 Dangereux, wanted bandidos, dangereux
 Eh, eh, eh
-Dangereux, dangereux7Embed"
+Dangereux, dangereux7Embed",Soprano
 Sopra M'baba,Île flottante,"5 ContributorsÎle flottante Lyrics[Paroles de ""Île flottante"" ft. Soprano]
 
 [Intro]
@@ -22793,7 +22793,7 @@ Vrai rebeu qui joue avec la semelle (La semelle)
 D'ailleurs soit dit en passant : ""C'est moi le remplaçant, dans le grand remplacement""
 (Zushi volume quatre)
 
-[Outro]Embed"
+[Outro]Embed",Soprano
 Sopra M'baba,Incurable,"1 ContributorLa chute de la maison Usher LyricsSon cœur est un luth suspendu ;
 Sitôt qu’on le touche, il résonne.
 
@@ -22962,7 +22962,7 @@ Ici, il se dressa furieusement sur ses pieds, et hurla ces syllabes, comme si da
 
 À l’instant même, comme si l’énergie surhumaine de sa parole eût acquis la toute-puissance d’un charme, les vastes et antiques panneaux que désignait Usher entr’ouvrirent lentement leurs lourdes mâchoires d’ébène. C’était l’œuvre d’un furieux coup de vent ; — mais derrière cette porte se tenait alors la haute figure de lady Madeline Usher, enveloppée de son suaire. Il y avait du sang sur ses vêtements blancs, et toute sa personne amaigrie portait les traces évidentes de quelque horrible lutte. Pendant un moment, elle resta tremblante et vacillante sur le seuil ; — puis, avec un cri plaintif et profond, elle tomba lourdement en avant sur son frère, et, dans sa violente et définitive agonie, elle l’entraîna à terre, — cadavre maintenant et victime de ses terreurs anticipées.
 
-Je m’enfuis de cette chambre et de ce manoir, frappé d’horreur. La tempête était encore dans toute sa rage quand je franchissais la vieille avenue. Tout d’un coup, une lumière étrange se projeta sur la route, et je me retournai pour voir d’où pouvait jaillir une lueur si singulière, car je n’avais derrière moi que le vaste château avec toutes ses ombres. Le rayonnement provenait de la pleine lune qui se couchait, rouge de sang, et maintenant brillait vivement à travers cette fissure à peine visible naguère, qui, comme je l’ai dit, parcourait en zigzag le bâtiment depuis le toit jusqu’à la base. Pendant que je regardais, cette fissure s’élargit rapidement ; — il survint une reprise de vent, un tourbillon furieux ; — le disque entier de la planète éclata tout à coup à ma vue. La tête me tourna quand je vis les puissantes murailles s’écrouler en deux. — Il se fit un bruit prolongé, un fracas tumultueux comme la voix de mille cataractes, — et l’étang profond et croupi placé à mes pieds se referma tristement et silencieusement sur les ruines de la Maison Usher.Embed"
+Je m’enfuis de cette chambre et de ce manoir, frappé d’horreur. La tempête était encore dans toute sa rage quand je franchissais la vieille avenue. Tout d’un coup, une lumière étrange se projeta sur la route, et je me retournai pour voir d’où pouvait jaillir une lueur si singulière, car je n’avais derrière moi que le vaste château avec toutes ses ombres. Le rayonnement provenait de la pleine lune qui se couchait, rouge de sang, et maintenant brillait vivement à travers cette fissure à peine visible naguère, qui, comme je l’ai dit, parcourait en zigzag le bâtiment depuis le toit jusqu’à la base. Pendant que je regardais, cette fissure s’élargit rapidement ; — il survint une reprise de vent, un tourbillon furieux ; — le disque entier de la planète éclata tout à coup à ma vue. La tête me tourna quand je vis les puissantes murailles s’écrouler en deux. — Il se fit un bruit prolongé, un fracas tumultueux comme la voix de mille cataractes, — et l’étang profond et croupi placé à mes pieds se referma tristement et silencieusement sur les ruines de la Maison Usher.Embed",Soprano
 Sopra M'baba,In My Dream,"3 ContributorsIn My Dream Lyrics[Intro]
 In my dreams
 In my dreams
@@ -23040,7 +23040,7 @@ La vie ne vaut pas grand chose si les rêves reste des rêves alors
 
 [Outro]
 In my dreams
-In my dreams1Embed"
+In my dreams1Embed",Soprano
 Sopra M'baba,Interlude : Musique Française,"2 ContributorsInterlude : Musique Française Lyrics[Présentateur]
 Bonsoir à tous et à toutes, messieurs dames, bienvenue au plateau de la rue Cognacq-Jay pour une soirée de variété française. Donc nous allons retrouver tous nos artistes nationaux, et sans plus attendre je n'le présente plus, il est là avec nous mesdames, c'est Marky Lavoiny !
 
@@ -23070,7 +23070,7 @@ You might also like[Présentateur]
 Mais non, mais non monsieur Abderrahmane je vous en prie, regagnez votre sang-froid ! C'est les aléas du direct mesdames et mesdames, on s'excuse ! Nous sommes toujours à la rue Cognacq-Jay, disons que vous venez de passer un moment historique : le pétage de plomb d'Abderaman mais ça passera quand même. Alors ce soir nous continuons la soirée, donc sans plus attendre Karen Cheryl !
 
 [Soprano]
-Karen, tu es ma chérie ! Chérie coco !Embed"
+Karen, tu es ma chérie ! Chérie coco !Embed",Soprano
 Sopra M'baba,International Flow Cypher,"14 ContributorsInternational Flow Cypher Lyrics[Verse 1: Nitty Scott, MC]
 Nitty came to spit it and kick it like Kung-fu
 See I could off your whole catalog with a 1-2
@@ -23127,7 +23127,7 @@ My name is Soprano un français sur BET
 [Verse 4: Estelle]
 ...
 So, Ima say it loud, Ima say it proud
-Make you say my name say my out loud (ow)1Embed"
+Make you say my name say my out loud (ow)1Embed",Soprano
 Sopra M'baba,Intro,"6 ContributorsIntro Lyrics[Intro]
 Je connais une ville où les gens parlent en chantant
 Où quand tu parles sans accent, on croit que tu parles en allemand
@@ -23147,11 +23147,11 @@ Tous partis de zéro en rêvant d'être quelqu'un
 Un ballon, un stylo, pour ne plus être un dégun
 Cette ville qui fait planer se terminant sur deux ""L""
 Sans faire d'excès de zèle
-Je vous présente... MarseilleYou might also likeEmbed"
+Je vous présente... MarseilleYou might also likeEmbed",Soprano
 Sopra M'baba,Intro : Le Frégate,"2 ContributorsIntro : Le Frégate Lyrics[Paroles de ""Intro : Le Frégate""]
 
 [Couplet unique]
-Connexion avec le Frégate... Je suis l'ordinateur de bord du vaisseau. Ma mission est d'accompagner Soprano et son équipage dans sa chasse aux étoiles. Lancement de la connexion dans... cinq... quatre... trois... deux... un... error, error, e-error, error, error, error. Nouvelle tentative de connexion dans... cinq... quatre... trois... deux... un... un, un, un, un, un. Connexion réussie.You might also likeEmbed"
+Connexion avec le Frégate... Je suis l'ordinateur de bord du vaisseau. Ma mission est d'accompagner Soprano et son équipage dans sa chasse aux étoiles. Lancement de la connexion dans... cinq... quatre... trois... deux... un... error, error, e-error, error, error, error. Nouvelle tentative de connexion dans... cinq... quatre... trois... deux... un... un, un, un, un, un. Connexion réussie.You might also likeEmbed",Soprano
 Sopra M'baba,Intro (Renaissance),"10 ContributorsIntro (Renaissance) LyricsPrends toi le pouls
 Et dis moi si t'es encore vivant
 Lève bien le pouce car t'es encore vivant
@@ -23205,7 +23205,7 @@ Avant que tout s'enfuit
 Le climat du monde n'est pas ensoleillé
 Donc c'est à nous de briller
 Arrose ta chance et vis
-Car nous sommes tous des phœnixYou might also like1Embed"
+Car nous sommes tous des phœnixYou might also like1Embed",Soprano
 Sopra M'baba,Invincible,"3 ContributorsInvincible Lyrics[Hook : Francisco]
 There ain't no way that you can stop us now (whoa)
 Enough is enough and you're the one that'll hear us shout
@@ -23280,7 +23280,7 @@ Enough is enough and you're the one that'll hear us shout
 We are invincible, invincible yeah
 Indestructable, invincible
 
-Les paroles de Invincible sont entièrement rédigées et expliquées par la team française de Rapgenius avec la participation des collègues US !!Embed"
+Les paroles de Invincible sont entièrement rédigées et expliquées par la team française de Rapgenius avec la participation des collègues US !!Embed",Soprano
 Sopra M'baba,J’ai besoin d’ailes,"15 ContributorsPiranhas Lyrics[Couplet 1]
 Ne mets pas un pied dans mes marécages, j’ai la mâchoire d’un piranha
 Compare pas mes eaux troubles avec la piscine de Loana
@@ -23359,7 +23359,7 @@ Où sont mes chiens d'la casse, mes spartiates de Massilia ?
 Chez les piranhas
 Marseille où vous êtes ? Tous les quartiers qui vous êtes ?
 Que des piranhas
-De là je ne vous entends pas, la la la la la la la1Embed"
+De là je ne vous entends pas, la la la la la la la1Embed",Soprano
 Sopra M'baba,J’ai Encore Rêvé De Toi,"2 ContributorsJ’ai Encore Rêvé De Toi Lyrics[Intro]
 Ça tourne, action !
 
@@ -23456,7 +23456,7 @@ Mais je n’y arrive pas
 Dis-moi pourquoi, pourquoi
 Pourquoi, il t’a volé à moi
 [Outro]
-Coupez, c’est dans la boîteYou might also like1Embed"
+Coupez, c’est dans la boîteYou might also like1Embed",Soprano
 Sopra M'baba,J’ai tendance,"2 ContributorsJ’ai tendance Lyrics[Paroles de ""J'ai tendance"" ft. Soprano]
 
 [Couplet 1 : Kendji Girac & Soprano]
@@ -23516,7 +23516,7 @@ Je ne sais faire que chanter
 Je n'sais faire que chanter
 Je n'sais faire que chanter
 Je n'sais faire que chanter
-Je n'sais faire que chanterEmbed"
+Je n'sais faire que chanterEmbed",Soprano
 Sopra M'baba,Jamais j’oublierai - Shan,"8 ContributorsJamais j’oublierai - Shan LyricsJamais J'oublierai
 
 [Refrain]
@@ -23738,7 +23738,7 @@ Jump jump jump jump jump jumpt
 C'est haha ! (Haha !)
 C'est jump jump jump jump jump
 Jump jump jump jump jump jumpt
-C'est haha ! (Haha !)You might also likeEmbed"
+C'est haha ! (Haha !)You might also likeEmbed",Soprano
 Sopra M'baba,Je plane,"5 ContributorsEl Barrio Lyrics[Couplet 1: Alonzo]
 A.L.O.N, sexe masculin, laisse mec je suis l'orphelin
 Adopté par le barrio, laisse mec, j'en vexe plus d'un
@@ -23819,7 +23819,7 @@ D'où ça vient, vas-y cherche cherche cherche !
 Des quartiers de France, Plan d'Aou
 Changer de direction dans nos dires c'est out
 On te dit ciao, la Psyquatra rappe pas pour les chattes
-Vas-y, cherche !Embed"
+Vas-y, cherche !Embed",Soprano
 Sopra M'baba,Je reste au front,"6 ContributorsJe reste au front Lyrics[Couplet 1 : Soprano]
 C’est avec de l’entrave dans l’phrasé que j’envoie ces rimes
 Surine le rap français car j’pète les plombs comme mon poto Sérigne
@@ -23894,7 +23894,7 @@ Les renois sont devenus des boys
 J’vais laver l’affront
 J’ai plus d’camisole, ni d’auréole sous mon afro
 J’reste au front, affronte la vie comme elle me vient
-De loin elle me tourne le dos pour qu’je puisse lui mettre bien profondEmbed"
+De loin elle me tourne le dos pour qu’je puisse lui mettre bien profondEmbed",Soprano
 Sopra M'baba,Je rêvais,"10 ContributorsJ’étais comme eux Lyrics[Intro : Demon One]
 Soprano, Démon one
 Marseille (ohhhh)
@@ -23989,7 +23989,7 @@ Pour tous les mecs des blocks
 Ohoh Ohoh Ohoh
 Mafia K'1 K'1
 C'est La Psykatra de la rimiaaaa
-Démon One, Sopra'mbaba1Embed"
+Démon One, Sopra'mbaba1Embed",Soprano
 Sopra M'baba,J’essaie,"2 ContributorsJ’essaie LyricsPlus les choses avancent et plus mon cœur le sait
 Moins j'entends cette voix qui m'dit de rester
 Ta confiance et ton temps, tu m'as tout donné
@@ -24071,7 +24071,7 @@ J'essaie, mais l'heure est venue de se laisser, tu sais
 T'étais tout pour moi
 J'aurais tout donné, tout laissé pour toi
 Reviens vite à la raison, essaie
-J'essaie, mais l'heure est venue de se laisserEmbed"
+J'essaie, mais l'heure est venue de se laisserEmbed",Soprano
 Sopra M'baba,Je suis...,"5 ContributorsJe suis... Lyrics[Intro]
 Yeah
 1-3
@@ -24149,7 +24149,7 @@ Je suis qui je suis car les autres sont déjà pris
 C'est ainsi, je suis
 Si heureux mais à quel prix
 Oh oh oh oh oh
-Je n'peux changer qui je suisEmbed"
+Je n'peux changer qui je suisEmbed",Soprano
 Sopra M'baba,Je suis fou,"7 ContributorsJe suis fou Lyrics[Paroles de ""Je suis fou"" ft. Soprano, Kendji Girac]
 
 [Couplet 1 : Vianney]
@@ -24226,7 +24226,7 @@ On va se changer soi
 On va se changer (Je suis fou)
 On va se changer soi
 On va se changer
-Je suis fouEmbed"
+Je suis fouEmbed",Soprano
 Sopra M'baba,Je t’aime à la haine,"2 ContributorsMars LyricsParoles {M.A.R.S}
 
 [Soprano]
@@ -24316,7 +24316,7 @@ Hé Poto, si t'es pas de là, Aïe Aïe Aïe
 Centre Ville vient de, vient de, vient de M.A.R.S
 Plan d'Aou vient de, vient de, vient de M.A.R.S
 Paluce vient de, vient de, vient de M.A.R.S
-Hé Poto si t'es pas de là, Aïe Aïe AïeEmbed"
+Hé Poto si t'es pas de là, Aïe Aïe AïeEmbed",Soprano
 Sopra M'baba,Jeune de banlieue ft Diam’s et Soprano,"7 ContributorsJeune de banlieue ft Diam’s et Soprano Lyrics[Couplet 1 : Disiz]
 Un gros match en prime time ce soir en direct live
 La banlieue contre la france,certains veulent envahir le stade
@@ -24417,7 +24417,7 @@ On sait aussi le célébrer sans drogue et sans alcool
 J’ai des instants instantanés de bonheur pendant tant d’années
 De rire, de solidarité pendant que vous vous condamnez
 Banlieusard tu n’es pas là pour rien
-Et sois fier si tu est un jeune de banlieueEmbed"
+Et sois fier si tu est un jeune de banlieueEmbed",Soprano
 Sopra M'baba,Jour de pluie,"5 ContributorsJour de pluie Lyrics[Refrain : Melissa M]
 Un autre jour sans toi, de toi je m'ennuie
 Une autre épreuve en moi, oh tous ces ennuis
@@ -24473,7 +24473,7 @@ D'avoir fait le même choix que De Niro dans Heat
 La rue t'a peut-être volé ton homme
 Mais aucun jour de pluie m'empêchera de te dire ""ich liebe dich""
 [Outro : Melissa M]
-Seule...Embed"
+Seule...Embed",Soprano
 Sopra M'baba,Joy Boy - Avant l’infini,"3 ContributorsJoy Boy - Avant l’infini Lyrics[Paroles de ""Joy Boy - Avant l'infini""]
 
 [Intro]
@@ -24526,7 +24526,7 @@ L'écologie qu'ils gèrent avec hypocrisie
 Le Covid pas fini, le conflit chez Poutine
 Le souffle me manque pour te dire comment va le monde
 Voilà dans quel état d'esprit j'écris mon futur album
-A l'infiniYou might also likeEmbed"
+A l'infiniYou might also likeEmbed",Soprano
 Sopra M'baba,J’t’ai dans les veines,"9 ContributorsJ’t’ai dans les veines Lyrics[Couplet 1]
 Sans toi et moi c'est pas la même
 La vie n'aurait aucune boussole
@@ -24590,7 +24590,7 @@ Bien sûr si tu le veux
 
 Heeeeeeeey heeeeeeeey heeey
 Oooooooooooh ooooooooooh
-Ooooooooh oooooh ooooohEmbed"
+Ooooooooh oooooh ooooohEmbed",Soprano
 Sopra M'baba,Jusqu’à la folie,"7 ContributorsJusqu’à la folie Lyrics[Couplet, Lujipeka]
 J'écris comme un sage savant
 Sans doute un peu moins bien qu'avant
@@ -24654,7 +24654,7 @@ Qu'la mélodie j'n'ai rien vu d'plus joli
 Pitié n'appelez pas la police
 Si je fais tout ça c'est pour que le monde m'applaudisse
 Ah, musique m'emmènera jusqu'à la folie
-Qu'la mélodie j'n'ai rien vu d'plus joliEmbed"
+Qu'la mélodie j'n'ai rien vu d'plus joliEmbed",Soprano
 Sopra M'baba,Juste fais-le,"7 ContributorsJuste fais-le Lyrics[Intro : Le Rat Luciano]
 Trop jeune pour se laisser mourir, faut être fort et plus que d'habitude
 Un pour ceux de notre brûlante génération, deux pour la cramitude
@@ -24764,7 +24764,7 @@ Juste fais-le
 
 [Outro : Le Rat Luciano]
 Laisse personne entrer dans ta tête tout est dans tes mains
-Yeah Soprano, Luciano tue nous, marche avec nous, ou écarte-toi du cheminEmbed"
+Yeah Soprano, Luciano tue nous, marche avec nous, ou écarte-toi du cheminEmbed",Soprano
 Sopra M'baba,Justine & Abdelkrim,"2 ContributorsJustine & Abdelkrim Lyrics[Paroles de ""Justine & Abdelkrim""]
 
 [Intro]
@@ -24821,7 +24821,7 @@ Oh, oh, oh, avoir un slow avec toi
 Oh, oh, oh
 Oh, oh, oh, oh, oh, oh, oh, oh, oh
 Oh, oh, oh, oh, oh, oh, oh, oh, oh
-Avoir un slow avec toi (toi, toi, toi)Embed"
+Avoir un slow avec toi (toi, toi, toi)Embed",Soprano
 Sopra M'baba,Kamarades,"10 ContributorsKamarades Lyrics[Refrain]
 Chicha sur la bouche
 Les soucis sur la touche
@@ -24888,7 +24888,7 @@ Bien sapé , ouais ouais
 Toujours frais , ouais ouais
 Cocaïné , non non
 On est prêts , avec tous mes kamarades , kamarades , kamarades
-Avec mes kamarades , kamarades , kamarades1Embed"
+Avec mes kamarades , kamarades , kamarades1Embed",Soprano
 Sopra M'baba,K One,"10 ContributorsJ’étais comme eux Lyrics[Intro : Demon One]
 Soprano, Démon one
 Marseille (ohhhh)
@@ -24983,7 +24983,7 @@ Pour tous les mecs des blocks
 Ohoh Ohoh Ohoh
 Mafia K'1 K'1
 C'est La Psykatra de la rimiaaaa
-Démon One, Sopra'mbaba1Embed"
+Démon One, Sopra'mbaba1Embed",Soprano
 Sopra M'baba,La boum,"3 ContributorsLa boum Lyrics[Paroles de ""La boum""]
 
 [Intro]
@@ -25094,7 +25094,7 @@ On fait la boum, boum, boum, boum
 
 [Outro]
 - Mais… Mais Abdelkrikri d’amour, t'es mignon, mais… Vous êtes venus à cinquante ! Je vais dire quoi à maman maintenant ?
-- Hey, hey, hey ! Est-ce que ça va toujours ? La boum n'est pas terminée les amis. On remercie Justine pour cette superbe boum, et sa maman Sophie qui nous surveille. Profitez des sucreries, y’a toujours des bonbons régalades, des Frizzy Pazzy, des Mars, et des Rivers. Il va falloir se dépêcher car l'équipe d'Abdelkrim se rapproche dangereusement du buffet… Bref, la boum continue avec le Disc-Jockey Carlton aux platines. Les garçons, faites pas les timides choisissez votre partenaire car c'est l'heure du Slow...Embed"
+- Hey, hey, hey ! Est-ce que ça va toujours ? La boum n'est pas terminée les amis. On remercie Justine pour cette superbe boum, et sa maman Sophie qui nous surveille. Profitez des sucreries, y’a toujours des bonbons régalades, des Frizzy Pazzy, des Mars, et des Rivers. Il va falloir se dépêcher car l'équipe d'Abdelkrim se rapproche dangereusement du buffet… Bref, la boum continue avec le Disc-Jockey Carlton aux platines. Les garçons, faites pas les timides choisissez votre partenaire car c'est l'heure du Slow...Embed",Soprano
 Sopra M'baba,La chronique vient de Mars...,"3 ContributorsLa chronique vient de Mars... Lyrics[Intro]
 Chroniques de Mars 2
 Nouvelle génération
@@ -25196,7 +25196,7 @@ Eh, tu veux qu’on change pour qui, pourquoi, papi
 Yeah, Quartiers Nord
 P.L.A.N
 Ceux qui nous soutiennent
-Ceux qui s’souviennentEmbed"
+Ceux qui s’souviennentEmbed",Soprano
 Sopra M'baba,La colombe remix,"7 ContributorsLa colombe remix Lyrics[Couplet 1 : Soprano]
 Qui sait vraiment ce qu'il y a dans ma tête, à part Allah et mon crew
 La caution me paie l'rap pour qu'au quartier, j'ai plus d'numéros d'écrous
@@ -25323,7 +25323,7 @@ Plus qu'elles ne le peuvent, Dieu ne charge pas les âmes...
 Street Skillz, Din Records, Alchemist
 En route est la machine
 Voici du R.A.P. tauromachie
-Soprano, Médine, psychanalyse...Embed"
+Soprano, Médine, psychanalyse...Embed",Soprano
 Sopra M'baba,Lady,"10 ContributorsCrazy Lyrics[Couplet 1]
 Génération à fond le foot, qui ne se parle qu'en bluetooth
 Qui ne croit plus aux discours, des politiques donc rien à foutre
@@ -25375,7 +25375,7 @@ Crazy, on est crazy, on est crazy yeah
 
 [Outro]
 On est crazy, on est crazy
-Crazy, on est crazy yeahEmbed"
+Crazy, on est crazy yeahEmbed",Soprano
 Sopra M'baba,La force,"3 ContributorsLa force Lyrics[Intro]
 La force
 Dans la grandeur de l'âme
@@ -25488,7 +25488,7 @@ Y’a pas plus fort que prier, Allahou‘Akbar
 La force d'un homme, se compte aux larmes que verse son âme
 Quand il se sait dans l'erreur
 La force d'un homme, n'est pas dans son arme
-Mais dans la grandeur de son cœurEmbed"
+Mais dans la grandeur de son cœurEmbed",Soprano
 Sopra M'baba,La Haine,"1 ContributorLa Haine Lyrics[Intro: Soprano]
 Lorenzo
 Marseille
@@ -25580,7 +25580,7 @@ Mais de te tourné le dos on en est incapable
 Oh, tu as détruit mes frères des blocks
 Tu fais tourner la tête des hommes
 Combien on perdu le contrôle
-Pour toi la haineEmbed"
+Pour toi la haineEmbed",Soprano
 Sopra M'baba,Laisse nous faire,"10 ContributorsLaisse nous faire Lyrics[Refrain — R.E.D.K.]
 Tu veux du vrai, du flow, du rap sale ? Laisse-laisse-nous faire
 Du lourd et basta, laisse-laisse-nous faire
@@ -25628,7 +25628,7 @@ Bordel les mecs, j'élimine, [humilie?] tous les mythos qui se la jouent mecs fo
 Démarre car, au score, on les pète, dès le départ, pour le top, on est prêts
 On est préparés pour l'effort, préparés pour le top, beaucoup trop qui parlent fort, en effet
 
-[Refrain]1Embed"
+[Refrain]1Embed",Soprano
 Sopra M'baba,Laissons entrer le soleil (En duo avec Soprano),"2 ContributorsLaissons entrer le soleil (En duo avec Soprano) LyricsOn se guette
 Traqués, à bout de souffle
 Marchant
@@ -25690,7 +25690,7 @@ Laissez, laissez entrer le soleil
 Let the sun shine
 Let the sun shine in
 Let the sun shine in
-Let the sun shine ....Embed"
+Let the sun shine ....Embed",Soprano
 Sopra M'baba,La mélancolie de ce piano,"4 ContributorsLa mélancolie de ce piano Lyrics[Intro : Soprano]
 La vie c'est un contre poids entre la peine et la joie, c'est ça...
 La mélancolie de ce piano, L'algérino Soprano
@@ -25792,7 +25792,7 @@ Toujours les tours qui s'érigent, on se tasse
 Tous ces riches on les envie
 D'où le voeux de dévorer la vie, savourer l'instant sans s'avouer vaincus
 Convaincus, on vaincra (On vaincra)
-Ancrés dans notre cran, on ose et ce qu'on peut on le prend1Embed"
+Ancrés dans notre cran, on ose et ce qu'on peut on le prend1Embed",Soprano
 Sopra M'baba,La patrie,"7 ContributorsLa patrie Lyrics[Paroles de ""La patrie"" ft. Rohff, Alonzo, Soprano, Says'z, Elams, Cheikh MC, Goulam, Vincenzo, Fahar, Starcé, Samra]
 
 [Intro : Fahar]
@@ -25971,7 +25971,7 @@ Comoria tsiyo (watrotro wamasiwani wodjuha, VERI VERI VERI PIYA)
 Narihime nkonyo ndzima
 Ridjuse emasiwa (ngamhwambio shingereza)
 Beramu ya comoria
-Ipepe edunia (Comoria we love you)Embed"
+Ipepe edunia (Comoria we love you)Embed",Soprano
 Sopra M'baba,La vida,"5 ContributorsLa vida Lyrics[Paroles de ""La vida""]
 
 [Intro : Soprano]
@@ -26046,7 +26046,7 @@ C'est Dieu qui donne, c'est la vida
 J'suis dans l'bolide dans ta ville
 C'est Dieu qui donne, c'est la vida (donnez-leur la vida, la vida)
 
-[Drop]Embed"
+[Drop]Embed",Soprano
 Sopra M'baba,La vida,"5 ContributorsLa vida Lyrics[Paroles de ""La vida""]
 
 [Intro : Soprano]
@@ -26121,7 +26121,7 @@ C'est Dieu qui donne, c'est la vida
 J'suis dans l'bolide dans ta ville
 C'est Dieu qui donne, c'est la vida (donnez-leur la vida, la vida)
 
-[Drop]Embed"
+[Drop]Embed",Soprano
 Sopra M'baba,La vie est belle,"2 ContributorsLa vie est belle Lyrics[Paroles de ""La vie est belle"" ft. Soprano]
 
 [Couplet 1 : Slimane]
@@ -26205,7 +26205,7 @@ La vie est belle, belle, belle
 Si tu m'entends, t'avais raison, maman
 La vie est belle, belle, belle
 La vie est belle, belle, belle
-Si tu m'entends, t'avais raisonEmbed"
+Si tu m'entends, t'avais raisonEmbed",Soprano
 Sopra M'baba,La vie m’a appris,"10 ContributorsJ’étais comme eux Lyrics[Intro : Demon One]
 Soprano, Démon one
 Marseille (ohhhh)
@@ -26300,7 +26300,7 @@ Pour tous les mecs des blocks
 Ohoh Ohoh Ohoh
 Mafia K'1 K'1
 C'est La Psykatra de la rimiaaaa
-Démon One, Sopra'mbaba1Embed"
+Démon One, Sopra'mbaba1Embed",Soprano
 Sopra M'baba,La violence,"2 ContributorsLa violence Lyrics[Couplet 1: Akhenaton]
 Y a quoi d'plus violent qu'une main qui s'lève
 Sur une mère qui s'lève à l'aube pour habiller ses gosses
@@ -26411,7 +26411,7 @@ Pour l'instant, la violence, qui la savoure
 On dirait qu'on est là pour le bien ou l'amour pour qu'le mal sorte
 Et quand ça va pas, c'est les CRS à nos portes
 Pour conclure, la violence dans c'cas est naturelle
-On reste des humains et pas des animaux qu'on surveilleEmbed"
+On reste des humains et pas des animaux qu'on surveilleEmbed",Soprano
 Sopra M'baba,Le Bistrot du coin,"4 ContributorsLe Bistrot du coin Lyrics-Oh Toinou kémédi viens boire un café avec nous
 Oh hémi, ah ! Mettez-vous à ma table bande d'enculé
 -Et pourquoi tu t'es mis à la notre ?
@@ -26439,7 +26439,7 @@ Oh hémi, ah ! Mettez-vous à ma table bande d'enculé
 -Ferme ta gueule
 -Je m'en bats les couilles ! Oh parle bien toi
 -Marius euh ne vous emportez pas ! Marius envoie une rafale c'est moi qui paye
--Il a raison comme ils disent les jeunes on le fait ""à la bien""You might also like1Embed"
+-Il a raison comme ils disent les jeunes on le fait ""à la bien""You might also like1Embed",Soprano
 Sopra M'baba,Le Boxeur,"22 ContributorsPuisqu’il faut vivre Lyrics[Couplet unique]
 Yeah
 Puisqu'il faut vivre, autant l'faire avec le sourire
@@ -26508,7 +26508,7 @@ A.L.O.N, Vinz, Sya, yeah
 Puisqu'il faut vivre, autant l'faire avec le sourire
 Pour un meilleur avenir
 Yeah
-Sopra M'Baba, yeah3Embed"
+Sopra M'Baba, yeah3Embed",Soprano
 Sopra M'baba,Le Départ,"2 ContributorsDinar LyricsLyrics :
 
 1er Couplet [K-reem] :
@@ -26567,7 +26567,7 @@ Refrain [K-reem] :
 Charyina b'Dinar , dayrina 3la l'équart w 7armina m'départ
 H'na Chadin f 'sira , t'rigna ma Gsira w li chad'na ghi E'sirat
 Maken li bgha leg3ad , M3aychina b3ad , h'na karhouna l'blad
-Mais e'tali fina s'3a w men ghir el waldin chkoun lina d3a ?Embed"
+Mais e'tali fina s'3a w men ghir el waldin chkoun lina d3a ?Embed",Soprano
 Sopra M'baba,Le Divan,"8 ContributorsLe Divan Lyrics[Couplet: Soprano]
 J’ai rien d’exceptionnel, j’suis qu’un jeune de plus avec des rêves
 Pour les défendre j’ai mis des gants d’boxe sur mes lèvres
@@ -26608,7 +26608,7 @@ Et tu verras qu’ton fils est dans un sale état
 Voilà c’que je suis, un enfant de Madame France
 Qui n’a que le mic pour dire qu’il existe
 Comme vous voyez, j’n’ai rien d’intéressant
-Je n’suis qu’un jeune de plus qui rap sur un divan..You might also like1Embed"
+Je n’suis qu’un jeune de plus qui rap sur un divan..You might also like1Embed",Soprano
 Sopra M'baba,Le grand bleu,"2 ContributorsLe grand bleu Lyrics[Paroles de ""Le grand bleu"" ft. MC Solaar]
 
 [Couplet 1 : Soprano]
@@ -26665,7 +26665,7 @@ Pour cet amour aride, dans ses yeux, il pleut
 Elle peut être le briquet dans la guerre du feu
 Faire d'octobre rouge, juste une air de jeu
 Et que le casting vu dans Rambo 2
-Rendre les armes à ses grands yeux bleus (ses grands yeux bleus)Embed"
+Rendre les armes à ses grands yeux bleus (ses grands yeux bleus)Embed",Soprano
 Sopra M'baba,Le M’Baba,"4 ContributorsLe M’Baba Lyrics[Intro]
 Stereh, Stereh, Stereh, Stereh, Stereh
 Stereh, Stereh, Stereh, Stereh, Stereh
@@ -26721,7 +26721,7 @@ Rah-pah-pah-pah-pah, Rah-pah-pah-pah-pah-pah-pah
 
 [Outro]
 Stereh, Stereh, Stereh, Stereh, Stereh, Stereh, Stereh, Stereh
-Stereh, Stereh, Stereh, Stereh, Stereh, Stereh, Stereh, SterehEmbed"
+Stereh, Stereh, Stereh, Stereh, Stereh, Stereh, Stereh, SterehEmbed",Soprano
 Sopra M'baba,Le monde est chaud,"5 ContributorsLe monde est chaud LyricsLe monde est chaud, le monde est chaud, le monde a chaud
 Le monde est chaud, le monde est chaud, le monde a chaud
 Le monde est chaud, le monde est chaud, le monde a chaud
@@ -26774,7 +26774,7 @@ Lo Lo kelebe Ndounia yoro dora
 Le monde est chaud, le monde est chaud, le monde a chaud
 Le monde est chaud, le monde est chaud, le monde a chaud
 Le monde est chaud, le monde est chaud, le monde a chaud
-Le monde est chaud, le monde est chaud, le monde a chaudEmbed"
+Le monde est chaud, le monde est chaud, le monde a chaudEmbed",Soprano
 Sopra M'baba,L’Enfer Du Devoir,"4 ContributorsL’Enfer Du Devoir Lyrics[Intro]
 Hey p'tit con elle est là la race…
 Hey p'tit con elle est là la race…
@@ -26843,7 +26843,7 @@ Dis-leur que le ciment m'a passé des briques sans être maçon..
 L'enfer du devoir, l'envers du décor
 On vit d'nos efforts… La tete et les formes
 Matin, midi et soir à squatter le square
-L'envers du décor, l'enfer du devoir, viens voir…Embed"
+L'envers du décor, l'enfer du devoir, viens voir…Embed",Soprano
 Sopra M'baba,L’équilibriste,"11 ContributorsL’équilibriste LyricsOoooh oho oooh
 [Couplet 1]
 Je suis l'équilibriste, je tiens sur un fil
@@ -26894,7 +26894,7 @@ Oui je fais mes acrobaties en fermant les yeux en suivant la voix de mes amours 
 Ooooh
 Je tiens sur un fil, accroché à mes rêves
 Je me demande si j'y  arriverais sans tomber
-Oui je fais mes acrobaties en fermant les yeux  en suivant la voix de mes amours pour me guiderEmbed"
+Oui je fais mes acrobaties en fermant les yeux  en suivant la voix de mes amours pour me guiderEmbed",Soprano
 Sopra M'baba,Les clés de la réussite,"16 ContributorsLes clés de la réussite Lyrics[Introduction]
 Marseille, han
 Skalp, yeah (han, han)
@@ -26997,7 +26997,7 @@ Tony P, Sopra', Mister Don Choa
 FF, Psy 4
 Yeah, yeah
 Skalpovich, Skalpovich
-Pour les clefs de la réussite franginEmbed"
+Pour les clefs de la réussite franginEmbed",Soprano
 Sopra M'baba,Les Croqueurs De Diamant,"5 ContributorsLes Croqueurs De Diamant Lyrics[Couplet 1]
 J’suis ton Jay-Z, t’es ma Queen B
 Depuis qu’tu m’as piqué j’suis un junkie
@@ -27061,7 +27061,7 @@ Lala lala lala lala la
 My baby, my baby, my baby love
 My baby, my baby, my baby love
 My baby, my baby, my baby love
-Lala lala lala lala laYou might also likeEmbed"
+Lala lala lala lala laYou might also likeEmbed",Soprano
 Sopra M'baba,Le sud le fait mieux,"6 ContributorsLe sud le fait mieux LyricsHey..Hey...Hey...Uh...Hey...Hey...Hey
 Kimfu production
 
@@ -27143,7 +27143,7 @@ N'essaie même pas de le faire, lelele sud le fait mieux [x2]
 N'essaie même pas de le faire car le sud le fait mieux
 Lelelelelele fait mieux, lelelelelele fait mieux [x2]
 N'essaie même pas de le faire, n'essaie même pas de le faire
-N'essaie même pas de le faire, lelele sud le fait mieux [x2]Embed"
+N'essaie même pas de le faire, lelele sud le fait mieux [x2]Embed",Soprano
 Sopra M'baba,LES VOIX DANS MA TÊTE,"4 ContributorsLES VOIX DANS MA TÊTE Lyrics[Verse 1 : Achim]
 Parfois c'est dur de garder la foi
 Comme si les mauvaises choses n’arrivaient qu'à moi
@@ -27190,7 +27190,7 @@ L'imagination change
 Pas le paysage
 Souvent j'm'en veux de plus me rappeler des détails de ton visage
 Tempête dans la tête j'entends une voix quand c'est l'orage
-Comme si j'étais pas seulEmbed"
+Comme si j'étais pas seulEmbed",Soprano
 Sopra M'baba,Le temps d’une pause,"13 ContributorsLe temps d’une pause Lyrics[Intro]
 Good afternoon ladies and gentlemen, this is your captain, we've got great clear flying conditions today. We go off to thirty thousand feet and cruise there for about an hour ahead. So other than that, sit back, relax, and enjoy your flight, we should arrive about an hour a half
 
@@ -27257,7 +27257,7 @@ Un arrêt sur image sans que rien ne s'y oppose
 
 [Outro : R.E.D.K.] (x2)
 Besoin de faire une pause, déstresser, j'dois vous laisser
-Ici je me sens comme oppressé j'dois vous laisserEmbed"
+Ici je me sens comme oppressé j'dois vous laisserEmbed",Soprano
 Sopra M'baba,Le Temps Qu’il Nous Reste,"6 ContributorsLe Temps Qu’il Nous Reste Lyrics[Couplet 1 : Soprano]
 Dis-moi que tu m’aimes, dis-moi que tu m’aimes
 Fais-le vite avant que les regrets nous prennent
@@ -27323,7 +27323,7 @@ On vit le temps qu’il nous reste
 [Outro : Nassi]
 Vit le temps qu’il nous reste
 Vit le temps qu’il nous reste
-Vit le temps qu’il nous resteYou might also likeEmbed"
+Vit le temps qu’il nous resteYou might also likeEmbed",Soprano
 Sopra M'baba,Lever tôt,"36 ContributorsDe Marseille à Paris Lyrics[Paroles de ""De Marseille à Paris"" ft. Dr Bériz, Bedjik, H Magnum & Soprano]
 
 [Intro : Maitre Gims]
@@ -27447,7 +27447,7 @@ Le game n'est pas un trottoir pourquoi tu te prostitues ?
 Dédicace à Bedjik et à Shin Sekaï
 Avec un putain de flow qui découpe comme San ku kai
 Rien qu'jpars en live, faut qu'je fly
-Donc je vous dis bye bye bye bye bye-bye bye !4Embed"
+Donc je vous dis bye bye bye bye bye-bye bye !4Embed",Soprano
 Sopra M'baba,L’héritage de l’amour,"1 ContributorL’héritage de l’amour Lyrics[Couplet 1: Namor]
 Mon fils je prends la plume aujourd'hui pour te parler
 Depuis ton arrivée sur Terre tu n'fais que me régaler
@@ -27525,7 +27525,7 @@ Oh, oh
 On se battra pour vous laisser plus que nos cœurs en héritage
 Oh, oh
 On ramènera l'été chaque fois que vous vivrez l'orage
-Pour qu'le Soleil illumine vos visagesEmbed"
+Pour qu'le Soleil illumine vos visagesEmbed",Soprano
 Sopra M'baba,Look my swagg (Remix),"4 ContributorsLook my swagg (Remix) Lyrics[Paroles de ""Look my swagg (Remix)"" ft. Soprano]
 
 [Intro : Green Money]
@@ -27588,7 +27588,7 @@ BS, RR, SS, LMS
 Yeah, this is the remix
 This is the motherfucking fucking remix
 Soprano, Money man
-Paris, Marseille, Money manEmbed"
+Paris, Marseille, Money manEmbed",Soprano
 Sopra M'baba,Lova,"9 ContributorsOne love Lyrics[Intro]
 Yeah , DJ Mej
 Effrite ce que tu veux
@@ -27644,7 +27644,7 @@ Sens-tu mon cœur qui bat quand je te parle de Hip-Hop hein !
 Elle m'a donné la voix
 One.. One.. Love
 Celle qui s'impose à moi
-One.. One.. LoveEmbed"
+One.. One.. LoveEmbed",Soprano
 Sopra M'baba,Love,"9 ContributorsOne love Lyrics[Intro]
 Yeah , DJ Mej
 Effrite ce que tu veux
@@ -27700,7 +27700,7 @@ Sens-tu mon cœur qui bat quand je te parle de Hip-Hop hein !
 Elle m'a donné la voix
 One.. One.. Love
 Celle qui s'impose à moi
-One.. One.. LoveEmbed"
+One.. One.. LoveEmbed",Soprano
 Sopra M'baba,Mama,"3 ContributorsMama LyricsOn m'a dit que l'argent tombait du ciel
 O maman j'en rêve si tu savais
 Etranger et vu d'un mauvais oeil
@@ -27761,7 +27761,7 @@ Je reviendrais mama
 Pour construire un château
 J'prie tous les jours le très haut
 Pour revenir mama
-Je serais ton hérosEmbed"
+Je serais ton hérosEmbed",Soprano
 Sopra M'baba,Marc Landers,"7 ContributorsMarc Landers Lyrics[Couplet 1]
 Je déboule comme un boulet de canon de-de-de Marc Landers
 Sopra, plus vrai que les deux melons de Pamela Anderson
@@ -27811,7 +27811,7 @@ Tactiquement, techniquement, rapologiquement, mélodiquement, sapologiquement, m
 Mais il est NUL!
 
 (Allez!)
-(Marc Landers sent le phrasé)5Embed"
+(Marc Landers sent le phrasé)5Embed",Soprano
 Sopra M'baba,M.A.R.S,"2 ContributorsM.A.R.S Lyrics[Intro : Soprano]
 L'équipe, qu'est ce qu'ils ont contre notre ville?
 Pas grave on va envenimé le truc
@@ -27900,7 +27900,7 @@ Hé Poto, si t'es pas de là, Aïe Aïe Aïe
 Centre Ville vient de, vient de, vient de M.A.R.S
 Plan d'Aou vient de, vient de, vient de M.A.R.S
 Paluce vient de, vient de, vient de M.A.R.S
-Hé Poto si t'es pas de là, Aïe Aïe AïeEmbed"
+Hé Poto si t'es pas de là, Aïe Aïe AïeEmbed",Soprano
 Sopra M'baba,Marseille United,"7 ContributorsMarseille United Lyrics[Intro: Soprano]
 Salam!
 Barza!
@@ -28019,7 +28019,7 @@ Laisse-moi foutre lahryate dans le rap comme une bouteille de Jack
 Yeah, j'ai pas d'fan, pas d'Stan que des supporters
 J'suis pas une star, pas un gangster
 Maghreb United, yeah, La Swija Sopra, yeah
-Ça vient de M.A.R.SEmbed"
+Ça vient de M.A.R.SEmbed",Soprano
 Sopra M'baba,Mars Vice,"5 ContributorsMars Vice Lyrics[Couplet 1]
 Nos vies ont l'architecture d'une synagogue en pleine Palestine
 Une grand estime pour ceux qui ont la côte sans se travestir
@@ -28090,7 +28090,7 @@ J'suis Biggie, toi t'es Shyne !
 Prends pas nos rap pour des menaces mais pour des promesses
 Mars Vice
 Pour ceux qui reconnaissent
-Mars Vice, Mars Vice, Mars Vice, Mars ViceEmbed"
+Mars Vice, Mars Vice, Mars Vice, Mars ViceEmbed",Soprano
 Sopra M'baba,Maudits soient les yeux fermés (2015),"2 ContributorsMaudits soient les yeux fermés (2015) Lyrics[Intro : Sako & Akhenaton]
 - Allo
 - Ouais, allo Chill ?
@@ -28180,7 +28180,7 @@ Cinglant, c'constat m'consterne et n'concerne pas qu'moi, conscient d'ça
 Comment lâcher pour la risée d'irisés lyrics ?
 Ça serait tissé d'hypocrisie, alors j'lâche pas l'affaire
 Et maudits soient les yeux fermés
-[Refrain] (x2)3Embed"
+[Refrain] (x2)3Embed",Soprano
 Sopra M'baba,Mes Kwell,"9 ContributorsMes Kwell Lyrics
 
 [Couplet 1: Soprano]
@@ -28261,7 +28261,7 @@ Oui mes kwell
 Le sang de la veine, le sang de la veine
 Blood, blood, blood
 Oui mes kwell
-Blood, blood, blood, blood2Embed"
+Blood, blood, blood, blood2Embed",Soprano
 Sopra M'baba,Mes pensées,"3 ContributorsMes pensées Lyrics[Intro]
 Laisse pas mes pensées parler seules
 J′me sens petit quand je m'isole
@@ -28336,7 +28336,7 @@ Elles m′dirigent vers la sortie (sortie)
 Oh-oh-oh-oh, oh, oh-oh-oh
 Oh-oh-oh-oh, oh, oh-oh-oh-oh
 Oh-oh-oh-oh, oh, oh-oh-oh
-Oh-oh-oh-ohEmbed"
+Oh-oh-oh-ohEmbed",Soprano
 Sopra M'baba,Miracle,"9 ContributorsMiracle LyricsMama ne pleure pas
 Oui tout va bien
 Ma vie est un miracle
@@ -28420,7 +28420,7 @@ Ma vie est un miracle
 Ma vie est un miracle
 Mama
 Mama
-MamaEmbed"
+MamaEmbed",Soprano
 Sopra M'baba,Moi j’ai pas - version album,"2 ContributorsMoi j’ai pas - version album LyricsYé, hostile 2006...
 Soprano
 
@@ -28489,7 +28489,7 @@ Moi j'sui juste moi Sopran'baba
 Ohohohohohoho
 Toi t'as pas ma caille, mes potes, mes problemes, mon vécu
 Toi t'es pas moi Sopran'baba
-...Embed"
+...Embed",Soprano
 Sopra M'baba,Mon choix,"3 ContributorsMon choix Lyrics[Paroles de ""Mon choix"" ft. Soprano]
 
 [Couplet 1 : Lynda]
@@ -28540,7 +28540,7 @@ Je vous prie libérez moi
 Je vous préserve mais c'est mon choix
 Oh laissez mon cœur choisir
 Il n'enfreint aucune loi
-C'est comme ça et c'est mon choixEmbed"
+C'est comme ça et c'est mon choixEmbed",Soprano
 Sopra M'baba,Money,"2 ContributorsMoney Lyrics[Paroles de ""Money""]
 
 Yeah
@@ -28617,7 +28617,7 @@ Et qu'on le veuille ou non, c'est comme ça, on ne peut rien y faire
 Tu ne peux rien y faire
 Tu, tu ne peux rien n'y faire
 Tu, tu ne peux rien n'y faire
-Tu, tu ne peux rien n'y faireEmbed"
+Tu, tu ne peux rien n'y faireEmbed",Soprano
 Sopra M'baba,Mon précieux (English Translation),"1 ContributorMon précieux (English Translation) Lyrics[Verse 1]
 Your sweet music wakes me each morning
 Before I kiss my wife, I take you by the hand
@@ -28671,7 +28671,7 @@ My precious, my precious, my precious
 *You have 39 new friend requests*
 *You have 120 new likes*
 *You haven't seen your friends in 2 months*
-*Your life is digital, LOL*Embed"
+*Your life is digital, LOL*Embed",Soprano
 Sopra M'baba,Mon public,"9 ContributorsMon public Lyrics[Couplet 1]
 On s'est connu à travers mes larmes, il parait qu'on a les mêmes
 Malgré les années à chanter mes drames, tu m'es resté fidèle
@@ -28727,7 +28727,7 @@ Palalalala
 Papalapapalala
 Palalalala
 Palalalala
-PalalalalaEmbed"
+PalalalalaEmbed",Soprano
 Sopra M'baba,Mon silence,"2 ContributorsMon silence Lyrics[Paroles de ""Mon silence""]
 
 [Couplet 1]
@@ -28773,7 +28773,7 @@ Quel est mon rôle ?
 Quel est mon rôle pour changer les choses ?
 Quel est mon rôle ?
 Quel est mon rôle pour changer les choses ?
-Quel est mon rôle ?Embed"
+Quel est mon rôle ?Embed",Soprano
 Sopra M'baba,Narende X2,"4 ContributorsNarende X2 Lyrics[Paroles de ""Narende X2"" ft. Soprano]
 
 [Intro]
@@ -28840,7 +28840,7 @@ Narende, eh, Narende, yeah
 Narende, eh, Narende, yeah
 
 [Outro]
-Narende, NarendeEmbed"
+Narende, NarendeEmbed",Soprano
 Sopra M'baba,Ne m’oublie pas,"1 ContributorLa chute de la maison Usher LyricsSon cœur est un luth suspendu ;
 Sitôt qu’on le touche, il résonne.
 
@@ -29009,7 +29009,7 @@ Ici, il se dressa furieusement sur ses pieds, et hurla ces syllabes, comme si da
 
 À l’instant même, comme si l’énergie surhumaine de sa parole eût acquis la toute-puissance d’un charme, les vastes et antiques panneaux que désignait Usher entr’ouvrirent lentement leurs lourdes mâchoires d’ébène. C’était l’œuvre d’un furieux coup de vent ; — mais derrière cette porte se tenait alors la haute figure de lady Madeline Usher, enveloppée de son suaire. Il y avait du sang sur ses vêtements blancs, et toute sa personne amaigrie portait les traces évidentes de quelque horrible lutte. Pendant un moment, elle resta tremblante et vacillante sur le seuil ; — puis, avec un cri plaintif et profond, elle tomba lourdement en avant sur son frère, et, dans sa violente et définitive agonie, elle l’entraîna à terre, — cadavre maintenant et victime de ses terreurs anticipées.
 
-Je m’enfuis de cette chambre et de ce manoir, frappé d’horreur. La tempête était encore dans toute sa rage quand je franchissais la vieille avenue. Tout d’un coup, une lumière étrange se projeta sur la route, et je me retournai pour voir d’où pouvait jaillir une lueur si singulière, car je n’avais derrière moi que le vaste château avec toutes ses ombres. Le rayonnement provenait de la pleine lune qui se couchait, rouge de sang, et maintenant brillait vivement à travers cette fissure à peine visible naguère, qui, comme je l’ai dit, parcourait en zigzag le bâtiment depuis le toit jusqu’à la base. Pendant que je regardais, cette fissure s’élargit rapidement ; — il survint une reprise de vent, un tourbillon furieux ; — le disque entier de la planète éclata tout à coup à ma vue. La tête me tourna quand je vis les puissantes murailles s’écrouler en deux. — Il se fit un bruit prolongé, un fracas tumultueux comme la voix de mille cataractes, — et l’étang profond et croupi placé à mes pieds se referma tristement et silencieusement sur les ruines de la Maison Usher.Embed"
+Je m’enfuis de cette chambre et de ce manoir, frappé d’horreur. La tempête était encore dans toute sa rage quand je franchissais la vieille avenue. Tout d’un coup, une lumière étrange se projeta sur la route, et je me retournai pour voir d’où pouvait jaillir une lueur si singulière, car je n’avais derrière moi que le vaste château avec toutes ses ombres. Le rayonnement provenait de la pleine lune qui se couchait, rouge de sang, et maintenant brillait vivement à travers cette fissure à peine visible naguère, qui, comme je l’ai dit, parcourait en zigzag le bâtiment depuis le toit jusqu’à la base. Pendant que je regardais, cette fissure s’élargit rapidement ; — il survint une reprise de vent, un tourbillon furieux ; — le disque entier de la planète éclata tout à coup à ma vue. La tête me tourna quand je vis les puissantes murailles s’écrouler en deux. — Il se fit un bruit prolongé, un fracas tumultueux comme la voix de mille cataractes, — et l’étang profond et croupi placé à mes pieds se referma tristement et silencieusement sur les ruines de la Maison Usher.Embed",Soprano
 Sopra M'baba,NKOTB,"7 ContributorsNKOTB Lyrics[Paroles de ""NKOTB""]
 
 [Intro]
@@ -29119,7 +29119,7 @@ A gauche à droite
 Ohohohohohohoh (Allez)
 Ohohohohohohoh (Fais trembler le sol, Allez)
 Ohohohohohohoh (Allez, Allez)
-OhohohohohohohEmbed"
+OhohohohohohohEmbed",Soprano
 Sopra M'baba,No Money,"3 ContributorsTranslationsFrançaisLe Classico Organisé - Légendaire ft. Calbo, R.E.D.K., Lino, Oxmo Puccino, Soprano, JuL, Rim’K & SCH (English Translation) Lyrics[Intro : SCH]
 Bro, this is the voice ouf souls who leaved their body before the clinical death
 
@@ -29230,7 +29230,7 @@ Receives new customers and the devil waits for the thanks
 Outside, they count the losses, they sell us freedom
 It brings out the big Bertha, the revolt has deserted
 Bro, here, it's the Omerta, until the end, they're going to screw up
-It's all the same, shooting in the bush, so we'll alert themEmbed"
+It's all the same, shooting in the bush, so we'll alert themEmbed",Soprano
 Sopra M'baba,Nourri par la haine,"7 ContributorsMarseille United Lyrics[Intro: Soprano]
 Salam!
 Barza!
@@ -29349,7 +29349,7 @@ Laisse-moi foutre lahryate dans le rap comme une bouteille de Jack
 Yeah, j'ai pas d'fan, pas d'Stan que des supporters
 J'suis pas une star, pas un gangster
 Maghreb United, yeah, La Swija Sopra, yeah
-Ça vient de M.A.R.SEmbed"
+Ça vient de M.A.R.SEmbed",Soprano
 Sopra M'baba,On a besoin de toi,"8 ContributorsOn a besoin de toi Lyrics[Couplet 1 - Soprano]
 À chaque fois que j'vois ces oiseaux de métal déchirer le ciel
 J'repense à mon grand frère et son rêve occidental
@@ -29397,7 +29397,7 @@ Les larmes aux yeux il se souvient quand vous lui disiez :
 
 [Outro - Amadou & Mariam]
 Ne nous quitte pas on a besoin de toi
-Ne nous quitte pas on a besoin de toiEmbed"
+Ne nous quitte pas on a besoin de toiEmbed",Soprano
 Sopra M'baba,One love,"9 ContributorsOne love Lyrics[Intro]
 Yeah , DJ Mej
 Effrite ce que tu veux
@@ -29453,7 +29453,7 @@ Sens-tu mon cœur qui bat quand je te parle de Hip-Hop hein !
 Elle m'a donné la voix
 One.. One.. Love
 Celle qui s'impose à moi
-One.. One.. LoveEmbed"
+One.. One.. LoveEmbed",Soprano
 Sopra M'baba,On fait le show,"13 ContributorsDarwa Lyrics[Refrain]
 Dîtes-moi on est là pourquoi ?
 Darwa Darwa !
@@ -29546,7 +29546,7 @@ Devinez qui est de retour sur scène, c'est Sopra'm'baba
 Que tout le monde lève les bras bien haut qu'on puisse se vider la tête avec Sopra'm'baba
 C'est l'faya
 Devinez qui est de retour sur scène, c'est Sopra'm'baba
-Que tout le monde lève les bras bien haut qu'on puisse se vider la tête avec Sopra'm'babaEmbed"
+Que tout le monde lève les bras bien haut qu'on puisse se vider la tête avec Sopra'm'babaEmbed",Soprano
 Sopra M'baba,On fait monter le buzz,"2 ContributorsOn fait monter le buzz Lyrics[Intro: Eklips]
 C'est qui?
 Soprano, Soprano Baba
@@ -29635,7 +29635,7 @@ Nous on fait monter l'buzz même sans penser au pèze
 Le Remède débarque (débarque)
 Dans les backs (yeah), les backs, les backs
 (lay back, lay back!)
-Po po po po!Embed"
+Po po po po!Embed",Soprano
 Sopra M'baba,On Fait Semblant,"3 ContributorsOn Fait Semblant Lyrics[Couplet 1 : Brasco]
 Au-delà de toutes ces apparences
 Au-delà des rires qu’on dépense
@@ -29669,7 +29669,7 @@ Et mon passé d'vagabond
 
 [Refrain]
 On fait semblant mais on grandit dans la peur quand la chance nous laisse en plan
-On fait semblant et on oublie les coups durs, les blessures et on avanceEmbed"
+On fait semblant et on oublie les coups durs, les blessures et on avanceEmbed",Soprano
 Sopra M'baba,On flirte,"1 ContributorSi le Monde Lyrics[Sample]
 ""If this world were mine...""
 
@@ -29777,7 +29777,7 @@ Eh, c'est ça qu'tu ferais si le monde t'appartenait frangin?
 A peu près, frérot, à peu près
 Chez nous en Afrique, aux Comores on dit ""Viva Africa"". Et chez toi, comment on dit?
 Ah, chez nous, frère, le peuple crierait ""Forza Italia""
-Ha ha ha!Embed"
+Ha ha ha!Embed",Soprano
 Sopra M'baba,On m’a dit,"2 ContributorsOn m’a dit Lyrics[Paroles de ""On m'a dit"" ft. Soprano]
 
 [Couplet 1 : Émilie Satt]
@@ -29830,7 +29830,7 @@ La rumeur ne laissera que des mots dits par derrière
 Tweet, tchat et blablabla je sais mais je sais pas
 J'dis rien mais je parle quand même
 Tweet, tchat et blablabla, trop tard, c'est loin déjà
-Et puis, c'est plus mon problèmeEmbed"
+Et puis, c'est plus mon problèmeEmbed",Soprano
 Sopra M'baba,"On naît, on vit, on meurt","8 ContributorsSale sud Anthem Lyrics[Intro - Soprano]
 Sale Sud !
 Mon équipe arrive les gars paniquez, on est là pour donner de la qualité, de la boucherie toi t'as pas idée
@@ -29910,7 +29910,7 @@ Qui peut lui dédier, moi qui peut tester ? On défonce comme le LSD, on se rép
 Man, heeeey hooo !
 Est-ce que mes soldats sont debout ? Yo je dis heeey hooo !
 On vit, on lutte, on meurt, debout et je dis heeey hooo !
-Où sont mes chiens de la casse ? Mes poumons ! Sale sud !You might also likeEmbed"
+Où sont mes chiens de la casse ? Mes poumons ! Sale sud !You might also likeEmbed",Soprano
 Sopra M'baba,On reste là,"41 ContributorsÇa fait mal (Remix) Lyrics[Intro - DJ Battle & Sefyu]
 Ok, this is the remix baby !
 Zehef
@@ -29994,7 +29994,7 @@ Il reste ma banquette arrière, yeah (Il reste ma banlieue Ouest)
 Dans une cage d'escalier, on peut l'faire
 On peut finir à l'hôtel si y'a plus d'place, sa mère
 Il reste ma banquette arrière, yeah
-Il reste ma banquette arrière, yeah (Il reste ma banlieue Ouest)1Embed"
+Il reste ma banquette arrière, yeah (Il reste ma banlieue Ouest)1Embed",Soprano
 Sopra M'baba,Où sont les enfants?,"2 ContributorsOù sont les enfants? Lyrics[Couplet 1]
 II y a des gosses qui crèvent Ia dalle et ne profitent pas de leur enfance
 Y'a des gosses qui meurent de faim le jour et Ia nuit meurent en silence
@@ -30064,7 +30064,7 @@ Mater le poisson d'avril de ma vie qu'on viole
 Pourquoi son père n'est pas Ià pour l'éduquer et le conseiller ?
 Pourquoi création et responsabilité sont inconciliées ?
 Car les sous à avenir, nous sous l'avenir, nos souvenirs on s'y perd souvent
-Sans y revenir, Ia question notre devenirEmbed"
+Sans y revenir, Ia question notre devenirEmbed",Soprano
 Sopra M'baba,Outro,"5 ContributorsOutro Lyrics[Refrain]
 Dis-moi ce que tu ressens
 A la veille d'un grand moment
@@ -30113,7 +30113,7 @@ M'en bas les couilles du game, m'en bas les couilles des blocks, m'en bas les co
 Donc dis-leur qu'jsuis en forme, j'suis venu croquer le monde, donner d'la bouffe à mes mômes
 Voilà comment je me sens avant la sortie de l'album... Armé jusqu'aux dents, sur le dos d'une colombe...
 
-RefrainEmbed"
+RefrainEmbed",Soprano
 Sopra M'baba,Outro (Encore une soirée...),"7 ContributorsOutro (Encore une soirée...) Lyrics[Couplet 1]
 Les années passent et les pluies sont toujours aussi salées (hey)
 Tu nous manques donc la nuit je continue de rouler (hey)
@@ -30172,7 +30172,7 @@ Moi c'est dans vos sourires que j'ai appris
 Aaaaah
 Chacun sa manière d'être en vie
 Aaaaah
-C'est dans vos sourires que j'suis un phœnixEmbed"
+C'est dans vos sourires que j'suis un phœnixEmbed",Soprano
 Sopra M'baba,Ouvrez les Frontières,"5 ContributorsOuvrez les Frontières Lyrics[Refrain]
 Ouvrez les frontières, ouvrez les frontières
 Ouvrez les frontières, ouvrez les frontières
@@ -30249,7 +30249,7 @@ Laissez-nous passer
 Ouvrez les frontières, ouvrez les frontières
 Laissez-nous passer
 Ouvrez les frontières, ouvrez les frontières
-Laissez-nous passer1Embed"
+Laissez-nous passer1Embed",Soprano
 Sopra M'baba,Paix À La Haine,"1 ContributorPaix À La Haine Lyrics[Couplet 1: Alonzo]
 Yeah, ok
 J'donne pas d'impression
@@ -30359,7 +30359,7 @@ Qu'on vit comme on vit
 On est dans notre monde, différent à eux, c'est normal
 On n'est pas d'chez eux, merde
 Alonz', qu'est-ce tu en penses? Vince?
-Thanksgiving, yeahEmbed"
+Thanksgiving, yeahEmbed",Soprano
 Sopra M'baba,Paix-roriste,"1 ContributorPaix-roriste Lyrics[Intro : Tiers Monde]
 Pour la paix, j'suis un paix-roriste
 Mmh, mmh, mmh, mmh
@@ -30402,7 +30402,7 @@ J'voulais parler d'amour (paix-roriste, paix-roriste, paix-roriste), j'voulais p
 J'suis un paix-roriste
 
 [Outro : Tiers Monde]
-Mmh, mmh, mmh, mmhEmbed"
+Mmh, mmh, mmh, mmhEmbed",Soprano
 Sopra M'baba,Papa dis-moi,"4 ContributorsPapa dis-moi Lyrics[Intro - Luna & Soprano]
 Eh papa, je peux te poster une question ?
 Oui vas-y ma chérie, qu'est-ce qu'il y a ?
@@ -30443,7 +30443,7 @@ Papa dis moi, papa dis moi pourquoi ? Oooh oooh oooh
 
 [Outro - Luna & Soprano]
 Eh papa, je peux encore te poser des questions s'il te plaît ?
-Ahh demande à ta mèreEmbed"
+Ahh demande à ta mèreEmbed",Soprano
 Sopra M'baba,Papa sopra,"7 ContributorsPapa sopra Lyrics[Intro]
 Papa
 
@@ -30516,7 +30516,7 @@ Ola, ola-la
 (petit, petit, yeah)
 (petit, petit, yeah)
 Respectez l'homme (l'homme)
-BécileEmbed"
+BécileEmbed",Soprano
 Sopra M'baba,Paranaoïa,"3 ContributorsParanaoïa Lyrics[Akhenaton]
 Et vois dans l'dos si j'y suis
 Pourtant y'a des frères peace ici
@@ -30628,7 +30628,7 @@ Beaucoup d'frères attrapent la maladie locale
 Paranoïa
 Transmission vocale
 
-Les RG me suivent, la CIA et le FBI me suivent...Embed"
+Les RG me suivent, la CIA et le FBI me suivent...Embed",Soprano
 Sopra M'baba,Paranoïa,"5 ContributorsParanoïa Lyrics[Paroles de ""Paranoïa""]
 
 [Pré-refrain]
@@ -30705,7 +30705,7 @@ Paranoïa-ïa-ïaque (paranoïaque)
 [Outro]
 Prouve-moi le
 Prouve-moi le
-Prouve-moi leEmbed"
+Prouve-moi leEmbed",Soprano
 Sopra M'baba,Passe moi le mic,"8 ContributorsPasse moi le mic Lyrics[Couplet 1]
 Passe moi le mic que je représente
 Tous ces quartiers de France, toutes ces sentences
@@ -30785,7 +30785,7 @@ A ceux qui sont au bled
 A ceux qui galèrent pour donner un peu de caille à la maison frangin
 Donne moi du rap qui représente
 Donne moi du rap qui représente frangin
-ReprésenteEmbed"
+ReprésenteEmbed",Soprano
 Sopra M'baba,Piranhas,"15 ContributorsPiranhas Lyrics[Couplet 1]
 Ne mets pas un pied dans mes marécages, j’ai la mâchoire d’un piranha
 Compare pas mes eaux troubles avec la piscine de Loana
@@ -30864,7 +30864,7 @@ Où sont mes chiens d'la casse, mes spartiates de Massilia ?
 Chez les piranhas
 Marseille où vous êtes ? Tous les quartiers qui vous êtes ?
 Que des piranhas
-De là je ne vous entends pas, la la la la la la la1Embed"
+De là je ne vous entends pas, la la la la la la la1Embed",Soprano
 Sopra M'baba,Planète Mars 2021,"2 ContributorsPlanète Mars 2021 Lyrics[Paroles de ""Planète Mars 2021"" ft. Alonzo, JuL & SCH]
 
 [Intro : Soprano]
@@ -30954,7 +30954,7 @@ Marseillais
 C'est nous les Marseillais
 Marseillais
 Marseillais
-C'est nous les MarseillaisEmbed"
+C'est nous les MarseillaisEmbed",Soprano
 Sopra M'baba,Plus que de la musique,"1 ContributorPlus que de la musique Lyrics[Couplet 1 : Sat]
 Représenter les miens n'est pas une charge, mais un honneur
 J'me dois d'être à la hauteur de la tâche
@@ -31041,7 +31041,7 @@ Carpe Diem, Saïd, je marche avec
 Keny Arkana, je marche avec
 Marseille, 1.3, je marche avec
 Les gens qui marchent avec moi, je marche avec
-Tous ceux qui roulent avec moi, je marche avecEmbed"
+Tous ceux qui roulent avec moi, je marche avecEmbed",Soprano
 Sopra M'baba,Plus rien à perdre,"6 ContributorsPlus rien à perdre Lyrics[Paroles de ""Plus rien à perdre"" ft. Hatik]
 
 [Intro : Soprano]
@@ -31080,7 +31080,7 @@ Faut qu'mama soit fière, attraper mes rêves
 J'ai plus rien à perdre, non, plus rien à perdre
 J'en perds le sommeil à cause de mes rêves
 Non, plus rien à perdre, oui, plus rien à perdre
-Faut qu'mama soit fière, attraper mes rêvesEmbed"
+Faut qu'mama soit fière, attraper mes rêvesEmbed",Soprano
 Sopra M'baba,Post-scriptum,"10 ContributorsPost-scriptum Lyrics
 
 [Intro]
@@ -31146,7 +31146,7 @@ C'est qu'il vient d'avoir 18 ans
 Donc bon anniversaire, bande de gremlins
 Et si j'suis encore vivant
 Allez dans ma chambre et faites moi un gros gâté
-C'était papa qui vous aime, bise2Embed"
+C'était papa qui vous aime, bise2Embed",Soprano
 Sopra M'baba,Pour de meilleurs lendemains,"1 ContributorLa chute de la maison Usher LyricsSon cœur est un luth suspendu ;
 Sitôt qu’on le touche, il résonne.
 
@@ -31315,7 +31315,7 @@ Ici, il se dressa furieusement sur ses pieds, et hurla ces syllabes, comme si da
 
 À l’instant même, comme si l’énergie surhumaine de sa parole eût acquis la toute-puissance d’un charme, les vastes et antiques panneaux que désignait Usher entr’ouvrirent lentement leurs lourdes mâchoires d’ébène. C’était l’œuvre d’un furieux coup de vent ; — mais derrière cette porte se tenait alors la haute figure de lady Madeline Usher, enveloppée de son suaire. Il y avait du sang sur ses vêtements blancs, et toute sa personne amaigrie portait les traces évidentes de quelque horrible lutte. Pendant un moment, elle resta tremblante et vacillante sur le seuil ; — puis, avec un cri plaintif et profond, elle tomba lourdement en avant sur son frère, et, dans sa violente et définitive agonie, elle l’entraîna à terre, — cadavre maintenant et victime de ses terreurs anticipées.
 
-Je m’enfuis de cette chambre et de ce manoir, frappé d’horreur. La tempête était encore dans toute sa rage quand je franchissais la vieille avenue. Tout d’un coup, une lumière étrange se projeta sur la route, et je me retournai pour voir d’où pouvait jaillir une lueur si singulière, car je n’avais derrière moi que le vaste château avec toutes ses ombres. Le rayonnement provenait de la pleine lune qui se couchait, rouge de sang, et maintenant brillait vivement à travers cette fissure à peine visible naguère, qui, comme je l’ai dit, parcourait en zigzag le bâtiment depuis le toit jusqu’à la base. Pendant que je regardais, cette fissure s’élargit rapidement ; — il survint une reprise de vent, un tourbillon furieux ; — le disque entier de la planète éclata tout à coup à ma vue. La tête me tourna quand je vis les puissantes murailles s’écrouler en deux. — Il se fit un bruit prolongé, un fracas tumultueux comme la voix de mille cataractes, — et l’étang profond et croupi placé à mes pieds se referma tristement et silencieusement sur les ruines de la Maison Usher.Embed"
+Je m’enfuis de cette chambre et de ce manoir, frappé d’horreur. La tempête était encore dans toute sa rage quand je franchissais la vieille avenue. Tout d’un coup, une lumière étrange se projeta sur la route, et je me retournai pour voir d’où pouvait jaillir une lueur si singulière, car je n’avais derrière moi que le vaste château avec toutes ses ombres. Le rayonnement provenait de la pleine lune qui se couchait, rouge de sang, et maintenant brillait vivement à travers cette fissure à peine visible naguère, qui, comme je l’ai dit, parcourait en zigzag le bâtiment depuis le toit jusqu’à la base. Pendant que je regardais, cette fissure s’élargit rapidement ; — il survint une reprise de vent, un tourbillon furieux ; — le disque entier de la planète éclata tout à coup à ma vue. La tête me tourna quand je vis les puissantes murailles s’écrouler en deux. — Il se fit un bruit prolongé, un fracas tumultueux comme la voix de mille cataractes, — et l’étang profond et croupi placé à mes pieds se referma tristement et silencieusement sur les ruines de la Maison Usher.Embed",Soprano
 Sopra M'baba,Pour nous deux,"2 ContributorsG.H.E.T.T.O Lyrics[Paroles de ""G.H.E.T.T.O"" ft. Brasco & Aketo]
 
 [Refrain : Brasco]
@@ -31427,7 +31427,7 @@ Sopra M'Baba
 Aketo
 Street Lourd
 Deux
-Pull-up !Embed"
+Pull-up !Embed",Soprano
 Sopra M'baba,Pour toi j’tue,"36 ContributorsDe Marseille à Paris Lyrics[Paroles de ""De Marseille à Paris"" ft. Dr Bériz, Bedjik, H Magnum & Soprano]
 
 [Intro : Maitre Gims]
@@ -31551,7 +31551,7 @@ Le game n'est pas un trottoir pourquoi tu te prostitues ?
 Dédicace à Bedjik et à Shin Sekaï
 Avec un putain de flow qui découpe comme San ku kai
 Rien qu'jpars en live, faut qu'je fly
-Donc je vous dis bye bye bye bye bye-bye bye !4Embed"
+Donc je vous dis bye bye bye bye bye-bye bye !4Embed",Soprano
 Sopra M'baba,Prélude du Phoenix,"9 ContributorsPrélude du Phoenix Lyrics[Couplet]
 Prends-moi le pour et dis-moi ce qu'il en est
 La vie m'a pris autant qu'elle m'a donné
@@ -31588,7 +31588,7 @@ Nous sommes tous des phœnix, nous sommes tous des phœnix
 Toi, moi, lui, elle, nous sommes tous des phœnix
 You might also like[Outro]
 Renaître de ses cendres, voilà de quoi je vais te parler dans mon prochain album
-On a tous une énième chance, Phœnix2Embed"
+On a tous une énième chance, Phœnix2Embed",Soprano
 Sopra M'baba,Près des étoiles,"4 ContributorsPrès des étoiles Lyrics[Paroles de ""Près des étoiles""]
 
 [Refrain]
@@ -31640,7 +31640,7 @@ Là où les rêves n'ont pas de frontière
 Pour oublier l'apesanteur sur Terre (ouh, ouh, ouh, ouh)
 Un peu plus près des étoiles
 Pour leur emprunter un peu de lumière
-Revenir sur Terre, la tête pleine d'espoirEmbed"
+Revenir sur Terre, la tête pleine d'espoirEmbed",Soprano
 Sopra M'baba,Psy 4,"10 ContributorsÀ la Usain Bolt Lyrics[Alonzo - Refrain]
 (Aouh ! Eh !)
 Faut qu'ça marche
@@ -31737,7 +31737,7 @@ Moi je cherche l'oasis balnéaire
 Traverser les frontières, dans ces pays caniculaires
 Mettre ma mère chez les millionnaires ! (Dooonc !..)
 
-[Refrain]Embed"
+[Refrain]Embed",Soprano
 Sopra M'baba,Psychanalyse part. 2,"2 ContributorsPsychanalyse part. 2 Lyrics[Couplet Unique]
 Avez-vous des scrupules
 Vis a vis de la façon dont vous gagnez votre vie?
@@ -31760,7 +31760,7 @@ Plus personne ne doit souffrir
 Même si l'origine en est l'épuisement
 Ou encore la dépression
 Et nous y voilà
-Et bonjour l'antidépresseurYou might also likeEmbed"
+Et bonjour l'antidépresseurYou might also likeEmbed",Soprano
 Sopra M'baba,Quand la musique est bonne,"4 ContributorsQuand la musique est bonne LyricsJ'ai trop saigné sur les Gibson
 J'ai trop rodé dans les Tobacco road
 Il n'y a plus que les caisses qui me résonnent
@@ -31812,7 +31812,7 @@ Quand la musique est bonne
 Quand la musique donne
 Quand la musique sonne sonne sonne
 Quand elle ne triche pas
-Quand la musique est bonneYou might also likeEmbed"
+Quand la musique est bonneYou might also likeEmbed",Soprano
 Sopra M'baba,QUARTIERS NORD,"5 ContributorsEl Barrio Lyrics[Couplet 1: Alonzo]
 A.L.O.N, sexe masculin, laisse mec je suis l'orphelin
 Adopté par le barrio, laisse mec, j'en vexe plus d'un
@@ -31893,7 +31893,7 @@ D'où ça vient, vas-y cherche cherche cherche !
 Des quartiers de France, Plan d'Aou
 Changer de direction dans nos dires c'est out
 On te dit ciao, la Psyquatra rappe pas pour les chattes
-Vas-y, cherche !Embed"
+Vas-y, cherche !Embed",Soprano
 Sopra M'baba,Qu’est-ce qu’on était beaux,"1 ContributorQu’est-ce qu’on était beaux Lyrics[Paroles de ""Qu’est-ce qu’on était beaux""]
 
 Ah, ah, ah, ah
@@ -31962,7 +31962,7 @@ Ah, ah, on a bien ri quand même
 Ah, ah, qu'est-ce qu'on était beaux
 Ah, ah, mais qu'est-ce qu'on était beaux
 Ah, ah, mais ça valait la peine
-Ah, ah, c'est vrai que vous êtes beauxYou might also likeEmbed"
+Ah, ah, c'est vrai que vous êtes beauxYou might also likeEmbed",Soprano
 Sopra M'baba,Racine,"4 ContributorsRacine Lyrics[Paroles de ""Racine""]
 
 [Intro]
@@ -32012,7 +32012,7 @@ Mon amour
 Africa, mon amour (mon amour)
 Je te vois pleurer tes enfants du monde entier
 Africa, mon amour, Africa, mon amour
-J'ai le cœur blessé car rien n'a vraiment changéEmbed"
+J'ai le cœur blessé car rien n'a vraiment changéEmbed",Soprano
 Sopra M'baba,Rampanpan (Introduction Tiken Jah Fakoly),"14 ContributorsRampanpan (Introduction Tiken Jah Fakoly) Lyrics[Intro : Tiken Jah Fakoly]
 La politique peut se transformer en armement
 Elle peut aussi se finir en bombardement
@@ -32070,7 +32070,7 @@ Ou pour leur intérêts personnels
 Que tout le monde appelle :
 Oseille, oseille
 Oseille, oseille
-Où va le monde...1Embed"
+Où va le monde...1Embed",Soprano
 Sopra M'baba,Rap Game,"2 ContributorsRap Game Lyrics[Couplet 1 : Soprano]
 J'ai pas le charisme à Massoud ou Mandela, je suis juste moi un enfant de quartier
 Une vendetta avec des rimes comme mortier
@@ -32159,7 +32159,7 @@ Soprano fils un de ces jours on va te saigner
 Hey Freddy c'est ça Psy4, Ol'Kainry, c'est ça unité !
 Faut arrêter de dire que le rap est mort merde !
 Faut qu'on avance, tous ensemble dans le même sens
-C'est ça ok pas de sens rien à foutre, on kiffeEmbed"
+C'est ça ok pas de sens rien à foutre, on kiffeEmbed",Soprano
 Sopra M'baba,Rappelle-moi,"3 ContributorsRappelle-moi Lyrics[Paroles de ""Rappelle-moi""]
 
 [Couplet 1]
@@ -32234,7 +32234,7 @@ Rappelle-moi
 Rappelle-moi
 Rappelle
 Rappelle-moi
-Rappelle-moiEmbed"
+Rappelle-moiEmbed",Soprano
 Sopra M'baba,Reine des neiges,"5 ContributorsReine des neiges Lyrics[Couplet 1: Sianna]
 Petite princesse rêve de devenir une re-sta
 À peine majeur
@@ -32335,7 +32335,7 @@ L'ont totalement rendu ding ding
 Aveugler par les projecteurs de ses rêves
 Dans ses yeux je ne lis plus que des S.O.S
 Que t'est il arrivé ma petite princesse?
-Oh-ouh-oooh1Embed"
+Oh-ouh-oooh1Embed",Soprano
 Sopra M'baba,Reprendre c’est voler,"33 Contributors13 Organisé (Bonus Track) Lyrics[Paroles de ""13 Organisé"" ft. Many, Akhenaton, K-Ra, Jazzy Jazz, Sysa, Don Choa, 2Bang, Moubarak, Tonyno, Shurik’n, Dadinho, A-Deal, MOH, Zak & Diego, Graya, Sauzer, Sat l’Artificier, Zbig, Menzo, Youzi, Oussagaza, SAF, Soso Maness, Jhonson, Fahar, Stone Black, DRIME, Le Rat Luciano, 100 Blaze, L’Algérino, Alonzo, Soprano, Veazy, AM La Scampia, Keny Arkana, Friz, Djiha, Kamikaz, Thabiti, As, Bilk, Elams, Solda, Kofs, Houari, JuL, SCH & Naps]
 
 [Intro : Naps]
@@ -32865,7 +32865,7 @@ On met ton camp sur le banc, j'ai le col levé à la Cantona
 Crois pas qu'la vie c'est un dream car, dehors, c'est marche ou crève
 Moi, j'ai toujours la même team, j'fais toujours partie d'la crème
 J'ai connu l'âge d'or du rap, quelques déceptions dans le hood
-Moi, de la gloire, je m'en tape, avec les frères, on s'serre les coudesEmbed"
+Moi, de la gloire, je m'en tape, avec les frères, on s'serre les coudesEmbed",Soprano
 Sopra M'baba,Respectés dans le monde,"6 ContributorsRespectés dans le monde Lyrics[Scratches : DJ Djel]
 ""Marseille""
 ""N'essaye pas d'ignorer""
@@ -33017,7 +33017,7 @@ J'espère mourir dans ses bras
 
 [Scratches : DJ Djel]
 ""Marseille""
-""Signore""Embed"
+""Signore""Embed",Soprano
 Sopra M'baba,Réveillons-nous,"7 ContributorsRéveillons-nous Lyrics[Paroles de ""Réveillons-nous""]
 
 [Couplet 1 : Salif]
@@ -33099,7 +33099,7 @@ Réveillons-nous, réveillons-nous
 Aujourd'hui le rap français s'écrit qu'avec des revolvers
 On oublie que nos premiers fans sont tous nos petits frères
 Nos parents ont tout quitté, pas pour qu'on fasse gangster
-Réveillons-nous, réveillons-nousEmbed"
+Réveillons-nous, réveillons-nousEmbed",Soprano
 Sopra M'baba,Roi Lion,"4 ContributorsRoi Lion Lyrics[Paroles de ""Roi Lion""]
 
 [Intro]
@@ -33148,7 +33148,7 @@ Les lions sont immortels, yeah
 
 [Outro]
 Ah, ah, ah, ah, ah, ah, ah, ah, ah
-Ah, ah, ah, ah, ah, ah, ah, ah, ahEmbed"
+Ah, ah, ah, ah, ah, ah, ah, ah, ahEmbed",Soprano
 Sopra M'baba,Salam,"11 ContributorsGrand sud Lyrics[Couplet unique]
 J'ai voulu momentanément lâcher c'que j'avais dans la tête
 C'qu'il y'a dans mon cœur appartient à celui qu'a fait mon squelette
@@ -33195,7 +33195,7 @@ Ou tu mangeras des miettes, cafard, yeah
 Énormément de mal à exprimer mon désarroi jeune terterien
 Malheureusement des fois on marche avec des jnouns, que Dieu nous écarte du ravin
 Hé, infection pulmonaire, j'embrasse ma mère sur la main
-Célébrons notre fête nationale, dramatique est mon latin, 'zin4Embed"
+Célébrons notre fête nationale, dramatique est mon latin, 'zin4Embed",Soprano
 Sopra M'baba,Sale bête,"4 ContributorsSale bête Lyrics[Paroles de ""Sale bête""]
 
 [Intro : Soprano]
@@ -33298,7 +33298,7 @@ Des sales textes pour des sales types, les salles combles
 Le sale but : un sale beat pour des sales brutes
 C’est pour les mecs des blocs
 Pour les mecs des blocs c’est du Psykatra, pas du Sinatra
-Un son de sale bête1Embed"
+Un son de sale bête1Embed",Soprano
 Sopra M'baba,Secret de polichinelle,"15 ContributorsSecret de polichinelle LyricsM[Couplet 1: L.O.]
 On tend pas l'autre joue on compte rendre les gifles, proche de la fin, en comptant qu'les chiffres
 Pas besoin d'être muet pour en comprendre les signes
@@ -33388,7 +33388,7 @@ C'que vous pensez tout bas
 Notre silence en touche un mot
 [Outro: Soprano]
 Le visage de mon grand-père, les mariages au village
-Sache que je n’peux oublier l’odeur du poisson panéEmbed"
+Sache que je n’peux oublier l’odeur du poisson panéEmbed",Soprano
 Sopra M'baba,Si Baba,"2 ContributorsSi Baba LyricsSi Baba
 Si Baba
 Baba si t’avais l’oeil sur ma vie
@@ -33448,7 +33448,7 @@ Malgré le regard des gens, j’avance malgré ton absence (j’avance malgré t
 J’avance malgré ton absence
 J’avance malgré ton absence (j’avance malgré ton absence)
 J’avance malgré ton absence
-J’avance malgré ton absence (j’avance malgré ton absence)Embed"
+J’avance malgré ton absence (j’avance malgré ton absence)Embed",Soprano
 Sopra M'baba,Si le Monde,"1 ContributorSi le Monde Lyrics[Sample]
 ""If this world were mine...""
 
@@ -33556,7 +33556,7 @@ Eh, c'est ça qu'tu ferais si le monde t'appartenait frangin?
 A peu près, frérot, à peu près
 Chez nous en Afrique, aux Comores on dit ""Viva Africa"". Et chez toi, comment on dit?
 Ah, chez nous, frère, le peuple crierait ""Forza Italia""
-Ha ha ha!Embed"
+Ha ha ha!Embed",Soprano
 Sopra M'baba,Si tu tombes,"1 ContributorSi tu tombes Lyrics[Paroles de ""Si tu tombes"" ft. Soprano]
 
 [Couplet unique : Soprano, Patrick Fiori & ensemble]
@@ -33590,7 +33590,7 @@ Si tu tombes (si tu tombes), je te tiendrai la main (si tu tombes)
 Une seconde (une seconde), aujourd'hui ou demain
 Sache qu'avec toi, je ne crains
 Sache qu'avec toi, je ne crains
-Avec toi je ne crains rienEmbed"
+Avec toi je ne crains rienEmbed",Soprano
 Sopra M'baba,Soldat de paix,"3 ContributorsSoldat de paix Lyrics[Paroles de ""Soldat de paix""]
 
 [Intro]
@@ -33657,7 +33657,7 @@ Soldat de paix, soldat (De paix)
 Soldat de paix, soldat
 Soldat de paix, soldat
 Soldat de paix, ouh-ouh, eh-eh
-Soldat de paixEmbed"
+Soldat de paixEmbed",Soprano
 Sopra M'baba,Speed,"29 ContributorsTranslationsEnglishLégendaire Lyrics[Paroles de ""Légendaire"" ft. Calbo, R.E.D.K., Lino, Oxmo Puccino, Soprano, JuL, Rim’K & SCH]
 
 [Intro : SCH]
@@ -33768,7 +33768,7 @@ Reçoit de nouveaux ients-cli et le Diable attend les remerciements
 Dehors, on compte les pertas, on nous vend la liberté
 Ça ressort la grosse Bertha, la révolte a déserté
 Kho, ici, c'est l'Omerta, jusqu'au bout, ils vont merder
-C'est tous les mêmes, tir dans l'tas, donc on va les alerter1Embed"
+C'est tous les mêmes, tir dans l'tas, donc on va les alerter1Embed",Soprano
 Sopra M'baba,Stallag 13,"4 ContributorsStallag 13 Lyrics[Couplet 1 : Soprano]
 J'viens tuer avec l'accent de ma ville
 Si t'es encore en vie c'est que tu repars avec le cul à ...
@@ -33807,7 +33807,7 @@ On te ramène le produit qui te rhabille en or
 Stallag 13, ceux qui ont faussé nos vies la tête dans le fossé
 ...
 Stallag 13, et maintenant on peut sortir
-Indépendant nous on sait ce que ça veut direEmbed"
+Indépendant nous on sait ce que ça veut direEmbed",Soprano
 Sopra M'baba,Starting Block,"8 ContributorsStarting Block Lyrics[Refrain ]
 Yeah ! R.E.D.K, Carpe Diem, Soprano, Psyquatra
 Hey, hey, tout le monde fait : hey, hey, hey, hey, hey, hey
@@ -33885,7 +33885,7 @@ Yeah ! R.E.D.K, Carpe Diem, Soprano, Psyquatra
 Hey, hey, tout le monde fait : hey, hey, hey, hey, hey, hey
 Okay !
 Marseille fait : hey, hey, hey, hey ...
-À vos raps, prêts, flow, partez !2Embed"
+À vos raps, prêts, flow, partez !2Embed",Soprano
 Sopra M'baba,Stone,"7 ContributorsStone Lyrics[Refrain : Hooss]
 On y est, yeah, yeah, yeah, yeah
 J'ai un pied dans l'rap français un autre pied dans le quartier
@@ -33962,7 +33962,7 @@ J'regarde le ciel et moi j'suis Stone
 On y est, yeah, yeah, yeah, yeah
 J'ai un pied dans l'rap français un autre pied dans le quartier
 Crois moi fréro on y est, yeah, yeah, yeah, yeah
-J'suis dans Marseille on s'promène comme Kardashian et Kanye yeahEmbed"
+J'suis dans Marseille on s'promène comme Kardashian et Kanye yeahEmbed",Soprano
 Sopra M'baba,Superman n’existe pas,"2 ContributorsSuperman n’existe pas Lyrics[Paroles de ""Superman n'existe pas"" ft. Zamdane]
 
 [Intro : Soprano]
@@ -34027,7 +34027,7 @@ Hollywood nous a menti, Superman n'existe pas
 Oh-oh-oh
 Oh-oh-oh
 Oh-oh-oh
-Oh-oh-oh (Yeah)Embed"
+Oh-oh-oh (Yeah)Embed",Soprano
 Sopra M'baba,Sur la Lune,"10 ContributorsSur la Lune Lyrics[Couplet 1 : Soprano]
 Besoin de quitter l'apesanteur terrestre (x2)
 Le cerveau est lourd (x3)
@@ -34082,7 +34082,7 @@ Besoin de quitter l'apesanteur terrestre pour ne pas devenir fou, ah yeah! (x2)
 Le cerveau est lourd (ouai le cerveau est lourd) (x2)
 Le cerveau est lourd...
 
-[Refrain : Constantine]1Embed"
+[Refrain : Constantine]1Embed",Soprano
 Sopra M'baba,Tant que Dieu (Remix),"13 ContributorsTant que Dieu (Remix) Lyrics[Couplet 1 : Soprano]
 Stop
 J’n’ai appris qu’à perdre, qu’à mettre les mains dans la merde
@@ -34150,7 +34150,7 @@ Donc...
 [Refrain](x2)
 Tant que Dieu me donne la chance de vivre
 Tant que Dieu me donne la force d'être libre
-J'rappe le ghetto1Embed"
+J'rappe le ghetto1Embed",Soprano
 Sopra M'baba,Taxiphone,"4 ContributorsTaxiphone Lyrics[Intro : Mokobé & Soprano}
 Taxiphone, aïe
 Moko, Soprano
@@ -34247,7 +34247,7 @@ Rentre dans la cabine et parle au monde
 -(Hey il se passe quoi là ?)
 (C'est Mokobé ? Oulalalala, c'est celui qui chante le ""Oulala"" ? Y a de belles gonzesses dans son clip, dis-lui qu'il me présente un peu là, oh, oh!
 Hé faut pas faire comme toi, toujours les colombes là, oh
-Dis-lui qu'il me présente une fille, je vais me marier au village là, oh)Embed"
+Dis-lui qu'il me présente une fille, je vais me marier au village là, oh)Embed",Soprano
 Sopra M'baba,Tchao tchao,"3 ContributorsTchao tchao Lyrics[Refrain : Alonzo & Soprano]
 J’vous dis Tchao tchao, c’est S.E.G.N.O.R., A.L.O.N.Z.O
 Celui dont les empreintes sont sur le mur du ghetto
@@ -34346,7 +34346,7 @@ Désamorce ton flow si tu crois qu’c’est d’la bombe
 J’vous dis Tchao tchao, c’est S.E.G.N.O.R., A.L.O.N.Z.O
 Celui dont les empreintes sont sur le mur du ghetto
 J’vous dis Tchao tchao, yeah, caporal M'Baba, prépare ta tombe
-Désamorce ton flow si tu crois qu’c’est d’la bombeEmbed"
+Désamorce ton flow si tu crois qu’c’est d’la bombeEmbed",Soprano
 Sopra M'baba,Terra umana,"2 ContributorsTerra umana LyricsTerra nostra, terra umana
 Nant’à lu to mare
 Sì vicina è sì luntana
@@ -34374,7 +34374,7 @@ Un ti stà cusì arcana
 Stà à sente le preghere
 Chì chjamanu lu veranu
 Per la terra ch’è tù erе
-TerraYou might also likeEmbed"
+TerraYou might also likeEmbed",Soprano
 Sopra M'baba,Terre promise,"29 ContributorsTranslationsEnglishLégendaire Lyrics[Paroles de ""Légendaire"" ft. Calbo, R.E.D.K., Lino, Oxmo Puccino, Soprano, JuL, Rim’K & SCH]
 
 [Intro : SCH]
@@ -34485,7 +34485,7 @@ Reçoit de nouveaux ients-cli et le Diable attend les remerciements
 Dehors, on compte les pertas, on nous vend la liberté
 Ça ressort la grosse Bertha, la révolte a déserté
 Kho, ici, c'est l'Omerta, jusqu'au bout, ils vont merder
-C'est tous les mêmes, tir dans l'tas, donc on va les alerter1Embed"
+C'est tous les mêmes, tir dans l'tas, donc on va les alerter1Embed",Soprano
 Sopra M'baba,The World Needs You,"5 ContributorsThe World Needs You Lyrics[Couplet 1 : Alonzo]
 Peut importe ta corpulence, ton BEP ou ton maître d'audience
 Le diesel ou le litre d'essence
@@ -34591,7 +34591,7 @@ Que le monde a besoin de moi, dis leur
 Yeah, yeah, yeah, yeah
 Segnor Alonzo de la Psychiatra de la Rimia, pape
 Yeah, le monde a besoin d'toi
-Le monde a besoin de moiEmbed"
+Le monde a besoin de moiEmbed",Soprano
 Sopra M'baba,Ti Amo,"9 ContributorsTi Amo Lyrics[Intro]
 Elle...
 Ti amo, ti amo
@@ -34660,7 +34660,7 @@ Le cœur a des raisons, que la raison ne connaît pas
 Ti amo, ti ti ti amo
 Ti amo, ti ti ti amo
 Ti amo, ti ti ti amo
-Ti amo, ti ti ti amo4Embed"
+Ti amo, ti ti ti amo4Embed",Soprano
 Sopra M'baba,Ton silence,"7 ContributorsTon silence Lyrics[Couplet 1 - Evaanz]
 Il me parlait souvent de la vie de ses tournants
 Me montrait les chemins rues, les terrains vagues et glissants
@@ -34709,7 +34709,7 @@ Oui, sans toi, le silence n'est plus d'or
 [Outro - Evaanz]
 Et si tu m'en parlais encore, sans toi le silence n'est plus d'or
 Et si tu m'en parlais encore, sans toi le silence n'est plus d'or
-Le silence n'est pas d'or sur Rap Genius, rejoins-nous !Embed"
+Le silence n'est pas d'or sur Rap Genius, rejoins-nous !Embed",Soprano
 Sopra M'baba,Tour du Monde,"2 ContributorsTour du Monde Lyrics[Paroles de ""Tour du Monde""]
 
 [Intro]
@@ -34758,7 +34758,7 @@ Ce soir on fait l'tour du monde, ce soir on fait l'tour du monde
 Elle m'a dit : ""Baby, fais-moi voir du pays""
 Elle m'a dit : ""Baby, fais-moi voir du pays""
 Elle m'a dit : ""Baby, fais-moi voir du pays""
-Elle m'a dit : ""Baby, fais-moi voir du pays""Embed"
+Elle m'a dit : ""Baby, fais-moi voir du pays""Embed",Soprano
 Sopra M'baba,Tout ira bien,"11 ContributorsTout ira bien Lyrics[Paroles de ""Tout ira bien"" ft. Soprano]
 
 [Intro : Kikesa]
@@ -34820,7 +34820,7 @@ Du plus riche au plus pauvre
 Après la pluie, le soleil s'lève toujours
 Je le vois briller sur ton visage
 Dis-toi que demain est un autre jour
-Oui, tout ira bienEmbed"
+Oui, tout ira bienEmbed",Soprano
 Sopra M'baba,Tranne Te (Except You Remix),"9 ContributorsTranne Te (Except You Remix) Lyrics[Testo di ""Tranne Te (Except You Remix)"" ft. Soprano & Redman]
 
 [Intro: Fabri Fibra]
@@ -34939,7 +34939,7 @@ Rap futuristico
 Pepturupistico
 Speperteristico
 Speperefistico
-Rap futuristicoEmbed"
+Rap futuristicoEmbed",Soprano
 Sopra M'baba,Tranne Te Megamix,"9 ContributorsTranne Te Megamix Lyrics[Testo di ""Tranne Te Megamix""]
 
 [Intro: Fabri Fibra]
@@ -35121,7 +35121,7 @@ Tranne te, tra me e te, tranne te (Tranne te)
 Tranne te, tra me e te, tranne te
 (Rap futuristico)
 Tranne te, tra me e te, tranne te (Tranne te)
-Tranne te, tra me e te, ehiEmbed"
+Tranne te, tra me e te, ehiEmbed",Soprano
 Sopra M'baba,Un peu plus près des stades,"6 ContributorsUn peu plus près des stades Lyrics[Paroles de ""Un peu plus près des stades""]
 
 [Intro: tag]
@@ -35184,7 +35184,7 @@ Pour tous mes héros du quotidien, retiens bien
 Ce soir, on est venu marquer l'histoire
 On est venu planter notre étendard
 Pour tous ces quartiers qu'on dit sans espoir
-On est venu mettre le feu dans les stadesEmbed"
+On est venu mettre le feu dans les stadesEmbed",Soprano
 Sopra M'baba,Va leur dire,"5 ContributorsVa leur dire Lyrics[Paroles de ""Va leur dire"" ft. Larsen""]
 
 [Couplet 1 : Larsen]
@@ -35279,7 +35279,7 @@ Qu’on voit nos lifes défiler en flash filtrés par des larmes
 Oh va leur dire
 Mais va leur dire à l’heure où on te parle
 On mourra la tête haute sans déposer les armes
-Oh va leur direEmbed"
+Oh va leur direEmbed",Soprano
 Sopra M'baba,Venez pas chez nous,"8 ContributorsJamais j’oublierai - Shan LyricsJamais J'oublierai
 
 [Refrain]
@@ -35501,7 +35501,7 @@ Jump jump jump jump jump jumpt
 C'est haha ! (Haha !)
 C'est jump jump jump jump jump
 Jump jump jump jump jump jumpt
-C'est haha ! (Haha !)You might also likeEmbed"
+C'est haha ! (Haha !)You might also likeEmbed",Soprano
 Sopra M'baba,Venga Mi,"2 ContributorsVenga Mi Lyrics[Paroles de ""Venga Mi"" ft. Gradur]
 
 [Pré-refrain : Soprano]
@@ -35556,7 +35556,7 @@ Venga, venga, venga, venga, venga, venga mi bébé
 Pa-pa-pah
 Ouh, ah
 Ouh, ouh, ouh, ouh
-Venga mi bébéEmbed"
+Venga mi bébéEmbed",Soprano
 Sopra M'baba,Version originale,"2 ContributorsVersion originale Lyrics[Refrain: Alonzo (*2)]
 Psy4 en version originale
 Qui aurait misé des lovés
@@ -35634,7 +35634,7 @@ Qui aurait misé des lovés
 Pour entendre le bloc lui dire qu'il a mal
 Les aînés veulent être vengés
 Ils effacent leurs pas pour pas qu'on tombe dans l'même guêpier
-OriginalEmbed"
+OriginalEmbed",Soprano
 Sopra M'baba,Vie 2 rêve,"3 ContributorsVie 2 rêve Lyrics[Paroles de ""Vie 2 rêve"" ft. Soprano]
 
 [Couplet 1 : Emkal]
@@ -35685,7 +35685,7 @@ Laissez-moi savourer cette vie
 [Outro : Emkal]
 Oh-oh-oh-oh-oh (Wouh)
 Oh-oh-oh-oh-oh (La vie de rêve)
-Oh-oh-oh-oh-ohEmbed"
+Oh-oh-oh-oh-ohEmbed",Soprano
 Sopra M'baba,Vivre,"5 ContributorsVivre Lyrics[Verse 1: Marina Kaye]
 Tu m’as laissé la peur du vide
 Des coups d'éclats, des mots acides
@@ -35750,7 +35750,7 @@ Quand tu me disais
 Abandonne
 De toi je ne veux rien hériter
 Surrender, surrender, surrender, oh
-Surrender, surrender, surrender, ohEmbed"
+Surrender, surrender, surrender, ohEmbed",Soprano
 Sopra M'baba,Voici,"8 ContributorsJamais j’oublierai - Shan LyricsJamais J'oublierai
 
 [Refrain]
@@ -35972,7 +35972,7 @@ Jump jump jump jump jump jumpt
 C'est haha ! (Haha !)
 C'est jump jump jump jump jump
 Jump jump jump jump jump jumpt
-C'est haha ! (Haha !)You might also likeEmbed"
+C'est haha ! (Haha !)You might also likeEmbed",Soprano
 Sopra M'baba,Voilà,"36 ContributorsDe Marseille à Paris Lyrics[Paroles de ""De Marseille à Paris"" ft. Dr Bériz, Bedjik, H Magnum & Soprano]
 
 [Intro : Maitre Gims]
@@ -36096,7 +36096,7 @@ Le game n'est pas un trottoir pourquoi tu te prostitues ?
 Dédicace à Bedjik et à Shin Sekaï
 Avec un putain de flow qui découpe comme San ku kai
 Rien qu'jpars en live, faut qu'je fly
-Donc je vous dis bye bye bye bye bye-bye bye !4Embed"
+Donc je vous dis bye bye bye bye bye-bye bye !4Embed",Soprano
 Sopra M'baba,Welcome,"7 ContributorsWelcome Lyrics[Refrain x2]
 Welcome, enfants des blocs
 Psy4, Psy4 nouvelle école
@@ -36178,7 +36178,7 @@ Psy4 c'est Alonz', Vinz', Sya et Soprano
 Welcome, enfants des blocs
 Psy4, Psy4 nouvelle école
 You know welcome, fais l'effort
-Psy4 change pas de fusil d'épauleEmbed"
+Psy4 change pas de fusil d'épauleEmbed",Soprano
 Sopra M'baba,YEMMA,"6 ContributorsYEMMA Lyrics[Paroles de ""YEMMA"" ft. Kofs, Sofiane & Soprano]
 
 [Intro : Kofs]
@@ -36251,7 +36251,7 @@ Yemma, yemma, c'est la plus caille-ra
 Yemma
 Yemma
 Yemma
-YemmaEmbed"
+YemmaEmbed",Soprano
 Sopra M'baba,Zone abandonnée,"8 ContributorsZone abandonnée Lyrics[Refrain : Soprano]
 Celui qui vient représenter ces zones abandonnées
 Celui qui vient de ces quartiers, qu'a tellement à donner
@@ -36316,4 +36316,4 @@ Celui qui vient représenter ces zones abandonnées
 Celui qui vient représenter ces zones abandonnées
 Celui qui vient de ces quartiers, qu'a tellement à donner
 Celui qui se sent écarté, côtoie le danger, la rue il la connaît
-Celui qui vient représenter ces zones abandonnéesEmbed"
+Celui qui vient représenter ces zones abandonnéesEmbed",Soprano

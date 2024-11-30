@@ -9,22 +9,21 @@ def create_pipeline(folder_path, **kwargs):
     file_name = get_file_names(folder_path)
     french_datasets = []
     for dataset_name in file_name :
-        pipeline_nodes.append(
+        pipeline_nodes.extend([
             node(
                 func=clean_lyrics_column,
                 inputs=f"{dataset_name}#csv",
-                outputs=f"cleaned_{dataset_name}",
-                name=f"clean_{dataset_name}"
+                outputs=f"{dataset_name}",
+                name=f"cleaning_{dataset_name}"
             ), 
-        ),
-        pipeline_nodes.append(
             node(
                 func=remove_fake_lyrics,
-                inputs=f"cleaned_{dataset_name}",
-                outputs=f"_{dataset_name}_lyrics",
-                name=f"{dataset_name}_lyrics"
+                inputs=f"{dataset_name}",
+                outputs=f"cleaned_{dataset_name}",
+                name=f"removing_{dataset_name}_rows"
             ), 
-        ),
+        ]
+        )
     #     # Ajoute le nœud de vérification de langue
     #     french_output = f"french_{dataset_name}"
     #     pipeline_nodes.append(
