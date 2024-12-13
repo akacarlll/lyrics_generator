@@ -35,12 +35,12 @@ def register_pipelines() -> Dict[str, Pipeline]:
     folder_path1 = "C:/Users/carlf/Documents/GitHub/lyrics_generator/data/01_raw"
     folder_path2 = "C:/Users/carlf/Documents/GitHub/lyrics_generator/data/02_intermediate"
     folder_path3 = "C:/Users/carlf/Documents/GitHub/lyrics_generator/data/03_advanced"
-
+    folder_path = r"C:\Users\carlf\Documents\GitHub\lyrics_generator\data\03_advanced"
     # Créer les pipelines individuels
     pipeline1 = create_pipeline(folder_path1)
     pipeline2 = create_pipeline2(folder_path2)
     pipeline3 = create_pipeline3(folder_path3)
-    pipeline4 = create_pipeline4(folder_path3)
+    pipeline4 = create_pipeline4(folder_path)
 
     # Fusionner les pipelines
     combined_pipeline = pipeline1 + pipeline2 + pipeline3 + pipeline4

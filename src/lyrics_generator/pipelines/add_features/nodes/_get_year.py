@@ -3,12 +3,12 @@ from spotipy import Spotify
 from spotipy.oauth2 import SpotifyClientCredentials
 import time 
 import random
-from conf.local.settings import CLIENT_ID, CLIENT_SECRET, REDIRECT_URI, SCOPE
+from settings import CLIENT_ID, CLIENT_SECRET, REDIRECT_URI, SCOPE
+
 
 # Configuration pour accéder à l'API Spotify (remplace par tes propres identifiants)
 CLIENT_ID = CLIENT_ID
 CLIENT_SECRET = CLIENT_SECRET
- 
 
 def add_release_year_column(df):
     """
@@ -16,15 +16,13 @@ def add_release_year_column(df):
     
     Paramètres :
     - df : DataFrame contenant les colonnes 'Artist' et 'Title' pour les noms d'artistes et les titres de chansons.
-    - client_id : ID client pour l'API Spotify.
-    - client_secret : Secret client pour l'API Spotify.
-    
+
     Retourne :
     - Le DataFrame avec une nouvelle colonne 'Release_Year'.
     """
     
     # Authentification avec Spotify
-    sp = Spotify(client_credentials_manager=SpotifyClientCredentials(client_id="c14b20ba16e147ffb6af73cc595b861a", client_secret='0e38f48d57264d06a5d6ec44af587f02'))
+    sp = Spotify(client_credentials_manager=SpotifyClientCredentials(client_id=CLIENT_ID, client_secret=CLIENT_SECRET))
     
     # Liste pour stocker les années de sortie
     release_years = []
@@ -53,7 +51,7 @@ def add_release_year_column(df):
         except Exception as e:
             print(f"Erreur pour le titre '{track_name}' de l'artiste {artist_name}: {e}")
             release_years.append("Erreur")
-        wait = random.uniform(0.001,0.02)
+        wait = random.uniform(0.1,0.2)
         time.sleep(wait)
     # Ajouter la colonne 'Release_Year' au DataFrame
     df['Release_Year'] = release_years

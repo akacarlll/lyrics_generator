@@ -4,6 +4,7 @@ from collections import Counter
 import re
 from nltk.corpus import stopwords
 import os
+import pandas as pd
 
 STOP_WORDS_FR = set([
     'le', 'la', 'les', 'un', 'une', 'des', 'du', 'de', 'au', 'aux', 'en', 'à', 'et', 'ou', 'mais', 'donc', 'or', 'ni', 'car', 
@@ -14,7 +15,8 @@ STOP_WORDS_FR = set([
     'y', 'en', 'par', 'avec', 'pour', 'sans', 'sous', 'dans', 'sur', 'chez', 'contre', 'de', 'du', 'des', 
     'est', 'sont', 'étaient', 'était', 'seront', 'étant', 'été', 'être', 'sera', 'au', 'aux', 'à', 'se', "c'est", 'ça', 'ceci', 'cela', 
     'qui', 'que', 'quoi', 'dont', 'où', 'lorsque', 'quand', 'comme', 'si', 'tandis', 'puisque', 'afin', 'car', 'parce', 
-    'oui', 'non', "ouais", "nan", "yeah","bah","ok","is", "cur","oh" 'ne', 'pas', 'ni', "n'est", 'plus', 'toujours', 'jamais',"fait","fais", "peux", "ma"
+    'oui', 'non', "ouais", "nan", "yeah","bah","ok","is", "cur","oh" 'ne', 'pas', 'ni', "n'est", 'plus', 'toujours', 'jamais',"fait","fais", "peux", "ma","qu",
+    "pe","as","ai","vais", "va","my", "là",
 ])
 
 def clean_text(text):
@@ -23,15 +25,17 @@ def clean_text(text):
     """
     # Convertir en minuscules
     text = text.lower()
+    
     # Remplacer les caractères spéciaux par des espaces
-    text = re.sub(r'[^\w\s]', ' ', text)
+    # text = re.sub(r'[^\w\s]', ' ', text)
     # Remplacer les chiffres par des espaces
-    text = re.sub(r'\d+', ' ', text)
+    # text = re.sub(r'\d+', ' ', text)
     # Remplacer les espaces multiples par un seul espace
+    
     text = re.sub(r'\s+', ' ', text)
     return text.strip()
 
-def create_wordcloud(df, artist_name: str, num_songs=None, save_path=r"C:\Users\carlf\Documents\GitHub\lyrics_generator\Wordcloud"):
+def create_wordcloud(df):
     """
     Crée un nuage de mots basé sur les paroles nettoyées d'un artiste dans une DataFrame.
 
@@ -41,20 +45,19 @@ def create_wordcloud(df, artist_name: str, num_songs=None, save_path=r"C:\Users\
     - num_songs : Nombre de chansons (lignes) à utiliser. Si None, toutes les chansons de l'artiste seront utilisées.
     - save_path : Chemin où sauvegarder le nuage de mots généré.
     """
-    
     # Filtrer la DataFrame pour l'artiste spécifié
-    artist_lyrics = df[df['Artist'].str.lower() == artist_name.lower()]['Lyrics']
+    # artist_lyrics = df[df['Artist'].str.lower() == artist_name.lower()]['Lyrics']
+    artist_lyrics = df["Lyrics"]
     
     # Limiter à 'num_songs' chansons si spécifié
-    if num_songs:
-        artist_lyrics = artist_lyrics.head(num_songs)
     
     # Combiner toutes les paroles en une seule chaîne de texte et nettoyer
+    artist_lyrics = artist_lyrics.dropna().astype(str)
     combined_lyrics = ' '.join(artist_lyrics)
     cleaned_lyrics = clean_text(combined_lyrics)
-    
     # Créer une liste de mots en excluant les stop words
     word_list = []
+    
     for word in cleaned_lyrics.split():
         # Vérifier que le mot n'est pas dans la liste des stop words
         # et qu'il a une longueur minimum de 2 caractères
@@ -75,14 +78,6 @@ def create_wordcloud(df, artist_name: str, num_songs=None, save_path=r"C:\Users\
         random_state=42  # Pour la reproductibilité
     ).generate_from_frequencies(word_counts)
     
-    # Créer le nom du fichier
-    filename = f"wordcloud_{artist_name.replace(' ', '_').lower()}.png"
-    full_path = os.path.join(save_path, filename)
+    image = wordcloud.to_image()
     
-    # Créer le dossier si nécessaire
-    os.makedirs(save_path, exist_ok=True)
-    
-    # Sauvegarder l'image
-    wordcloud.to_file(full_path)
-    
-    return full_path
+    return image 

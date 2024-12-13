@@ -4,60 +4,36 @@
   save_args: 
     encoding: 'utf-8'
 
-# _csv: &csv
-#   type: pandas.CSVDataset
-  # fs_args:
-  #   fs_open_args:
-  #     encoding: 'utf-s8'
-# # {dataset_name}#csv:
-# #   <<: *_csv
-# #   filepath: data/01_raw/{dataset_name}.csv
-# cleaned_{dataset_name}:
-#   <<: *csv
-#   filepath: C:/Users/carlf/Documents/GitHub/lyrics_generator/data/02_intermediate/cleaned{dataset_name}.csv
-#   save_args:
-#     index: False
-#     encoding: 'utf-8-sig'  # Using UTF-8 with BOM
-#     errors: 'ignore'       # Skip problematic characters
-#     mode: 'w'             # Write mode
-#   load_args:
-#     encoding: 'utf-8-sig'
-
 _csv: &csv
   type: pandas.ExcelDataset  # Changé en ExcelDataset
 
-cleaned_{dataset_name}:
+"{dataset_name}#xlsx":
   <<: *csv
-  filepath: C:/Users/carlf/Documents/GitHub/lyrics_generator/data/02_intermediate/cleaned_{dataset_name}.xlsx  # Extension changée en .xlsx
+  filepath: C:/Users/carlf/Documents/GitHub/lyrics_generator/data/02_intermediate/{dataset_name}.xlsx  # Extension changée en .xlsx
   save_args:
     index: False
 
-complete_{dataset_name}:
+"_{dataset_name}#xlsx":
   type: pandas.ExcelDataset
-  filepath: C:/Users/carlf/Documents/GitHub/lyrics_generator/data/03_advanced/complete_{dataset_name}.xlsx  
+  filepath: C:/Users/carlf/Documents/GitHub/lyrics_generator/data/03_advanced/_{dataset_name}.xlsx  
+  save_args:
+    index: False
+
+wordcloud_{dataset_name}:
+  type: kedro_datasets.pillow.image_dataset.ImageDataset
+  filepath: C:/Users/carlf/Documents/GitHub/lyrics_generator/data/04_feature/wordcloud_{dataset_name}.png  
+  save_args:
+    index: "PNG"
+
+
+lyrics_genius.xlsx:
+  type: pandas.ExcelDataset
+  filepath: C:/Users/carlf/Documents/GitHub/lyrics_generator/data/05_lyrics_genius/lyrics_genius.xlsx  
   save_args:
     index: False
 
 
 
-# "_{dataset_name}_lyrics":
-#   type: pandas.ExcelDataset
-#   filepath: data/02_intermediate/_{dataset_name}_lyrics.xlsx
-#   save_args:
-#     index: False
-
-# "{dataset_name}#xlsx":
-#   type: pandas.ExcelDataset
-#   filepath: C:/Users/carlf/Documents/GitHub/lyrics_generator/data/02_intermediate/{dataset_name}.xlsx
-#   save_args: 
-#     encoding: 'utf-8'
-
-
-# _{dataset_name}_lyrics:
-#   <<: *csv
-#   filepath: C:/Users/carlf/Documents/GitHub/lyrics_generator/data/03_primary/_{dataset_name}_lyrics.xlsx  # Extension changée en .xlsx
-#   save_args:
-#     index: False
 
 
 

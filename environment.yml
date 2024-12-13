@@ -15,5 +15,10 @@ dependencies:
   - kedro-viz
   - kedro-datasets
   - nltk
-  - lyricsgenius
   - langdetect
+  - transformers
+  - pytorch
+  - tensorflow
+  - pip:
+    - lyricsgenius
+    - genius
