@@ -1,4 +1,4 @@
-Artist,Title,Lyrics
+GeniusName,Title,Lyrics,Artist
 Gambino Jetski,1234,"7 Contributors1234 Lyrics[Paroles de ""1234""]
 
 [Intro]
@@ -44,7 +44,7 @@ Elle est mignonne à mort mais faut pas mélanger l'amour
 Après 3 flashs, on s'en fout que la musique soit bonne
 Par contre, si t'es pas bonne après 3 flashs c'est que c'est har
 Avant j'avais R, elle me faisait des manières
-Je la mets dans le 6.3 elle m'parle le langage de MolièreEmbed"
+Je la mets dans le 6.3 elle m'parle le langage de MolièreEmbed",Gambino
 Gambino Jetski,À L’ADRESSE,"7 ContributorsÀ L’ADRESSE Lyrics[Intro]
 Woh
 Woah
@@ -96,7 +96,7 @@ J'ai laissé mon cœur à la presse
 A l'adresse, toujours à l'adresse
 Minuit quatorze à la tess
 Je suis au charbon toute l'année
-J'ai laissé mon cœur à la presseEmbed"
+J'ai laissé mon cœur à la presseEmbed",Gambino
 Gambino Jetski,À PERTE,"5 ContributorsÀ PERTE Lyrics[Intro]
 La familia j'parle plus avec, mes anciens faux amis d'enfance j'parle plus avec
 La première meuf avec qui j'étais j'suis plus avec
@@ -138,7 +138,7 @@ On se fréquente plus comme avant, on fera avec
 La vie d'côté pour la leur, quelle erreur
 Sur le bigo les secondes font des heures, font des heures
 On se fréquente plus comme avant, on fera avec
-On se fréquente plus comme avant, on fera avecEmbed"
+On se fréquente plus comme avant, on fera avecEmbed",Gambino
 Gambino Jetski,ARRIVEDERCI,"5 ContributorsARRIVEDERCI Lyrics[Paroles de ""ARRIVEDERCI""]
 
 [Intro]
@@ -197,7 +197,7 @@ Un petit fume un grand
 Sur le R en R, j'casse une gestu' comme un geush (Oh)
 J'étais seul en R, arrivederci (Oh)
 Sur le R en R, j'casse une gestu' comme un geush (Oh)
-J'étais seul en R, arrivederciEmbed"
+J'étais seul en R, arrivederciEmbed",Gambino
 Gambino Jetski,AVEC MES GARS,"6 ContributorsAVEC MES GARS Lyrics[Paroles de ""AVEC MES GARS""]
 
 [Intro]
@@ -255,7 +255,7 @@ J'suis bloqué avec mes gars, j'reste en bas-a-a-a
 Ouh, oh nan, j'fais des sushis solo
 Ouh, oh nan, j'suis dans une merde sans nom
 J'reste dans l'bât' avec mes gars, rien qu'on danse avec mes gars
-J'suis bloqué avec mes gars, j'reste en bas-a-a-aEmbed"
+J'suis bloqué avec mes gars, j'reste en bas-a-a-aEmbed",Gambino
 Gambino Jetski,BBM,"5 ContributorsBBM Lyrics[Paroles de ""BBM""]
 
 [Refrain]
@@ -323,7 +323,7 @@ J'coupe, une demie cassette
 J'suis fais, et j'me ressers encore
 J'arrive plus à mi-dor
 Bébé combien l'amour
-J'te dirai combien la mortEmbed"
+J'te dirai combien la mortEmbed",Gambino
 Gambino Jetski,BIENVENUE,"4 ContributorsBIENVENUE Lyrics[Paroles de ""BIENVENUE""]
 
 [Intro]
@@ -373,7 +373,7 @@ Dans ma zone, dans ma zone, oh, oh, ah (hé oh)
 Dans ma zone, dans ma zone, oh, oh, oh, ah (hé oh)
 J'te dis : ""Bienvenue dans ma zone"", oh, oh, ah (hé oh)
 J'te dis : ""Bienvenue dans ma zone"", ah, ah, ah (hé oh)
-Dans ma zone, dans ma zone, j'te dis : ""Bienvenue dans ma zone""Embed"
+Dans ma zone, dans ma zone, j'te dis : ""Bienvenue dans ma zone""Embed",Gambino
 Gambino Jetski,Bonjour,"10 ContributorsBonjour Lyrics[Paroles de ""BONJOUR"" ft. NLE Choppa]
 
 [Intro : Gambi & NLE Choppa]
@@ -428,7 +428,7 @@ Bébé, andalé, j't'aime bien, on va aller
 Les salopes m'aiment aussi, si, si, si
 
 [Outro : Gambi]
-Hun, hun, hun1Embed"
+Hun, hun, hun1Embed",Gambino
 Gambino Jetski,BON MOMENT,"4 ContributorsBON MOMENT Lyrics[Paroles de ""BON MOMENT""]
 
 [Refrain]
@@ -489,7 +489,7 @@ Loin du bâtiment, wouah, wouah, wouah, wouah, wouah
 J'oublie mes problèmes, j'passe un bon moment
 J'souris à la vie, mon médicament
 J'veski' les méchants, wouah, wouah, wouah, wouah, wouah
-Loin du bâtiment, wouah, wouah, wouah, wouah, wouahEmbed"
+Loin du bâtiment, wouah, wouah, wouah, wouah, wouahEmbed",Gambino
 Gambino Jetski,Cash Love,"3 ContributorsCash Love Lyrics[Paroles de ""Cash Love"" ft. Ocevne]
 
 [Couplet 1 : Gambi & Ocevne]
@@ -541,7 +541,7 @@ Bah oui
 Cash, cash, cash, cash, love
 Bah oui
 C'est la vie qu'tu mènes (cash, cash, cash, cash, love)
-C'est la vie qu'tu mènes pour le cash, cash, cash, cash, loveEmbed"
+C'est la vie qu'tu mènes pour le cash, cash, cash, cash, loveEmbed",Gambino
 Gambino Jetski,C’est moi Mbappé,"10 ContributorsC’est moi Mbappé Lyrics[Paroles de ""C'est moi Mbappé""]
 
 [Refrain]
@@ -592,7 +592,7 @@ Belek la BAC peut t’avoir elle est pas loin
 J’suis dans la ville sa mère, c'mois ci, moi, j'récupère
 Faites monter l’ascension, n’importe quand j’peux ber-tom
 Putain, il faut qu’je mange, il m’reste plus beaucoup de temps
-Sur mon dos les 22, j’appelle un bon baveuxEmbed"
+Sur mon dos les 22, j’appelle un bon baveuxEmbed",Gambino
 Gambino Jetski,C’EST PAS POSSIBLE,"4 ContributorsC’EST PAS POSSIBLE Lyrics[Paroles de ""C’EST PAS POSSIBLE""]
 
 [Couplet unique]
@@ -633,7 +633,7 @@ J'aimerai t'avoir que pour moi mais ne m'attends pas
 J'aimerai m'ouvrir à toi mais c'est pas possible
 Je sais que c'est toi la bonne mais c'est pas possible
 J'aimerai t'avoir que pour moi mais ne m'attends pas
-J'aimerai t'avoir que pour moi mais ne m'attends pasEmbed"
+J'aimerai t'avoir que pour moi mais ne m'attends pasEmbed",Gambino
 Gambino Jetski,CÔTE D’AZUR,"6 ContributorsCÔTE D’AZUR Lyrics[Paroles de ""CÔTE D’AZUR""]
 
 [Intro]
@@ -679,7 +679,7 @@ Oh oui, j'viens d'garer la va-go, j'vogue en bateau
 
 [Outro]
 Eh, eh, eh, eh, eh, eh, eh
-Eh, eh, eh, eh, eh, eh, ehEmbed"
+Eh, eh, eh, eh, eh, eh, ehEmbed",Gambino
 Gambino Jetski,Dans l’espace,"27 ContributorsDans l’espace Lyrics[Paroles de ""Dans l'espace"" ft. Heuss L'enfoiré]
 
 [Intro : Gambi & Heuss L'enfoiré]
@@ -759,7 +759,7 @@ Là, j'suis dans l'espace (yah), là, j'suis dans l'espace
 [Outro : Gambi]
 Habibi, habibi
 J'pense à toi toute la nuit
-J'suis khapta-a-a-aEmbed"
+J'suis khapta-a-a-aEmbed",Gambino
 Gambino Jetski,DEBIEL,"7 ContributorsDEBIEL Lyrics[Intro]
 Ok sir
 Qui paie la baraka ?
@@ -818,7 +818,7 @@ Bloc, bloc, bloc, bloc, bloc, bloc, j'suis lewé et j'sais même plus comment el
 Bloc, bloc, bloc, bloc, bloc, bloc, à fond sur la debiel
 Bloc, bloc, bloc, bloc, bloc, bloc, jusqu'à j'oublie comment j'm'appelle
 Bloc, bloc, bloc, bloc, bloc, bloc, oh la folle, elle veut m'tirer dans un hôtel
-Bloc, bloc, bloc, bloc, bloc, bloc, j'suis lewé et j'sais même plus comment elle s'appelleEmbed"
+Bloc, bloc, bloc, bloc, bloc, bloc, j'suis lewé et j'sais même plus comment elle s'appelleEmbed",Gambino
 Gambino Jetski,FESTIVAL,"5 ContributorsFESTIVAL Lyrics[Paroles de ""FESTIVAL""]
 
 [Intro]
@@ -850,7 +850,7 @@ Ouais, ouais
 Ouais, ouais
 Ouais, ouais
 Ouais, ouais
-Ouais, ouaisEmbed"
+Ouais, ouaisEmbed",Gambino
 Gambino Jetski,GUETTE,"14 ContributorsGUETTE Lyrics[Paroles de ""GUETTE""]
 
 [Intro]
@@ -919,7 +919,7 @@ Capuché comme un FARC, comme un narcos
 Vatos, locos, cigarillos
 Ça s'explose la tête dans la vagos
 Capuché comme un FARC, comme un narcos
-Capuché comme un FARC, comme un narcosEmbed"
+Capuché comme un FARC, comme un narcosEmbed",Gambino
 Gambino Jetski,HÉHÉ HÉ,"6 ContributorsHÉHÉ HÉ Lyrics[Paroles de ""HÉHÉ HÉ""]
 
 [Intro]
@@ -972,7 +972,7 @@ Héhé, hé (Paw)
 
 [Outro]
 Héhé, hé, elle est bourrée, elle veut qu'on héhé, hé, héhé, hé
-Dans la calle, ça vend la héhéEmbed"
+Dans la calle, ça vend la héhéEmbed",Gambino
 Gambino Jetski,HÉ OH,"22 ContributorsHÉ OH Lyrics[Paroles de ""HÉ OH""]
 
 [Intro]
@@ -1019,7 +1019,7 @@ Hé oh (là, j'en oublie la hess), hé oh (là, j'en oublie la hess)
 Vas-y passe dans l'four, il fait chaud comme à Rio, si j'achète nouveau gamos, ils vont m'le rayer
 J'suis dans l'sas, on danse la salsa (hey yo), j'suis dans l'sas, on danse la salsa (hey yo)
 Hé oh (j'danse la salsa), hé oh (j'danse la salsa)
-Hé oh (là, j'en oublie la hess), hé oh (là, j'en oublie la hess)3Embed"
+Hé oh (là, j'en oublie la hess), hé oh (là, j'en oublie la hess)3Embed",Gambino
 Gambino Jetski,Hess,"5 ContributorsHess Lyrics[Couplet 1]
 4-3-3 sur l'terrain, le buteur a paire d'requin
 Son textile, c'est du croco, la volaille prend des photos
@@ -1070,7 +1070,7 @@ T'inquiètes, j'vais nous sortir d'la hess, pour l'moment, j'amasse et j'encaiss
 Quand j'vois cette maille, j'deviens dingue, junky est love d'la seringue
 Tu dois des sous, sékou sur l'flingue, tu dois des sous, sékou sur l'flingue
 J'me balade dans la capitale, j'oublie, j'oublie la banlieue sale
-T'inquiètes, j'vais nous sortir d'la hess, pour l'moment, j'amasse et j'encaisse1Embed"
+T'inquiètes, j'vais nous sortir d'la hess, pour l'moment, j'amasse et j'encaisse1Embed",Gambino
 Gambino Jetski,ILS ONT PÉTÉ,"6 ContributorsILS ONT PÉTÉ Lyrics[Paroles de ""ILS ONT PÉTÉ""]
 
 [Intro]
@@ -1142,7 +1142,7 @@ La da dee la dee dow, la da dee la dee dow
 Soleil levant, ils viennent taper
 La da dee la dee dow, la da dee la dee dow
 Une fois qu'ça marche, ils viennent t'appeler
-La da dee la dee dow, la da dee la dee dowEmbed"
+La da dee la dee dow, la da dee la dee dowEmbed",Gambino
 Gambino Jetski,J’AI NIQUÉ MA VIE,"5 ContributorsJ’AI NIQUÉ MA VIE Lyrics[Paroles de ""J’AI NIQUÉ MA VIE""]
 
 [Couplet unique]
@@ -1198,7 +1198,7 @@ Ouais frérot, ça va ou quoi ?
 Désolé, on s'est rendu fou la dernière fois
 C'est pas compliqué, tout est géré
 Vas-y on va s'arranger
-Vas-y t'inquièteEmbed"
+Vas-y t'inquièteEmbed",Gambino
 Gambino Jetski,J’DEVIENS FOU,"15 ContributorsJ’DEVIENS FOU Lyrics[Paroles de ""J'DEVIENS FOU""]
 
 [Intro]
@@ -1265,7 +1265,7 @@ Ouais, ouais
 J'deviens fou de toi
 J'deviens fou de toi
 J'deviens fou
-J'deviens fouEmbed"
+J'deviens fouEmbed",Gambino
 Gambino Jetski,J’EN VEUX PLUS,"4 ContributorsJ’EN VEUX PLUS Lyrics[Paroles de ""J’EN VEUX PLUS""]
 
 [Couplet 1]
@@ -1334,7 +1334,7 @@ Faut 33 fois plus de cash
 22, 22, 22 cash
 Le bénef aux 22
 Course poursuite, revente de hash
-Faut 33 fois plus de cashEmbed"
+Faut 33 fois plus de cashEmbed",Gambino
 Gambino Jetski,JETSKI,"6 ContributorsJETSKI Lyrics[Paroles de ""JETSKI""]
 
 [Intro]
@@ -1391,7 +1391,7 @@ Elle m'taquine, ouais, oulala
 Elle m'taquine, ouais, oula, oulala
 Oulala, oui, oui, oui
 Oulala, oui, oui, oui
-Oui, oui, oui, oui1Embed"
+Oui, oui, oui, oui1Embed",Gambino
 Gambino Jetski,Khedma,"9 ContributorsKhedma Lyrics[Paroles de ""Khedma""]
 
 [Intro]
@@ -1442,7 +1442,7 @@ Oh, oh, oh, oh
 Oh, oh, oh, oh (khedma)
 Oh, oh, oh, oh
 Oh, oh, oh, oh (khedma)
-Wiils ProductionEmbed"
+Wiils ProductionEmbed",Gambino
 Gambino Jetski,La Guenav,"12 ContributorsLa Guenav Lyrics[Intro]
 Ah
 Eskry, turn that shit up, man
@@ -1489,7 +1489,7 @@ Pris la main dans l'sac, j'en ai marre d'être à sec, ah
 Eeh, bibi tous les jours, ah, baby, faut des sous
 Bibi tous les jours, ah, baby, faut des sous
 Pop, pop, pop, pop, rrah
-Eskry, turn that shit up, maneEmbed"
+Eskry, turn that shit up, maneEmbed",Gambino
 Gambino Jetski,LA VIE EST BELLE,"9 ContributorsLA VIE EST BELLE Lyrics[Paroles de ""LA VIE EST BELLE""]
 
 [Couplet 1]
@@ -1535,7 +1535,7 @@ Viens, on s'enfuit loin, j'ai le monde qui m'séduit
 Pi-la, pa-la, pa, pa, la vie est belle
 Pi-la, pa-la, pa, pa, la vie est belle
 Moi j'te jure, mon vieux, la vie est belle
-Moi j'te jure, mon vieux, la vie est belleEmbed"
+Moi j'te jure, mon vieux, la vie est belleEmbed",Gambino
 Gambino Jetski,LOIN D’ICI,"9 ContributorsLOIN D’ICI Lyrics[Paroles de ""LOIN D'ICI""]
 
 [Refrain]
@@ -1571,7 +1571,7 @@ You might also like[Outro]
 Paris, c'est loin d'ici, Paris, c'est loin d'ici
 Paris, c'est loin d'ici, Paris, c'est loin d'ici
 Paris, c'est loin d'ici, Paris, c'est loin d'ici
-Paris, c'est loin d'ici, Paris, c'est loin d'iciEmbed"
+Paris, c'est loin d'ici, Paris, c'est loin d'iciEmbed",Gambino
 Gambino Jetski,MACINTOSH,"15 ContributorsMACINTOSH Lyrics[Paroles de ""MACINTOSH""]
 
 [Couplet 1]
@@ -1611,7 +1611,7 @@ Oh, toi, t'as craqué, tu ne fais pas tout ce que tu décris, eh
 On fait les choses, quand elle m'regarde, il s'passe quelque chose
 Vente à la sauvette, on fait la dose, la dose, la dose
 On fait les choses, quand elle m'regarde, il s'passe quelque chose
-Vente à la sauvette, on fait la dose, la dose, la dose2Embed"
+Vente à la sauvette, on fait la dose, la dose, la dose2Embed",Gambino
 Gambino Jetski,Makak,"6 ContributorsMakak Lyrics18 bougies et j'avais déjà 2000
 L'argent facile mais ça n'est pas si facile
 J'ai ma coupe touffue qui sent la majina
@@ -1661,7 +1661,7 @@ Et t'as le nouveau petit qui livre en vélo
 J'encaisse, j'encaisse la liasse en gré
 J'recompte, j'recompte et rien qu'ça monte
 J'entasse, j'entasse jusqu'à plus de place
-J'enpole ??? Le glock jtiens à mes potes ×2Embed"
+J'enpole ??? Le glock jtiens à mes potes ×2Embed",Gambino
 Gambino Jetski,Makak 2,"7 ContributorsMakak 2 Lyrics[Refrain]
 Po-posé dans le bât 4
 Toujours les même potes
@@ -1719,7 +1719,7 @@ La fraîche en bas du block, c'est rien c'est la rue
 Belek au hendek, c'est rien c'est la rue
 
 [Outro]
-C'est rien c'est la rue ×6Embed"
+C'est rien c'est la rue ×6Embed",Gambino
 Gambino Jetski,Makak 3,"17 ContributorsMakak 3 Lyrics[Refrain]
 Guete la boca
 On khalass l'avocat
@@ -1784,7 +1784,7 @@ Fuck les coté match mon gars ça rapporte pas
 Chuis dans la ville pépere
 C'mois-ci j'prends 2 salaires
 Joue pas les gangsters
-On t'connais mon gars t'en a vraiment pas l'air1Embed"
+On t'connais mon gars t'en a vraiment pas l'air1Embed",Gambino
 Gambino Jetski,Makak 4,"3 ContributorsMakak 4 LyricsJe suis dans un trafic mais je suis pas dans le trafic
 Pepele, je me fais sucer comme un moustique
 Dans la cuisine, y'a plus assez de coca donc Abdel commence une fourni de kekra
@@ -1828,7 +1828,7 @@ Je suis dans le bat’ mon pote les 22 dans mon Block
 
 Je récup', je distribue, je récup', je distribue
 Non non, non non
-Non non, non nonEmbed"
+Non non, non nonEmbed",Gambino
 Gambino Jetski,Makak 5,"2 ContributorsMakak 5 Lyrics[Refrain]
 Y'a pas assez donc j'reste pas assis, on fait ça pour les mapesa
 Je fais des sous, je m'en fous de son fessier
@@ -1888,7 +1888,7 @@ Mec, la vie de charbon, crois-moi, c'est pas un choix
 Bicrave en quechua pour finir en disqua
 Mec, la vie de charbon, crois-moi, c'est pas un choix
 Bicrave en quechua pour finir en disqua
-Mec, la vie de charbon, crois-moi, c'est pas un choixEmbed"
+Mec, la vie de charbon, crois-moi, c'est pas un choixEmbed",Gambino
 Gambino Jetski,MAÑANA,"8 ContributorsMAÑANA Lyrics[Intro]
 Capuché tard la night
 J'm'enfume, j'suis pas dans la white
@@ -1944,7 +1944,7 @@ Des fois ma belle j'suis maladroit
 Mais, mais comment on fait
 Ca s'fait lever la mañana, j'la baise, j'me tire la mañana
 Des fois ma belle j'suis maladroit
-Mais, mais comment on faitEmbed"
+Mais, mais comment on faitEmbed",Gambino
 Gambino Jetski,MERCI LA HESS,"11 ContributorsMERCI LA HESS Lyrics[Paroles de ""MERCI LA HESS""]
 
 [Intro]
@@ -2013,7 +2013,7 @@ C'est grâce à elle et maint'nant, j'connais l'adresse
 J'remercie la rue, merci la hess
 C'est grâce à elle et maint'nant, j'connais l'adresse
 J'remercie la rue, merci la hess
-C'est grâce à elle et maint'nant, j'connais l'adresseEmbed"
+C'est grâce à elle et maint'nant, j'connais l'adresseEmbed",Gambino
 Gambino Jetski,Mexícano,"4 ContributorsMexícano Lyrics[Intro]
 La Chupa, la Chupa Chu'
 Gambinojetski, eh, gambinojetski, eh
@@ -2073,7 +2073,7 @@ Elle est trop excitée, elle m'dit : ""Passe chez moi, y'a personne Gambi""
 J'suis dans l'bât 4, j'vesqui les putes, toujours avec mes potes
 J'suis dans l'4x4, ça vend Tic-Tac et aussi des Kit-Kat
 J'suis dans l'bât 4, j'vesqui les putes, toujours avec mes potes
-J'suis dans l'4x4, ça vend Tic-Tac et aussi des Kit-KatEmbed"
+J'suis dans l'4x4, ça vend Tic-Tac et aussi des Kit-KatEmbed",Gambino
 Gambino Jetski,NUIT ÉTERNELLE,"6 ContributorsNUIT ÉTERNELLE Lyrics[Paroles de ""NUIT ÉTERNELLE""]
 
 [Intro]
@@ -2151,7 +2151,7 @@ Rien que le soir, quand ça jette, sous vovo on aimerait que la nuit soit étern
 C'est nos vœux qu'on gela
 Ce soir, on prend tout, ce soir on s'arrêtera pas
 C'est nos vies qu'on joue là
-Ce soir, on prend tout, ce soir on s'arrêtera pasEmbed"
+Ce soir, on prend tout, ce soir on s'arrêtera pasEmbed",Gambino
 Gambino Jetski,ON S’TAILLE,"9 ContributorsON S’TAILLE Lyrics[Paroles de ""ON S'TAILLE""]
 
 [Intro]
@@ -2200,7 +2200,7 @@ J'veux plus entendre parler d'eux, plus entendre (oh yeah, yeah, yeah)
 
 [Outro]
 C'est moi, j'ramène le butin, le détail, la bataille, la médaille
-C'est moi, j'travaille au charbon, en mission, addition, finition (ouais)Embed"
+C'est moi, j'travaille au charbon, en mission, addition, finition (ouais)Embed",Gambino
 Gambino Jetski,On vend,"2 ContributorsOn vend Lyrics[intro]
 Eh c'est dieu qui c'est dieu qui donne
 Il donnera rien à ceux qui dorment
@@ -2255,7 +2255,7 @@ C'est d'la peuf donc met pas tout
 On coupe détail on vend on coupe détail on vend
 Nous on revend la mort et puis on l'investie
 On coupe détail on vend on coupe detail on vend
-On cache nos sentiment pas d'jolie sans nos vies ??? ×2Embed"
+On cache nos sentiment pas d'jolie sans nos vies ??? ×2Embed",Gambino
 Gambino Jetski,OUH,"8 ContributorsOUH Lyrics[Paroles de ""OUH""]
 
 [Intro]
@@ -2315,7 +2315,7 @@ Ouh, ouh, ouh, ouh
 Ouh, ouh-ouh-ouh
 Ouh, ouh, ouh-ouh-ouh
 Ah, tout doux, tout doux, bang
-Tout doux, tout doux, bangEmbed"
+Tout doux, tout doux, bangEmbed",Gambino
 Gambino Jetski,Oulalah,"7 ContributorsOulalah Lyrics[Paroles de ""Oulalah""]
 
 [Intro]
@@ -2382,7 +2382,7 @@ Elle veut son sac Balenciaga la-la-la
 Les produits Sephora oulalalah
 Fendi, Gucci, Louis Vui', oulalalah
 Les bijoux Van Cleef oulalalah
-Mais elle en aura pas la-la-la-la1Embed"
+Mais elle en aura pas la-la-la-la1Embed",Gambino
 Gambino Jetski,Paqueta,"3 ContributorsPaqueta Lyrics[Paroles de ""Paqueta""]
 
 [Couplet 1]
@@ -2433,7 +2433,7 @@ J'peux pas gérer, j'dois faire rentrer, moi, j'ai signé pour la vida
 J'lui ai fait la Paqueta, j'ai pris son cœur, j'ai joué avec
 J'peux pas gérer, j'dois faire rentrer, moi, j'ai signé pour la vida (Moi, j'ai signé pour la vida, moi, j'ai signé pour la vida, ouh oui)
 J'lui ai fait la Paqueta, j'ai pris son cœur, j'ai joué avec
-J'peux pas gérer, j'dois faire rentrer, moi, j'ai signé pour la vida (Brr, brr, brr, brr)Embed"
+J'peux pas gérer, j'dois faire rentrer, moi, j'ai signé pour la vida (Brr, brr, brr, brr)Embed",Gambino
 Gambino Jetski,PARIS LA NUIT,"6 ContributorsPARIS LA NUIT Lyrics[Paroles de ""PARIS LA NUIT""]
 
 [Intro]
@@ -2499,7 +2499,7 @@ Ah ouais
 Elle m'a bercé toute la nuit
 Mais j'les oublie
 La vie est belle, j'aime trop Paris
-OhEmbed"
+OhEmbed",Gambino
 Gambino Jetski,PETETE,"8 ContributorsPETETE Lyrics[Paroles de ""PETETE""]
 
 [Intro]
@@ -2552,7 +2552,7 @@ J'aime quand baby donne ça bien
 Baby parle pas trop latin (Pew, pew, pew, pew)
 J'applaudis jusqu'au matin (J'suis en buvette, j'suis pété-té)
 Bébé, elle donne ça bien, bébé, elle donne ça bien
-Bébé, elle donne ça bien, j'suis en buvette, j'suis pété-téEmbed"
+Bébé, elle donne ça bien, j'suis en buvette, j'suis pété-téEmbed",Gambino
 Gambino Jetski,POPOPOP,"38 ContributorsPOPOPOP Lyrics[Paroles de ""POPOPOP""]
 
 [Intro]
@@ -2600,7 +2600,7 @@ Popopopop, popopopopop woh
 J'suis dans l'bloc, bloc, dix eu' cachés dans l'froc, froc
 On bosse au black, black, on fait des sous dans l'bât', bât'
 Popopopop, popopopopop woh
-Popopopop, popopopopop woh4Embed"
+Popopopop, popopopopop woh4Embed",Gambino
 Gambino Jetski,PPP,"8 ContributorsPPP Lyrics[Paroles de ""PPP""]
 
 [Intro]
@@ -2677,7 +2677,7 @@ Bébé m'fait la tête, bébé m'fait la tête
 
 [Outro]
 ""Ouais mon couz', tu peux m'envoyer 5 points ?
-J'ai toujours pas reçu les sous d'la musique""Embed"
+J'ai toujours pas reçu les sous d'la musique""Embed",Gambino
 Gambino Jetski,PUFF PUFF PUFF,"17 ContributorsPUFF PUFF PUFF Lyrics[Paroles de ""PUFF PUFF PUFF""]
 
 [Intro]
@@ -2740,7 +2740,7 @@ Et j'fais la teuf, teuf, teuf, teuf, teuf, teuf, teuf, teuf, teuf
 Si tu t'amuses pas, y a d'la ppe-f', ppe-f', ppe-f', ppe-f', ppe-f', ppe-f', ppe-f', ppe-f', ppe-f'
 
 [Outro]
-LINEEmbed"
+LINEEmbed",Gambino
 Gambino Jetski,SALES IDÉES,"3 ContributorsSALES IDÉES Lyrics[Couplet unique]
 J'ai toujours aimé traîné seul
 C'est mieux qu'd'être mal accompagné
@@ -2771,7 +2771,7 @@ Jusqu'à 21 heure, c'est planète rap
 Planète rap, sur Skyrock
 Et en info exclusive, ce soir après les cartons de popopop et hé oh
 Gambi est de retour avec son nouveau titre au côté de Heuss l'enfoiré
-Ca s'appelle dans l'espace et c'est le moment de l'écouter maintenant en exclu totalEmbed"
+Ca s'appelle dans l'espace et c'est le moment de l'écouter maintenant en exclu totalEmbed",Gambino
 Gambino Jetski,START N GO,"7 ContributorsSTART N GO Lyrics[Paroles de ""START N GO""]
 
 [Intro]
@@ -2830,7 +2830,7 @@ J'ai, le RS7 coupé à l'éthanol
 Ma copine, pour mes copains, va ramener 2-3 folles
 Toda la noche, on bédave et on picole, on s'ambiance, on rigole, on picole
 On s'ambiance, on rigole, on picole
-On s'ambiance, on rigole, on picoleEmbed"
+On s'ambiance, on rigole, on picoleEmbed",Gambino
 Gambino Jetski,Tentation,"5 ContributorsTentation Lyrics[Paroles de ""Tentation"" ft. Hamza]
 
 [Intro : Gambi & Hamza]
@@ -2900,7 +2900,7 @@ C'est elle que j'veux ce soir (Ce soir) ou au pire j'pars avec sa pote
 Elle met ses mains sur ses genoux, elle bouge son back, elle donne tout
 Baby, c'qu'on fait ce soir faut qu'ça reste entre nous
 J't'oublie dans une autre bitch, j'rentre te dire : ""I love you""
-Yeah, yeahEmbed"
+Yeah, yeahEmbed",Gambino
 Gambino Jetski,Tout doux,"10 ContributorsTout doux Lyrics[Intro]
 Holà por favor, soy Gambinojetski
 Allô ? Allô ?
@@ -2965,7 +2965,7 @@ Tout doux, là j'crois qu'j'suis sur un coup (oh)
 J'suis accro aux sous, la folle m'appelle doudou (tout doux doux)
 Dix mèches dans sa coucoune, exta dans la doudoune (tout doux doux)
 Tout doux, là j'crois qu'j'suis sur un coup
-Tout doux, là j'crois qu'j'suis sur un coupEmbed"
+Tout doux, là j'crois qu'j'suis sur un coupEmbed",Gambino
 Gambino Jetski,UN DOS TRES,"7 ContributorsUN DOS TRES Lyrics[Paroles de ""UN DOS TRES""]
 
 [Couplet 1]
@@ -3028,7 +3028,7 @@ Un, dos, tres
 Un, dos, tres on a fait des tours dans la coche
 Y a mon frère qui fait les A/R et les passes toute la noche
 Elle m'dit prend moi avec toi on fera des tours dans la coche
-Un, dos, tresEmbed"
+Un, dos, tresEmbed",Gambino
 Gambino Jetski,VIDA,"6 ContributorsVIDA Lyrics[Paroles de ""VIDA""]
 
 [Couplet]
@@ -3081,7 +3081,7 @@ J'ai la flemme on s'verra à l'occaz
 Je me place dans la benze, j'me gaze (Brr brr)
 J'me gaze (Brr brr)
 J'me gaze
-Ça inhale, convoi réception matinaleEmbed"
+Ça inhale, convoi réception matinaleEmbed",Gambino
 Gambino Jetski,Viva,"3 ContributorsViva Lyrics[Paroles de ""Viva""]
 
 [Couplet 1]
@@ -3123,7 +3123,7 @@ Elle va t'faire un boulot, laisse tomber, elle va t'faire un boulot, laisse tomb
 Elle, c'est une viva, elle, c'est une viva, elle, c'est une viva sur ma vie
 Elle, c'est une viva, elle, c'est une viva, elle, c'est une viva sur ma vie
 Elle va t'faire un boulot, laisse tomber, elle va t'faire un boulot, laisse tomber
-EnigmaEmbed"
+EnigmaEmbed",Gambino
 Gambino Jetski,VIVRE,"7 ContributorsVIVRE Lyrics[Paroles de ""VIVRE""]
 
 [Couplet unique]
@@ -3166,7 +3166,7 @@ J'suis désolé, désolé
 J'suis désolé, désolé
 Woho, ah, ah, woho
 Woho, ah, woho, ah
-Ah, ah, ah, ah, ah, ah, ahEmbed"
+Ah, ah, ah, ah, ah, ah, ahEmbed",Gambino
 Gambino Jetski,WEEKEND,"5 ContributorsWEEKEND Lyrics[Paroles de ""WEEKEND""]
 
 [Couplet 1]
@@ -3211,7 +3211,7 @@ Ca brûle la haze la nuit
 Je me rappelle de Aldi
 J'suis dans l'Macan turbo S, le moteur est modifié
 Paname la Fashion Week, j'ai bossé tout le week-end
-Personne va nous donner à manger, donc j'suis obligéEmbed"
+Personne va nous donner à manger, donc j'suis obligéEmbed",Gambino
 Gambino Jetski,ZAZA,"8 ContributorsTranslationsEnglishZAZA Lyrics[Paroles de ""ZAZA""]
 
 [Intro : tag]
@@ -3258,4 +3258,4 @@ J'm'endors le doré à la mano, j'm'endors le doré à la mano
 J'm'endors le doré à la mano, gaz, pilon, Akrapovic
 J'm'endors le doré à la mano, j'm'endors le doré à la mano
 Y a d'la MD dans le lavabo, j'm'endors le doré à la mano
-J'm'endors le doré à la manoEmbed"
+J'm'endors le doré à la manoEmbed",Gambino

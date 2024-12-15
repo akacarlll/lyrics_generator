@@ -1,4 +1,4 @@
-Artist,Title,Lyrics
+GeniusName,Title,Lyrics,Artist
 Kévin Valleray,2 Pour Sang (Freestyle),"7 Contributors2 Pour Sang (Freestyle) Lyrics[Couplet 1]
 L'ambiance est morose, je la mets sur un pétard
 Ça pue l'eau de rose, j'viens juste de marquer mon territoire
@@ -90,7 +90,7 @@ Badman no run, badman no run
 [Post-refrain 2]
 Ou sav la ri a ni plein mafia
 Ka joué dépi la vi'a
-Ka joué dépi la vi'a, aEmbed"
+Ka joué dépi la vi'a, aEmbed",Kalash
 Kévin Valleray,4 Croisées,"8 Contributors4 Croisées Lyrics[Refrain]
 Adan 4 croisées an paka tremblé
 Bondyé sel an ka doué
@@ -147,7 +147,7 @@ Kouté mwen byen !
 Adan 4 croisées an paka tremblé
 Pass an paka pè pon socié
 A pa diab a yo ké fe'm tombé
-Lajen paka fe'm chanjé7Embed"
+Lajen paka fe'm chanjé7Embed",Kalash
 Kévin Valleray,À jamais,"15 ContributorsÀ jamais Lyrics[Couplet 1]
 On s'était promis de tout niquer avant d's'en aller là bas
 Depuis que t'es parti, homie, j'ai fait le tri autour de moi
@@ -215,7 +215,7 @@ I miss you more and more, more and more
 Et le temps passe j'aimerais tellement te faire revenir
 On m'dit c'est la vie mais j'm'en fous de leur histoire
 Solidaire à la guerre, présent dans tous mes fous rires
-J't'écris ce soir, hmm hmmYou might also like2Embed"
+J't'écris ce soir, hmm hmmYou might also like2Embed",Kalash
 Kévin Valleray,Aller simple (Petit pays),"11 ContributorsAller simple (Petit pays) Lyrics[Couplet 1]
 Il n'y a que l'océan qui nous sépare, quelques horloges et quelques puits
 J'ai subitement perdu mon âme de fêtard, j'suis vieux je fais la gueule depuis
@@ -259,7 +259,7 @@ Et j'espère aussi, qu'à la faveur de jours meilleurs
 Je reviendrai me délecter de tes senteurs, de tes saveurs
 De tes beautés insulaires, de la chaleur
 De l'exubérance de mon peuple, épidermique et fier
-Oui, j'espèreYou might also like2Embed"
+Oui, j'espèreYou might also like2Embed",Kalash
 Kévin Valleray,À ma rue (Lucevan),"7 ContributorsÀ ma rue (Lucevan) Lyrics[Prod by Hi Stakes]
 
 [Couplet 1]
@@ -312,7 +312,7 @@ J'ai la vie devant moi, j'vais mourir avec toi
 J'ai la vie devant moi, j'vais mourir avec toi
 À la fin de ce mois, on ira où tu voudras
 J'ai la vie devant moi, j'vais mourir avec toi
-À la fin de ce mois, on ira où tu voudrasYou might also like1Embed"
+À la fin de ce mois, on ira où tu voudrasYou might also like1Embed",Kalash
 Kévin Valleray,Anesthésie (Outro),"9 ContributorsAnesthésie (Outro) Lyrics[Paroles de ""Anesthésie (Outro)""]
 
 [Couplet]
@@ -343,7 +343,7 @@ Gang, gang, gang, gang, gang, gang, ouh
 Gang, gang, gang, gang, gang, gang, ah
 Gang, gang, gang, gang, gang, gang, ah
 Gang, gang, gang, gang, gang, gang
-An an, ahEmbed"
+An an, ahEmbed",Kalash
 Kévin Valleray,Anything a Anything,"1 ContributorAnything a Anything LyricsAyo, Shorty
 Bring some bloodclat
 Yein ki big bomboclat bonda kon Cardi
@@ -403,7 +403,7 @@ Anything a anything
 Nou pa vin pèd pon fil
 Pass en kay la, yein ki bèl fanm (gyal)
 En kay la, yein ki bèl fanm (gyal)
-En kay la, yein ki bèl fanm, NotniceYou might also likeEmbed"
+En kay la, yein ki bèl fanm, NotniceYou might also likeEmbed",Kalash
 Kévin Valleray,Après l’automne,"24 ContributorsAprès l’automne Lyrics[Refrain]
 Gentil mwaka veut plier la France
 Motivé depuis l'adolescence
@@ -474,7 +474,7 @@ J'emmerde Jean-Marie depuis la naissance
 Ainsi que sa fille l'Orang Outan
 Moi aussi j'ai trouvé ça dégoutant
 Mais seras-tu Charlie après l'automne ?
-Selon le vent et selon l'iPhone (Hin hin)You might also like6Embed"
+Selon le vent et selon l'iPhone (Hin hin)You might also like6Embed",Kalash
 Kévin Valleray,Arrête ton film,"1 ContributorArrête ton film Lyrics[Pont]
 Hey yo rude boi, enlève ton doigt sur la gâchette
 Les balles fusent, le gilet pare-balles ne sauvera pas ta tête
@@ -560,7 +560,7 @@ Marre de voir mes frères sur les infos... Oi!
 Toujours les mêmes scénarios
 J'préfère encore aller... au studio
 Comme Falaminalé
-Krr-rr-rr!Embed"
+Krr-rr-rr!Embed",Kalash
 Kévin Valleray,Arrête ton film (Remix),"1 ContributorArrête ton film (Remix) Lyrics[Pont : Kalash & L-A-S-Nico]
 Hey yo rude boi, enlève ton doigt sur la gâchette (Kalash)
 Les balles fusent, le gilet pare-balles ne sauvera pas ta tête (L-A-S)
@@ -678,7 +678,7 @@ Toujours les mêmes scénarios
 J'préfère encore aller... au studio
 Comme Falaminalé
 Krr-rr-rr!
-StreetEmbed"
+StreetEmbed",Kalash
 Kévin Valleray,"Baby Gyal, mi lov U","3 ContributorsBaby Gyal, mi lov U Lyrics[Intro]
 Ouh yeah
 Epi’w man anvi vansé oh my love
@@ -727,7 +727,7 @@ Inminw
 Baby gyal mi luv u sé vou é pa an dot
 Epi’w man anvi vansé baby you are my love
 Baby gyal mi luv u an pa biswen an lot
-La vie mwen ou ka klélé cuz you are my sunshineEmbed"
+La vie mwen ou ka klélé cuz you are my sunshineEmbed",Kalash
 Kévin Valleray,Bad Gyal,"5 ContributorsBad Gyal Lyrics[Intro]
 Wicked
 An vinn di zot kè man ka vini djouk
@@ -789,7 +789,7 @@ Pretty, pretty, pretty
 Je pourrais te dessiner toute nue à l'encre d'amour et d'abus (Toute nue)
 Oh oui, t'es pretty, pretty
 Pretty, pretty, pretty
-Je pourrais te dessiner toute nue à l'encre d'amour et d'abus, rahEmbed"
+Je pourrais te dessiner toute nue à l'encre d'amour et d'abus, rahEmbed",Kalash
 Kévin Valleray,Bad Like Me,"13 ContributorsBad Like Me Lyrics[Intro]
 Haha, oh god, wouh !
 Señoras y señores
@@ -869,7 +869,7 @@ Hahahahaha, yeah
 Dimelo Kalash
 They ain't ready for us
 We were born ready, we was born ready
-Hahahahaha, yeahYou might also like1Embed"
+Hahahahaha, yeahYou might also like1Embed",Kalash
 Kévin Valleray,Badman pa ka sèvi Jeffrey,"1 ContributorBadman pa ka sèvi Jeffrey Lyrics[Intro]
 ...
 
@@ -889,7 +889,7 @@ Kévin Valleray,Badman pa ka sèvi Jeffrey,"1 ContributorBadman pa ka sèvi Jeff
 ...
 
 [Outro]
-...You might also likeEmbed"
+...You might also likeEmbed",Kalash
 Kévin Valleray,Bando,"30 ContributorsBando Lyrics[Intro]
 Han han han
 Straight (Pyroman), GC
@@ -976,7 +976,7 @@ Reality évidemment an pa ka palé salade
 Mi kalash
 Soukré tèt aw si son a Kalash
 An sizé la èvè yon dé H
-An ka fou game la on kou kalash6Embed"
+An ka fou game la on kou kalash6Embed",Kalash
 Kévin Valleray,BBHMM Freestyle,"4 ContributorsBBHMM Freestyle Lyrics[Refrain]
 Encore un coup et ma douleur décolle
 J'suis pas leur esclave
@@ -1018,7 +1018,7 @@ J'ai pas confiance, j'suis parachuté
 Qui aurait pensé que ces chiens
 Tueraient Jésus après l'avoir loué
 Loué... (x2)
-You might also like[Refrain]4Embed"
+You might also like[Refrain]4Embed",Kalash
 Kévin Valleray,Best Friend,"10 ContributorsBest Friend Lyrics[Intro]
 Oh, ohohoh
 Oh, ohohoh
@@ -1088,7 +1088,7 @@ Toi et moi, compliment (dun know)
 Baby you are mi best friend
 Baby you are mi best… friend
 Ow ! Ow ! Ow !
-I’m out2Embed"
+I’m out2Embed",Kalash
 Kévin Valleray,Big Machine (Neferiti Riddim),"4 ContributorsBig Machine (Neferiti Riddim) Lyrics[Intro]
 Sé fanm la mafia kon lè ou desann Palermo
 Apré dé kout tafia, yo kay di mwen ""tchenbé mwen fô me amo""
@@ -1169,7 +1169,7 @@ Bad gyal inmin (hmm hmmm)
 Big machine dans son (ouh) (hmm hmmm)
 Dem gyaldem mad a Palermo
 Yow Guillermo
-I'm outEmbed"
+I'm outEmbed",Kalash
 Kévin Valleray,Bonda Manmanw,"19 ContributorsBonda Manmanw Lyrics[Intro]
 Ah, ah
 
@@ -1236,7 +1236,7 @@ Tes couilles sont parties en vacances
 Ya ya ya ya ya (ya ya ya ya ya)
 Contrôle fiscal sa mère la pute
 Ma SACEM a de nouveaux futes
-Ya ya ya ya ya (ya ya ya ya ya)1Embed"
+Ya ya ya ya ya (ya ya ya ya ya)1Embed",Kalash
 Kévin Valleray,Bumpy,"6 ContributorsBumpy Lyrics[Paroles de ""Bumpy""]
 
 [Intro]
@@ -1317,7 +1317,7 @@ Mi-Mi gun sing shalala, shalala
 (Investi lajan mwen adan gwo batay)
 (M-16 douvan Glock pa ka fè détay)
 (Pa ka tann yo)
-Everybody dead nowEmbed"
+Everybody dead nowEmbed",Kalash
 Kévin Valleray,Cafard,"3 ContributorsCafard Lyrics[Paroles de ""Cafard""]
 
 [Intro]
@@ -1370,7 +1370,7 @@ Yeah yeah yeah
 [Outro]
 No, no, no, no, no
 Mwaka, mwaka boss
-Mwaka, mwaka bossEmbed"
+Mwaka, mwaka bossEmbed",Kalash
 Kévin Valleray,Calle la boca,"4 ContributorsCalle la boca Lyrics[Paroles de ""Calle la boca""]
 
 [Producer tag]
@@ -1444,7 +1444,7 @@ Mi gyal bubble, bubble, bubble, bubble
 Bubble, bubble, bubble (Sway)
 
 [Outro]
-Dégoupiller..Embed"
+Dégoupiller..Embed",Kalash
 Kévin Valleray,Can’t Live Without You,"10 ContributorsCan’t Live Without You Lyrics[Intro]
 Only god can save me
 Aidé mwen rilévé tout' défi
@@ -1493,7 +1493,7 @@ Ennemi o zalentou, ou ka tchenbé yo an jou
 Only god can save me
 Aidé mwen rilévé tout' défi
 Oh Lord ! Please protect me
-Dem fi know right nowYou might also likeEmbed"
+Dem fi know right nowYou might also likeEmbed",Kalash
 Kévin Valleray,Chanson du Mwaka,"12 ContributorsChanson du Mwaka Lyrics[Intro]
 Fallait le voir
 (Euh.. attends)
@@ -1572,7 +1572,7 @@ Hmm, j'pars en chasse donnes moi mon AK
 Hmm, j'pars en chasse donnes moi mon AK
 Chanson du Mwaka
 [Outro]
-General Crew8Embed"
+General Crew8Embed",Kalash
 Kévin Valleray,Comme jamais,"1 ContributorComme jamais Lyrics[Refrain : Kalash]
 Des millions d'euros j'suis refait, Adieu la galère et les regrets
 Des fins de mois plus rien ne m'effraie, j'suis plus protégé que le préfets
@@ -1642,7 +1642,7 @@ Des fins de mois plus rien ne m'effraie, j'suis plus protégé que le préfets
 Aya-ya-ya-yaii
 J'suis dans la street frais comme jamais
 Aya-ya-ya-yaii
-J'suis dans la street frais comme jamaisEmbed"
+J'suis dans la street frais comme jamaisEmbed",Kalash
 Kévin Valleray,Comptine Pour Pussy,"3 ContributorsComptine Pour Pussy LyricsHellow
 Mac, coumé a
 Every pussy a fie die
@@ -1732,7 +1732,7 @@ Lenmin sal, sal
 Wholipa friend dem
 Free from long time
 Wholipa friend dem
-A long time, a long timeEmbed"
+A long time, a long timeEmbed",Kalash
 Kévin Valleray,Conséquences,"12 ContributorsConséquences Lyrics[Couplet 1]
 Fabriqué dans l'amour et venu dans la haine
 Il est là l'enfant tant désiré
@@ -1778,7 +1778,7 @@ Puisqu'on est foutu, sauvons au moins nos petits
 C'est fou comme on peut s'aimer d'amour
 Puis autant se déchirer
 Nos erreurs sont longues d'effet, si c'n'est pas nous, ce s'ra ceux d'après (même si)
-On fabrique des monstres qui n'saurait dire c'qui est mauvais et c'qui est bonEmbed"
+On fabrique des monstres qui n'saurait dire c'qui est mauvais et c'qui est bonEmbed",Kalash
 Kévin Valleray,Danjé,"18 ContributorsDanjé Lyrics[Intro]
 Oh Baby ou ka mété mwen high
 Général Crew
@@ -1890,7 +1890,7 @@ Mwen ka tombé love mwen ka tombé fana
 
 [Intro]
 Mad, Dj Ken
-I'm out (General Crew)You might also like4Embed"
+I'm out (General Crew)You might also like4Embed",Kalash
 Kévin Valleray,Dans le truc,"4 ContributorsDans le truc Lyrics[Paroles de ""Dans le truc"" de Kalash]
 
 [Intro]
@@ -1954,7 +1954,7 @@ J'veut rester dans le truc
 Shaz
 J'veut rester dans le
 Mwaka Boss
-ShazEmbed"
+ShazEmbed",Kalash
 Kévin Valleray,Diamond,"12 ContributorsDiamond Lyrics[Intro : Kalash & Russian]
 Eh Russian, ou enmen fanm jiss Afghanistan
 We no care where them from
@@ -2003,7 +2003,7 @@ With you gyal mi a stay, day after day
 An sav ou bizwen kè an fô
 Protéjéw kon coff' fô
 An sav ou bizwen kè an fô
-Eh RussianYou might also like1Embed"
+Eh RussianYou might also like1Embed",Kalash
 Kévin Valleray,Divine,"3 ContributorsDivine Lyrics[Intro : Kalash, Mavado & Satori]
 Girl you change my mind
 Gully God
@@ -2094,7 +2094,7 @@ Gully God
 Kalash wit di gyal eh
 Yeah he
 Wohoho
-I was lost, till you found meEmbed"
+I was lost, till you found meEmbed",Kalash
 Kévin Valleray,Don Dada,"4 ContributorsDon Dada Lyrics[Intro]
 Rvssian (Rvssian)
 Wham to dem (kuff kaff)
@@ -2169,7 +2169,7 @@ Kalashnikov… General
 Russian (aaah ayy)
 General.. believe me
 AKM, free up (aah aaaah ah ah)
-I’m out.Embed"
+I’m out.Embed",Kalash
 Kévin Valleray,Donner,"2 ContributorsDonner Lyrics[Paroles de ""Donner""]
 
 [Intro]
@@ -2224,7 +2224,7 @@ Je t'ai tout donné, donné, donné, donné, eh-eh
 Je t'ai tout donné, donné, donné, donné, eh-eh
 Je t'ai tout donné, donné, donné, donné, eh-eh
 Je t'ai tout donné, eh
-Donné, ehEmbed"
+Donné, ehEmbed",Kalash
 Kévin Valleray,Dubaï épisode,"6 ContributorsDubaï épisode Lyrics[Paroles de ""Dubaï épisode""]
 
 Please free up di teacha, awouh
@@ -2299,7 +2299,7 @@ Oh oh, oh oh, oh oh
 Got di baddest breddah, trust me, Maroon, bad riddim dat
 Dem dead
 Oh oh, oh oh, oh oh
-I'm outEmbed"
+I'm outEmbed",Kalash
 Kévin Valleray,Elvira,"7 ContributorsElvira Lyrics[Paroles de ""Elvira""]
 
 [Couplet 1]
@@ -2361,7 +2361,7 @@ Gossip girl
 J'suis wannabe, wannabe, wannabe
 J'suis wannabe, wannabe, wannabe
 J'suis wannabe, wannabe, wannabe
-Gossip girlEmbed"
+Gossip girlEmbed",Kalash
 Kévin Valleray,Empire,"7 ContributorsEmpire Lyrics[Couplet 1]
 J'travaille très dur hiver comme été
 Connais pas les congés, les ITT
@@ -2429,7 +2429,7 @@ C'que j'ai dans la tête, j'le veux sous les yeux
 On changera l'histoire si Dieu le veut
 Empire, empire, empire, empire, empire
 Empire, empire, empire, empire, empire
-Si Dieu le veut1Embed"
+Si Dieu le veut1Embed",Kalash
 Kévin Valleray,Ensemble,"7 ContributorsEnsemble Lyrics[Paroles de ""Ensemble""]
 
 [Couplet 1]
@@ -2495,7 +2495,7 @@ On avait juré de s'en aller
 S'en aller, s'en aller
 On avait juré de bombarder
 Comme en G.A.V., sans parler, my nigga
-(Sans parler, my nigga)Embed"
+(Sans parler, my nigga)Embed",Kalash
 Kévin Valleray,E.T.,"15 ContributorsE.T. Lyrics[Intro]
 Sé lajol ou lanmô
 
@@ -2563,7 +2563,7 @@ Enterrement et tribunal
 Everyday, everyday
 Everyday, everyday
 Everyday a mama cry
-Everyday a mama cry5Embed"
+Everyday a mama cry5Embed",Kalash
 Kévin Valleray,Everybody Falla,"9 ContributorsEverybody Falla Lyrics[Paroles de ""Everybody Falla"" ft. Bounty Killer]
 
 [Intro : Bounty Killer]
@@ -2652,10 +2652,10 @@ Yo, Kalash, we have one bag a cash
 And them know say we can't bother
 [Outro : Kalash et Bounty Killer]
 Kalash, Bounty Killer
-Grung GadzillaEmbed"
+Grung GadzillaEmbed",Kalash
 Kévin Valleray,Everybody whine,"3 ContributorsEverybody whine LyricsDécouvre le dernier clip vidéo de Kalash intitulé Everybody Whine. Tu peux également retrouver tous les clips vidéo de Kalash ainsi que toute l'actualité du Reggae / Dancehall sur Muzik Spirit
 Clique sur le bouton Lyrics, ci-dessous, pour découvrir les paroles du titre Everybody Whine
-Rejoins la page facebook muzikspirit.officiel et suis nous sur Twitter @muzikspirit pour être informé des dernières actualités de Kalash et du Reggae / DancehallYou might also likeEmbed"
+Rejoins la page facebook muzikspirit.officiel et suis nous sur Twitter @muzikspirit pour être informé des dernières actualités de Kalash et du Reggae / DancehallYou might also likeEmbed",Kalash
 Kévin Valleray,Flair,"11 ContributorsFlair Lyrics[Paroles de / Lyrics of ""Flair"" ft. Gucci Mane]
 
 [Intro : Gucci Mane]
@@ -2742,7 +2742,7 @@ Veut me mettre in jail
 J'fais la paix, j'fais la guerre
 Tout dépend de mon flair
 Nigga oh oh oh oh oh
-Nigga oh oh oh oh ohEmbed"
+Nigga oh oh oh oh ohEmbed",Kalash
 Kévin Valleray,Freddy,"4 ContributorsFreddy Lyrics[Intro]
 
 [Couplet 1]
@@ -2788,7 +2788,7 @@ Me a real champion, nou pa ka bat déyé
 Ou sav an toujou number one
 Nou pa pè piess nonm, demin key méyé, Action
 
-[Outro]2Embed"
+[Outro]2Embed",Kalash
 Kévin Valleray,Free me,"11 ContributorsFree me Lyrics[Intro]
 (Biggie on the track)
 Mister officer
@@ -2859,7 +2859,7 @@ Real nigga pa ka lance-ba
 Mwaka
 Tchiip avan mem jijé yo ja kondané mwen
 Jij'la kan fuck up
-Free me free tout soldja free up3Embed"
+Free me free tout soldja free up3Embed",Kalash
 Kévin Valleray,Friendzone,"15 ContributorsFriendzone Lyrics[Couplet 1 : Still Fresh]
 Dans le cœur, y'a BKO
 Mon cerveau, c'est le chaos
@@ -2957,7 +2957,7 @@ La mula m'a dit vini, vini
 Vini, vini, vini (vini)
 Vini, vini, vini (vini)
 Tout est fini, fini, fini (fini)
-Fini, fini, fini1Embed"
+Fini, fini, fini1Embed",Kalash
 Kévin Valleray,Ghetto Life,"5 ContributorsGhetto Life Lyrics[Intro]
 Talk me mine
 Tout'ghetto youth lé rivé soti adan sal man
@@ -3014,7 +3014,7 @@ Bad boy ni pou ay pli lwen, ay pli lwen
 Ancèt nou fè twop chimen, pou nou rété fémen
 Fo pa nou moli an maille
 Bétché'a za pran twop anlé nou
-Ki tan nou kéy lévé ko nouEmbed"
+Ki tan nou kéy lévé ko nouEmbed",Kalash
 Kévin Valleray,G.O.A.T,"7 ContributorsG.O.A.T Lyrics[Intro]
 Yo té ka révé mwen man pa domi
 Yo di yo aidé mwen sé kalomni
@@ -3072,7 +3072,7 @@ Beaucoup de moutons, un seul GOAT (Bê-ehr-ehr-ehr)
 Say no more (Say no more, say no more)
 [Outro]
 Say no more (Say no more, say no more)
-Say no more (Say no more, say no more), (Bê-ehr-ehr-ehr)Embed"
+Say no more (Say no more, say no more), (Bê-ehr-ehr-ehr)Embed",Kalash
 Kévin Valleray,God Knows,"11 ContributorsGod Knows Lyrics[Intro : Kalash & Mavado]
 Mwaka boss, Gully god, Gully god
 Ouh, Stephen, ouh
@@ -3150,7 +3150,7 @@ You are my everything, (Gully God)
 Ouuuh (yeah)
 Même adan on soufrans', man paka ladjé lanminw papa, never
 La vi tala intense, é gadé la fwa tchébé an tout' sens
-Sick, yeah man1Embed"
+Sick, yeah man1Embed",Kalash
 Kévin Valleray,Grimey,"7 ContributorsGrimey Lyrics[Intro: Kalash & Skillibeng]
 Grimey, grimey
 Skilli-Skillibeng
@@ -3239,7 +3239,7 @@ Talking villein, run dancehall
 In a me lane yah like Usain them, you hate me?
 Me return the hatred
 Skillibeng, Mwaka Boss, Eastsyde
-Irie CrewEmbed"
+Irie CrewEmbed",Kalash
 Kévin Valleray,Guapa,"2 ContributorsGuapa Lyrics[Intro]
 Hey russian
 Ba ta la man ni an program
@@ -3318,7 +3318,7 @@ Guapa
 An nou fly seniorita
 
 [Outro]
-Kaaaaaalaaashnikov!!Embed"
+Kaaaaaalaaashnikov!!Embed",Kalash
 Kévin Valleray,Gun Man,"3 ContributorsGun Man Lyrics[Intro]
 Now wid de badman!
 We no run anway
@@ -3397,7 +3397,7 @@ Yeah DJ
 Wa gwan
 Yeah
 Pa fè mwen komprann an patat'
-I'm outEmbed"
+I'm outEmbed",Kalash
 Kévin Valleray,Gwan Gou,"7 ContributorsGwan Gou Lyrics[Paroles de ""Gwan Gou"" ft. Jkevlar]
 
 [Intro : Kalash]
@@ -3474,7 +3474,7 @@ Oh oh (ay)
 Oh oh
 Oh oh
 Oh
-Gang gang gang gang gangEmbed"
+Gang gang gang gang gangEmbed",Kalash
 Kévin Valleray,Gwo Model,"5 ContributorsGwo Model Lyrics[Intro]
 Ouh la la Shaz
 (Touche à la prod, elle va te tuer)
@@ -3514,7 +3514,7 @@ Few kouri
 Ou la ka bat djol ou kon lambis
 Es ou ja tjimbé fanm ki solid
 Dé gwo model yenki dé gwo model
-Dé gwo model yenki dé gwo modelEmbed"
+Dé gwo model yenki dé gwo modelEmbed",Kalash
 Kévin Valleray,Gyal you affi move,"1 ContributorGyal you affi move Lyrics[Intro]
 Hey gyal
 Mi gyal
@@ -3552,7 +3552,7 @@ Gyal you affi move when stop, stop
 [Outro]
 [?]
 Kalashnikov!!
-[?]Embed"
+[?]Embed",Kalash
 Kévin Valleray,Gyal Yuh Body Hot,"1 ContributorGyal Yuh Body Hot Lyrics[Intro]
 Romeich Entertainment
 Gyal yuh body hot, gyal yuh body hot, hein
@@ -3649,7 +3649,7 @@ Yaddie rich
 
 [Outro]
 Gyal yuh body hot, lemme see yo pum-pum
-I'm outEmbed"
+I'm outEmbed",Kalash
 Kévin Valleray,Habibi,"9 ContributorsHabibi Lyrics[Paroles de ""Habibi""]
 
 [Intro]
@@ -3696,7 +3696,7 @@ Mon alibi, mon alibi
 Habibi, habibi
 Habibi, habibi
 Habibi, habibi, habibi
-Habibi, oh yeah, ahEmbed"
+Habibi, oh yeah, ahEmbed",Kalash
 Kévin Valleray,Health And Time,"11 ContributorsHealth And Time Lyrics[Intro]
 Stephen
 Genius
@@ -3766,7 +3766,7 @@ Every dreams affi come true (Mwaka Moon)
 Daddy gonna make it fi u, oh
 
 [Outro]
-Daddy gonna make it fi u, ohEmbed"
+Daddy gonna make it fi u, ohEmbed",Kalash
 Kévin Valleray,I Can See Why,"20 ContributorsI Can See Why Lyrics[Intro : King Ko$a & Kalash]
 Yeah
 Kalashnikov
@@ -3856,7 +3856,7 @@ I've just seen her DM and I didn't reply (nan nan nan)
 Ils font des complots et je sais pourquoi
 Je fais du roro donc je sais pourquoi
 Je nique ta meuf négro je sais pourquoi
-Mais je vois son DM et j'y répondrai pas3Embed"
+Mais je vois son DM et j'y répondrai pas3Embed",Kalash
 Kévin Valleray,I Love You,"16 ContributorsI Love You Lyrics[Paroles de ""I Love You"" ft. Damso]
 
 [Intro : Kalash & Damso]
@@ -3921,14 +3921,14 @@ I love you
 Fuck boy
 Eh-eh, eh
 Je ne veux pas, je ne veux pas, je ne veux pas, je ne veux pas
-C'est trop dur de dire : ""I love you""2Embed"
-Kévin Valleray,Intro (2 #Classic),1 ContributorIntro (2 #Classic) Lyrics[Pleins de messages de personnes qui ont appelés Kalash]You might also likeEmbed
+C'est trop dur de dire : ""I love you""2Embed",Kalash
+Kévin Valleray,Intro (2 #Classic),1 ContributorIntro (2 #Classic) Lyrics[Pleins de messages de personnes qui ont appelés Kalash]You might also likeEmbed,Kalash
 Kévin Valleray,Intro (Kalash),"1 ContributorIntro (Kalash) Lyrics[Intro]
 B-B-Badman-man-man-man-man-man...
 B-B-Badman
 B-B-Badman
 B-B-Ba-Ba-Badman
-Yeah, yeah, yeah, yeahEmbed"
+Yeah, yeah, yeah, yeahEmbed",Kalash
 Kévin Valleray,Ivory,"11 ContributorsIvory Lyrics[Refrain]
 J'roule un joint de Ivory pour Lélé et Mechop
 J'roule un joint de Ivory pour Lélé et Mechop
@@ -3990,7 +3990,7 @@ J'ai la sauce dans le red cup
 [Outro]
 J'roule un joint d'Ivory
 M.A.V
-Ay ay2Embed"
+Ay ay2Embed",Kalash
 Kévin Valleray,I Wanna Be Loved,"11 ContributorsI Wanna Be Loved Lyrics[Intro : Kalash]
 Hmm
 Stephen
@@ -4048,7 +4048,7 @@ Yeaah
 I wanna be, wanna be loved
 Wanna be, wanna be loved
 Wanna be wanna be wanna be loved
-I wanna be loved3Embed"
+I wanna be loved3Embed",Kalash
 Kévin Valleray,I Will Be There,"10 ContributorsI Will Be There Lyrics[Couplet 1]
 When you love someone, like I do
 Sur ces lèvres seulement tu t'endormiras chaque jour
@@ -4093,7 +4093,7 @@ Et à chaque instant, j't'aimerais comme avant
 I will be there
 Et à chaque moment j'arrêterai le temps
 Pour te dire I love you, pour te dire I love you
-Pour te dire I love you, pour te dire I love youYou might also like1Embed"
+Pour te dire I love you, pour te dire I love youYou might also like1Embed",Kalash
 Kévin Valleray,Jah,"4 ContributorsJah LyricsLet me talk my mind
 Dem say me a fool
 They gon' feal the spirit
@@ -4106,7 +4106,7 @@ Me and Babylone we can't cool
 Oh jah me love you so
 Who jah bless no [?] no matter be can't true
 Oh jah me love you so
-Who jah bless no [?] no matter weYou might also likeEmbed"
+Who jah bless no [?] no matter weYou might also likeEmbed",Kalash
 Kévin Valleray,Je contrôle ma vie,"4 ContributorsJe contrôle ma vie Lyrics[Refrain]
 Je vis sans foi ni loi
 Je contrôle ma vie
@@ -4185,7 +4185,7 @@ Tanlantan, tanlantan, toulutulutu, tulu, tantantant...
 Ouh yeah
 Kalashnikov
 Ouh yeah
-Ouh yeah1Embed"
+Ouh yeah1Embed",Kalash
 Kévin Valleray,Je sais,"6 ContributorsJe sais Lyrics[Intro]
 Stephen
 
@@ -4236,7 +4236,7 @@ Il est temps de t'en aller (il est temps de t'en aller)
 [Outro]
 Ouuh oouh
 Baby, hmm hmm
-StephenEmbed"
+StephenEmbed",Kalash
 Kévin Valleray,JTC,"59 ContributorsJTC Lyrics[Paroles de ""JTC"" ft. Damso]
 
 [Intro : Kalash]
@@ -4310,8 +4310,8 @@ Ouais, c'est bon
 
 Lior, salopes, moula, voici ce pourquoi je vis
 Je suis le fini dans l'infini (Nwar)
-À déplacer dans la version Demo2Embed"
-Kévin Valleray,KAARNAAL 2K17,3 ContributorsKAARNAAL 2K17 LyricsLYRICSYou might also like1Embed
+À déplacer dans la version Demo2Embed",Kalash
+Kévin Valleray,KAARNAAL 2K17,3 ContributorsKAARNAAL 2K17 LyricsLYRICSYou might also like1Embed,Kalash
 Kévin Valleray,Kalash & Damso (Extrait Nwaar)*,"4 ContributorsKalash & Damso (Extrait Nwaar)* Lyrics[Partie de Damso]
 Essaie pas de me voir (Voir)
 J'parle en euros, t'parles en shiling (Shiling)
@@ -4323,7 +4323,7 @@ Dems
 
 [Partie de Kalash]
 Pirate, [?]
-[?]You might also likeEmbed"
+[?]You might also likeEmbed",Kalash
 Kévin Valleray,Karibbean World,"4 ContributorsKaribbean World Lyrics[Intro]
 Karibbean
 Yeah
@@ -4386,7 +4386,7 @@ Karibbean
 Kalashnikov
 Mi lov U, hey (Woohoo)
 Krrr, Krrr, Krrr
-Train!Embed"
+Train!Embed",Kalash
 Kévin Valleray,Kouada,"2 ContributorsKouada Lyrics[Intro]
 Hey ou compren'n sa an Cadillac
 Ou compren'n sa écri paradisiac
@@ -4463,7 +4463,7 @@ Tout quartier kouada infada
 Tout quartier kouada infada, Mada, Gwada, Réunion, Guyana, Africa
 Konkablishment DJ, Chabine Prod DJ, Mafio House I lou
 Big up DJ Gil
-Street Reality you don't know, nou pa ka palé pawol platEmbed"
+Street Reality you don't know, nou pa ka palé pawol platEmbed",Kalash
 Kévin Valleray,Koussi Koussa,"29 ContributorsKoussi Koussa Lyrics[Paroles de ""Koussi Koussa"" ft. Niska]
 
 [Intro : Kalash & Niska]
@@ -4557,7 +4557,7 @@ J'ai éteint mon bigo, j'enregistre au four (Glah, glah, glah)
 Prêts à tout, bébé, on va dans la gova
 Elle est assez grande cette Range Rover
 Tombé sur la Lune, aide-moi Jéhovah
-En danger était la terre mais il la sauva4Embed"
+En danger était la terre mais il la sauva4Embed",Kalash
 Kévin Valleray,Laisse brûler,"5 ContributorsLaisse brûler LyricsGet ready, t'es pas rentré V.I.P
 Mais t'es détere à mettre le feu toute la nuit
 Get Ready, parce qu'ici tout est permis
@@ -4584,7 +4584,7 @@ Original rude boy Frenchy
 Laisse Brûler,Laisse Brûler
 L'ambiance est chaude et le toit va s'enflammer
 Lève la main allume ton briquet...
-You might also likeREFRAIN1Embed"
+You might also likeREFRAIN1Embed",Kalash
 Kévin Valleray,Laisse-moi te sauver,"9 ContributorsLaisse-moi te sauver Lyrics[Intro]
 Oouuuh
 
@@ -4653,7 +4653,7 @@ Je suis là à coté je te promets, dis-moi ce qu'on fait là, ce n'est pas toi 
 Laisse-moi t'enlever, j'ai tant à te donner, promesse
 Je suis là à coté je te promets, dis-moi ce qu'on fait là, ce n'est pas toi je te connais
 Laisse-moi t'enlever, j'ai tant à te donner, promesse
-.1Embed"
+.1Embed",Kalash
 Kévin Valleray,Lambis,"4 ContributorsLambis Lyrics[Intro]
 Yo, Digital, play this shit
 Yo, in Jamaica they say ""big pum pum""
@@ -4707,7 +4707,7 @@ Pété pwèl menm si y pa kout
 Gyal ou kay pwen tout, tout, tout, tout
 
 [Outro]
-Je t'aimeEmbed"
+Je t'aimeEmbed",Kalash
 Kévin Valleray,Laptop,"8 ContributorsLaptop Lyrics[Paroles de ""Laptop"" ft.  Maureen ]
 
 [Intro : Kalash]
@@ -4779,7 +4779,7 @@ Gyal
 (Hmm, hmm, hmm)
 (Hmm, hmm, hmm)
 Man ka kasé fizi'a, sa ka rivé an tèt'
-Lhè jalou ka palé, mwen an ka stickEmbed"
+Lhè jalou ka palé, mwen an ka stickEmbed",Kalash
 Kévin Valleray,Le sang,"9 ContributorsLe sang Lyrics[Paroles de ""Le sang"" ft. Wejdene & Rvssian]
 
 [Intro : Wejdene & Kalash]
@@ -4855,7 +4855,7 @@ Elle voulait mon âme, elle n'a eu que mon corps
 J'laisserai plus personne niquer ma vibe, c'est mort
 J'donne plus l'heure à tous ces enculés, c'est mort
 C'est plus moi qui t'fera briller, poto, c'est mort
-On verra bien si t'arrives à pécho encoreEmbed"
+On verra bien si t'arrives à pécho encoreEmbed",Kalash
 Kévin Valleray,Libere yo,"2 ContributorsLibere yo LyricsJa di aanano came flazit
 Yvy mi va te
 Ma jaja camefalyt ceme ma fla zit
@@ -4875,7 +4875,7 @@ FE ZE CA TOMTOMTOM
 MEME
 MMM
 CAMA TO
-MMMYou might also likeEmbed"
+MMMYou might also likeEmbed",Kalash
 Kévin Valleray,L’oiseau,"7 ContributorsL’oiseau Lyrics[Couplet 1]
 J'suis pas baptisé, je vais ni à l'église ni au Vatican
 J'prie Dieu tous les jours, mais ne suis pas pratiquant
@@ -4917,7 +4917,7 @@ En mille morceaux, qui pourra bien me recoller
 [Outro]
 Laissez-moi, laissez-moi, laissez-moi voler
 Comme l'oiseau
-Comme l'oiseau1Embed"
+Comme l'oiseau1Embed",Kalash
 Kévin Valleray,Longtime,"1 ContributorLongtime Lyrics[Couplet 1]
 Mwen pé pa respiré san vou
 Kè an mwen ka pèd pou
@@ -4978,7 +4978,7 @@ Mé an ka yinki sonjé vou
 Ou sav bien ou sé an trézo, ou sav my boo
 Ou sav bien ou sé an trézo, ou pa bizwen pon moun
 
-[Outro]Embed"
+[Outro]Embed",Kalash
 Kévin Valleray,Lord Have Mercy,"4 ContributorsLord Have Mercy Lyrics[Intro]
 Yo di mwen arété kwè an lejand
 Man ka kwè adan sa yo pa ka konprann
@@ -5155,7 +5155,7 @@ God knows
 Thank god for all the blessings
 Even in suffering I understand the messages you want me to pass
 Thank goodness forgive us for all the bad thinking bad actions
-God knows1Embed"
+God knows1Embed",Kalash
 Kévin Valleray,Mada,"19 ContributorsMada Lyrics[Intro]
 Kombyen moto volé ki la osi ?
 Kombyen moto san lasirans, kombyen moto moun pa ni permi pou monté sa ?
@@ -5230,7 +5230,7 @@ Car sa peine est ma peine
 Car ma peine sera la tienne
 Car ma peine sera la tienne
 Mwaka boss, i'm out
-...Embed"
+...Embed",Kalash
 Kévin Valleray,Malpolis,"27 ContributorsMalpolis Lyrics[Paroles de ""Malpolis"" ft. Damso]
 
 [Intro : Damso]
@@ -5284,7 +5284,7 @@ Mmh-mmh, mmh-mmh, mmh-mmh, mmh
 Mmh-mmh, mmh-mmh, mmh-mmh, mmh
 On a sorti le machin : la mort fait pas mal de bruit
 Na-na-na-na
-On a sorti le machin : la mort fait pas mal de bruit4Embed"
+On a sorti le machin : la mort fait pas mal de bruit4Embed",Kalash
 Kévin Valleray,Mama,"3 ContributorsMama Lyrics[Couplet 1]
 Ooh hé yow big mama
 Mwen la ka réfléchi
@@ -5375,7 +5375,7 @@ Kalashnikov
 Manman manman manman
 Manamn manman
 Kalashnikov
-Yè big up mamaEmbed"
+Yè big up mamaEmbed",Kalash
 Kévin Valleray,Maria,"4 ContributorsMaria Lyrics[Paroles de ""Maria""]
 
 [Couplet 1]
@@ -5423,7 +5423,7 @@ Dis-moi, si espoir, il y a pour nous
 
 [Outro]
 Oh, Maria, regarde nous, regarde nous (Santa Maria)
-Dis-moi, si espoir, il y a, regarde2Embed"
+Dis-moi, si espoir, il y a, regarde2Embed",Kalash
 Kévin Valleray,Masterclass,"11 ContributorsMasterclass Lyrics[Paroles de ""Masterclass""]
 
 [Intro]
@@ -5486,7 +5486,7 @@ Yeah
 Tellement de Xanax, très peu d'amis
 Yeah
 Inh inh
-EhEmbed"
+EhEmbed",Kalash
 Kévin Valleray,Mechop,"9 ContributorsMechop Lyrics[Intro]
 Mechop
 And ayanay, lespri ou mèt dog
@@ -5555,7 +5555,7 @@ Secteur PTZ, FLG (hinhiiin)
 We miss you, real dog (trop' frè ka alé)
 Miss you dog (an ja lass pléré)
 And ayanay
-I'm outEmbed"
+I'm outEmbed",Kalash
 Kévin Valleray,Médicaments,"6 ContributorsMédicaments Lyrics[Paroles de ""Médicaments"" ft. Kima]
 
 [Intro : Kalash & Kima]
@@ -5635,7 +5635,7 @@ SD Squad nou an wout' mon frère
 Kima
 Kalashnikov'
 Sa malad'
-AhEmbed"
+AhEmbed",Kalash
 Kévin Valleray,Mode avion,"16 ContributorsMode avion Lyrics[Intro]
 Please make sure that all seats are on the upright position
 And trays are put away
@@ -5713,7 +5713,7 @@ D'ailleurs, tu m'enquiquines tout le temps gyal
 Tu me casses les couilles, tu me casses les couilles
 Stephen
 I'm out
-Medeline1Embed"
+Medeline1Embed",Kalash
 Kévin Valleray,Moments gâchés,"12 ContributorsMoments gâchés Lyrics[Intro : Kalash & Satori]
 (Hey boy I like you) Baby
 (Boy I like you) Ouh ouh
@@ -5821,7 +5821,7 @@ And boy I trust you
 Boy I lo lo lo lo love you
 But boy I love you
 And boy I trust you
-Boy I lo-lo-lo-lo-love youEmbed"
+Boy I lo-lo-lo-lo-love youEmbed",Kalash
 Kévin Valleray,Money Mwaka,"6 ContributorsMoney Mwaka Lyrics[Couplet 1 : Cardi B]
 Look, my bitches all bad, my niggas all real
 I ride on his dick in some big tall heels
@@ -5934,7 +5934,7 @@ All a bad bitch need is the
 K.K.C
 Cardi B
 Mwaka Boss
-Merry ChrismasEmbed"
+Merry ChrismasEmbed",Kalash
 Kévin Valleray,Movezide,"15 ContributorsMovezide Lyrics[Intro : Gato Da Bato & Kalash]
 Martians Productions
 Oui!
@@ -6038,7 +6038,7 @@ Ou deja fout konnen
 Mada! Ayiti!
 Anwme!
 Gato Da Bato (Mada!)
-Kalashnikov! (San lamé!)4Embed"
+Kalashnikov! (San lamé!)4Embed",Kalash
 Kévin Valleray,Mulla,"4 ContributorsMulla Lyrics[Intro]
 AKM, Ken
 Nou swèf, pa demi sèk
@@ -6099,7 +6099,7 @@ Anlè tab la nou ja klaké on pèy
 On sèl vi nou ni, fo profité dèy
 [Outro]
 Mulla mulla mulla mulla mulla mulla mulla...
-Hin-hinEmbed"
+Hin-hinEmbed",Kalash
 Kévin Valleray,Mwaka Moon,"110 ContributorsTranslationsFrançaisEnglishMwaka Moon Lyrics[Paroles de ""Mwaka Moon"" ft. Damso]
 
 [Intro : Kalash]
@@ -6186,7 +6186,7 @@ J'bois encore et encore, histoire d'oublier mes torts
 Sur une bête de beat de Pyroman sous les feux de la rampe, je me brûle les ailes
 Oooh
 Aaaaaah, Mwaka Moon
-I'm fucking out, aah47Embed"
+I'm fucking out, aah47Embed",Kalash
 Kévin Valleray,Mwaka Moon (Felckin Remix),"4 ContributorsMwaka Moon (Felckin Remix) Lyrics[Couplet 1 : Kalash]
 Allô la Terre, ici, y'a pas d'eau
 Chelou comme un son de franc-maçon
@@ -6280,7 +6280,7 @@ Dans ces cas là je veux que tu médises
 Et puis que tu me dises j'aurais pas dû naître
 J'pars dans le Mississippi, là où personne sait qui j'suis
 J'suis damé, j'suis rôti
-Dent d'or dans–Embed"
+Dent d'or dans–Embed",Kalash
 Kévin Valleray,Mwaka Moon (Luciano Remix),"20 ContributorsMwaka Moon (Luciano Remix) Lyrics[Songtext zu „Mwaka Moon (Remix)“ ft. Luciano]
 
 [Intro: Kalash & Pyroman]
@@ -6337,7 +6337,7 @@ Une bouffée d'oxygène dans la kush (Yaw-yaw-yaw)
 Dans le vide je respire à peine, le succès m'a donné des ailes
 La même bitch qui me tournait le dos m'a en photo dans l'appareil
 Bientôt riche
-Quand Mwaka Moon aura fait mouche5Embed"
+Quand Mwaka Moon aura fait mouche5Embed",Kalash
 Kévin Valleray,Mwaka Moon (Sfera Ebbasta Remix),"24 ContributorsMwaka Moon (Sfera Ebbasta Remix) Lyrics[Intro: Sfera Ebbasta and Kalash]
 Uh, yah, yah, yah
 Kalash!
@@ -6426,7 +6426,7 @@ J'bois encore et encore, histoire d'oublier mes torts
 Sur une bête de beat de Pyroman sous les feux de la rampe, je me brûle les ailes
 Oooh
 Aaaaaah, Mwaka Moon
-I'm fucking out, aah4Embed"
+I'm fucking out, aah4Embed",Kalash
 Kévin Valleray,Mwaka Story,"16 ContributorsMwaka Story Lyrics[Couplet 1]
 Man ja menen vié vi dé vi ke wou pa konnèt
 Manti baw sa té key tro malonèt
@@ -6497,7 +6497,7 @@ La ri piège ka few kwè ké ou ka brillé, ké ou ka brillé
 Lari sal lari vlé lari mové
 Lari tris' lari plein diab' ka tounin
 Lari sal lari aah
-Forgress5Embed"
+Forgress5Embed",Kalash
 Kévin Valleray,My Life,"7 ContributorsMy Life Lyrics[Paroles de ""My Life"" ft. Ngofo Family & Mavado]
 
 [Intro: Mavado]
@@ -6560,7 +6560,7 @@ Laisse le ciel s'occuper d'ceux qui n'ont pas compris
 Toute ma life serait si belle
 Si je n'faisais pas confiance à l'ennemi
 Toute la life serait plus belle
-Laisse le ciel s'occuper d'ceux qui n'ont pas comprisEmbed"
+Laisse le ciel s'occuper d'ceux qui n'ont pas comprisEmbed",Kalash
 Kévin Valleray,My Son,"5 ContributorsMy Son Lyrics[Intro]
 Général Crew
 Oooooh
@@ -6621,7 +6621,7 @@ Priyé ba'w tou lé jou, yo pé pa touché'w, ah no, no
 Everywhere I go, everywhere I go
 An ka sonjé'w pou'w ba mwen foss
 Everywhere I go, everywhere I go
-Ooooooh1Embed"
+Ooooooh1Embed",Kalash
 Kévin Valleray,Neo,"14 ContributorsNeo Lyrics
 
 [Intro]
@@ -6696,7 +6696,7 @@ Mal orienté devenu grand dans cette société
 
 [Outro]
 Hin hin hiiiiiiiiiin
-Straight3Embed"
+Straight3Embed",Kalash
 Kévin Valleray,Nobody,"3 ContributorsNobody Lyrics[Paroles de ""Nobody"" de Kalash]
 
 [Intro]
@@ -6761,7 +6761,7 @@ Fly to the Moon, [?]
 Fly to the Moon, [?]
 Fly to the Moon
 Ouiii, Shaz y
-AaahhhEmbed"
+AaahhhEmbed",Kalash
 Kévin Valleray,No Roof,"10 ContributorsNo Roof Lyrics[Intro : Kalash]
 Hey Rvssian
 Sans passeport sans visa
@@ -6856,7 +6856,7 @@ An ni gou, sa an vé, sé vou
 Pas' an trou sé pa an trou, baby
 [Outro : Vybz Kartel & Kalash]
 No roof yeah, kimbé'w an ba Mwaka Moon
-Tomorrow we go in the room, you pussy say good afternoon1Embed"
+Tomorrow we go in the room, you pussy say good afternoon1Embed",Kalash
 Kévin Valleray,Nossa,"7 ContributorsNossa Lyrics[Intro : Dadju & Kalash]
 Nossa, nossa, nossa eh
 Ohw ay
@@ -6923,7 +6923,7 @@ Nossa nossa
 
 [Outro : Kalash]
 Na-na na, na-na, na-na na, naah na
-Na-na na, na-na, na-na na, naah naEmbed"
+Na-na na, na-na, na-na na, naah naEmbed",Kalash
 Kévin Valleray,N.W.A.,"27 ContributorsN.W.A. Lyrics[Intro : Booba]
 General Crew, 92i
 
@@ -6997,7 +6997,7 @@ Ouh-ouh ouh-ouh, yen ki fé yo mal
 Ouh-ouh ouh-ouh
 
 [Outro : Kalash]
-Hin-Hin... Straight !You might also like5Embed"
+Hin-Hin... Straight !You might also like5Embed",Kalash
 Kévin Valleray,Ochan,"7 ContributorsOchan Lyrics[Intro]
 Pyro, Pyro
 Planète sale, nou kay pli wo, Pyro
@@ -7071,7 +7071,7 @@ Nou pa ochan ochan, ici'a nou pa ochan ochan
 Ici'a nou pa ochan ochan
 Pa vin'n palé de trap, si ou pa ka fè chif, ici'a nou pa...
 Nou sé real, nou pa fake !
-I'm out5Embed"
+I'm out5Embed",Kalash
 Kévin Valleray,Oh Oh Oh,"7 ContributorsOh Oh Oh Lyrics[Paroles de ""Oh Oh Oh""]
 
 [Couplet 1]
@@ -7127,7 +7127,7 @@ Oublie d'courir après les-è déchireurs d'hymen
 Un porc est un porc
 Une poucave est une poucave
 Pas d'circonstances atténuantes
-A chacun son sens dans la penteEmbed"
+A chacun son sens dans la penteEmbed",Kalash
 Kévin Valleray,Ouh Baby,"7 ContributorsOuh Baby Lyrics[Paroles de ""Ouh Baby"" ft. Fanny J]
 
 [Intro : Kalash]
@@ -7190,7 +7190,7 @@ Ah, ah, ah, ah
 Ouh, baby, yeah
 Ah, ah, yeah, yeah
 Ouh baby yeah
-Ah, ah, ah, ahEmbed"
+Ah, ah, ah, ahEmbed",Kalash
 Kévin Valleray,Oula,"3 ContributorsOula Lyrics[Intro]
 Gangsta
 
@@ -7236,7 +7236,7 @@ Oula, oulé, oula, oulé
 Oula, doucement doucement doucement doucement
 Oulé, doucement doucement doucement doucement
 Oula baby hé vas y doucement
-Oulé1Embed"
+Oulé1Embed",Kalash
 Kévin Valleray,Piedestal,"1 ContributorPiedestal Lyrics[Intro]
 ...
 
@@ -7268,7 +7268,7 @@ You might also like[Refrain]×2
 
 [Outro]
 [?]
-Kalashnikov!!Embed"
+Kalashnikov!!Embed",Kalash
 Kévin Valleray,Pirate,"5 ContributorsPirate Lyrics[Couplet 1]
 Tu m'as dit que tu me tuerais, si je tombais sur tes draps
 A part Dieu, je ne crois que ce que je vois
@@ -7313,7 +7313,7 @@ Je t'emmène
 Ça m'obsède baby, mille et une nuits ne passent
 Sans que je rêve de ce sensuel face à face
 Oh oui, oh oui, oh oui, oh oui, oh baby
-Je t'emmèneYou might also like1Embed"
+Je t'emmèneYou might also like1Embed",Kalash
 Kévin Valleray,Plastik,"4 ContributorsPlastik Lyrics[Intro]
 Talk dem a talk, real djol
 Yo ka bat pon dem, deh a dem a talk pon dem
@@ -7402,7 +7402,7 @@ Full plastik, full... Yeah
 Haha...
 Gal..
 Gal.. Gal... General
-GuillermoEmbed"
+GuillermoEmbed",Kalash
 Kévin Valleray,Plézi,"7 ContributorsPlézi Lyrics[Intro]
 Hé gyal, tonight fo ou fè'an plézi
 Hmm, Général Crew
@@ -7471,7 +7471,7 @@ Lady
 Ah, ah
 Yeah !
 Général crew
-Yeah1Embed"
+Yeah1Embed",Kalash
 Kévin Valleray,Plus de love,"10 ContributorsPlus de love Lyrics[Intro : Kalash]
 Plus de love (bley)
 Plus de love (ayin pas chanjé)
@@ -7569,7 +7569,7 @@ Ma liberté dans les mains d'une personne qui ne m'a pas connu
 Oui
 Yah, yah
 Sparta (bley, bley)
-Kalash NikovEmbed"
+Kalash NikovEmbed",Kalash
 Kévin Valleray,Plus de Love (FR),"2 ContributorsPlus de Love (FR) Lyrics[Kalash]
 Plus de love (Plek)
 Plus de love (Ayin pas chanjé)
@@ -7670,7 +7670,7 @@ Ma liberté dans les mains d'une personne qui ne m'a pas connu
 Ouiiiiii
 Yah yah
 Sparta (Plek Plek)
-Kalash NikovEmbed"
+Kalash NikovEmbed",Kalash
 Kévin Valleray,Plus haut,"2 ContributorsPlus haut Lyrics[Refrain]
 Jusqu'à la fin de la guerre
 Les ratpis tiendront la capitale, sans préfet
@@ -7711,7 +7711,7 @@ Plus haut (oh oh oh oh)
 J'partirai finir mes jours là-bas (ah ah ah)
 J'finis pas tuba (ah ah ah ah ah)
 
-[...]Embed"
+[...]Embed",Kalash
 Kévin Valleray,Polémique,"25 ContributorsPolémique Lyrics[Intro : Kalash]
 Liberté, égalité, fraterni-
 Ah (oh)
@@ -7785,7 +7785,7 @@ Ils veulent me faire craquer, que c’est comique
 Ici, y a rien de touristique (bang)
 Le prix du billet, c’est un SMIC (mama)
 Armes de guerre, gros brolique
-Y a plus de balles que d’eau en Afrique1Embed"
+Y a plus de balles que d’eau en Afrique1Embed",Kalash
 Kévin Valleray,Politichien,"1 ContributorPolitichien Lyrics[Intro]
 ...
 
@@ -7811,7 +7811,7 @@ Kévin Valleray,Politichien,"1 ContributorPolitichien Lyrics[Intro]
 ...
 
 [Outro]
-...You might also likeEmbed"
+...You might also likeEmbed",Kalash
 Kévin Valleray,Praising,"8 ContributorsPraising Lyrics[Paroles de ""Praising""]
 
 [Intro]
@@ -7863,7 +7863,7 @@ Let dem know we are di real ting closest to di highest, for me
 Everywhere a go [?] the prayers is the hardest, for me
 Real love don't make dem care for me
 Mi say mi love you and mi empty
-Mi love you but you don't feel meEmbed"
+Mi love you but you don't feel meEmbed",Kalash
 Kévin Valleray,Praliné,"35 ContributorsPraliné Lyrics[Paroles de ""Praliné"" ft. Damso]
 
 [Intro : Kalash]
@@ -7932,7 +7932,7 @@ Michto lova, lova m'aime de toute ma moula
 [Outro : Kalash]
 Please don't make me lose my time (Alone, alone)
 Make me lose my time
-Oh, oh, ohEmbed"
+Oh, oh, ohEmbed",Kalash
 Kévin Valleray,Pran pié,"4 ContributorsPran pié Lyrics[Intro : Kalash & Lieutenant]
 Badman boum, poum, boom, poum, boom, poum, tell dem c'est boom
 Badman boom, kaboom, boom, kaboom, boom, kaboom, boom
@@ -8031,7 +8031,7 @@ Kalashnikov han han
 Lieutenant
 Boom boom boom bomm
 DJ Blue
-Han HanEmbed"
+Han HanEmbed",Kalash
 Kévin Valleray,Pree Me,"7 ContributorsPree Me Lyrics[Intro]
 Yo pé frennen nom'la mé yo pé pa frennen pawol'la
 OK, music !
@@ -8109,7 +8109,7 @@ The system a pree me, don't cry mama
 Yo pé frennen nom'la mé yo pa ka frennen pawol'la, aah
 System
 Général, ahah
-See you soonEmbed"
+See you soonEmbed",Kalash
 Kévin Valleray,Protocole - A Colors Show,"5 ContributorsTranslationsEnglishEnglishProtocole - A Colors Show Lyrics[Paroles de ""Protocole - A Colors Show""]
 
 [Intro]
@@ -8195,7 +8195,7 @@ Pa ped tan’w epi bwet  djindjin
 Misyé’a di i ni on nouvo tchok (han han han han)
 Mwen ni on nouvo Glock (han han han han)
 Annou pran’y cool mon pote (han han han han)
-Make money, fuck gyal, protocoleEmbed"
+Make money, fuck gyal, protocoleEmbed",Kalash
 Kévin Valleray,Punani impérial,"9 ContributorsPunani impérial Lyrics[Paroles de ""Punani impérial "" ft. Prince Swanny]
 
 [Partie 1]
@@ -8288,7 +8288,7 @@ Everyday you know, me dawg strap with the damn pan drum
 Me no business, she want a G in a she life
 Oh my girl, the riddim just done
 But me might take you around the world fi fun
-Ten point, me do it right nowEmbed"
+Ten point, me do it right nowEmbed",Kalash
 Kévin Valleray,Pyramide,"9 ContributorsPyramide Lyrics[Produit par Twinsmatic]
 
 [Couplet 1]
@@ -8334,7 +8334,7 @@ Tapis volant, king size, jambes en l'air
 Hin hin
 Nous deux c'est pas amical, amical, amical, amical
 Amoureux sauvage comme un animal, animal, animal, animal
-Je te fais voler, sensations pyramidales-ramidales-ramidales-ramidalesYou might also like1Embed"
+Je te fais voler, sensations pyramidales-ramidales-ramidales-ramidalesYou might also like1Embed",Kalash
 Kévin Valleray,Qwer,"10 ContributorsQwer Lyrics[Paroles de ""Qwer"" ft. Gazo]
 
 [Intro : Gazo & Kalash]
@@ -8414,7 +8414,7 @@ Ice, j'suis entouré, c'est la fête (Hey)
 Yen ki dé, yen ki dé tops modèl (Ouais, ouais, ouais, ouais)
 J'suis entouré, c'est la fête
 Yen ki dé, yen ki dé gwo modèl (Ouais, ouais, ouais, ouais)
-Yen ki dé, yen ki dé gwo modèl2Embed"
+Yen ki dé, yen ki dé gwo modèl2Embed",Kalash
 Kévin Valleray,Real G (D.A.W.G Riddim),"2 ContributorsReal G (D.A.W.G Riddim) Lyrics[Intro]
 Yo
 Yo Bryan, ah who a run di place fi real
@@ -8429,7 +8429,7 @@ Real G pa ni pratik sadik, bullit [?] automatik
 Panik, padig, chyen épi modan tan pa sympatik
 Action nou ka action, [?] pé pa bat fanm, bomboclat
 Ah who a run di place (Mwaka mwaka)
-Who a run di place (Mwaka mwaka)You might also likeEmbed"
+Who a run di place (Mwaka mwaka)You might also likeEmbed",Kalash
 Kévin Valleray,Red Net,"4 ContributorsRed Net Lyrics[Intro]
 Pyroman
 Kalashnikov !
@@ -8543,7 +8543,7 @@ Nou ka toufé nou ka pwan fè
 Yo ka chifré yo ka kofré
 Ti moun a yo byen tan nou ka mò fen sé lanfè
 Pèp la bizwen lidè
-Pa ni limyè1Embed"
+Pa ni limyè1Embed",Kalash
 Kévin Valleray,Respect (B Vybz Riddim),"2 ContributorsRespect (B Vybz Riddim) Lyrics[Intro]
 Yo Bryan, joué vybz la ba mwen
 Yo Gif, ?
@@ -8617,7 +8617,7 @@ Oh lord, oh lord, oh lord
 Pou mo respect mo pa bizwen gang
 An ka an ni manjé yo tout ansanm
 Mé non badman pa ka tchoué pou fanm
-A pa pou ayin man ka boss up tunes boss up tout'Embed"
+A pa pou ayin man ka boss up tunes boss up tout'Embed",Kalash
 Kévin Valleray,Rolex Freestyle,"4 ContributorsRolex Freestyle Lyrics[Paroles de ""Rolex Freestyle""]
 
 [Intro]
@@ -8653,7 +8653,7 @@ En vrai de vrai (Qu'est-ce que c'était frais)
 J'cours après l'oseille, j'ai rien de mieux à faire
 Les enfants sont si loin, maint'nant j'comprends mon père
 Ma douleur est si forte que j'en emplis les autres
-J'suis un vrai thug dans un milieu plein de fiottesYou might also likeEmbed"
+J'suis un vrai thug dans un milieu plein de fiottesYou might also likeEmbed",Kalash
 Kévin Valleray,Rouge et bleu,"87 ContributorsTranslationsEnglishRouge et bleu Lyrics[Refrain : Booba]
 J'en ai vu de toutes les couleurs
 Surtout des rouges et des bleues #gyropharelove
@@ -8743,7 +8743,7 @@ Mada, General
 Rouge et bleu
 Rouge et bleu
 Shawn ! (ah !)
-Ouloulou7Embed"
+Ouloulou7Embed",Kalash
 Kévin Valleray,Sacrifice,"5 ContributorsSacrifice Lyrics[Paroles de ""Sacrifice""]
 
 [Intro]
@@ -8789,7 +8789,7 @@ Une vie
 Ainsi soit mon châtiment
 Sacrifice
 Sacrifice
-SacrificeEmbed"
+SacrificeEmbed",Kalash
 Kévin Valleray,Salam (Intro),"13 ContributorsSalam (Intro) Lyrics[Couplet 1]
 Salam alikoum mais qui êtes-vous pour juger le prix de ce que je porte au cou ?
 Vous portez l’œil, moi, j'porte mes couilles, lunettes noires, j'fais la gueule à la Anna Wintour
@@ -8837,14 +8837,14 @@ Everyday everywhere
 Man a hustler from longtime
 Man a hustler from longtime
 Hustler Everyday
-Man a hustler from longtimeEmbed"
+Man a hustler from longtimeEmbed",Kalash
 Kévin Valleray,Sexy Chill (Don Shorty Remix),"2 ContributorsSexy Chill (Don Shorty Remix) LyricsDi mwen si ou lé voyager lady
 Toute lit mette amizer
 Baby ou envie an an aimer
 Chant la ou derterminer
 Baby ou en chill
 Yeaaaaaah!! yeah!!! sexy chill!!! yeah!!!
-Baby an nou fait lamour si an morceau glaceYou might also likeEmbed"
+Baby an nou fait lamour si an morceau glaceYou might also likeEmbed",Kalash
 Kévin Valleray,Silencieux,"5 ContributorsSilencieux Lyrics[Paroles de ""Silencieux""]
 
 [Intro: tag & Zaho]
@@ -8899,7 +8899,7 @@ Que j't'aimerais toute ma vie
 T'aimerais que j'te promette
 Ce que je ne sais pas
 T'aimerais que j'te suive, à jamais sans faire de bruit
-Et que je comprenne tout ceci, sans que tu le disesEmbed"
+Et que je comprenne tout ceci, sans que tu le disesEmbed",Kalash
 Kévin Valleray,Sirène,"11 ContributorsSirène Lyrics[Intro]
 Rappelle-moi, faut qu'on parle maintenant
 J'tourne en rond, j'peux plus attendre
@@ -8928,7 +8928,7 @@ Mais je n'ai plus le time
 Je dois te laisser aller, je suis un salaud
 Je ne pourrais t'amener là où tu veux qu'on aille
 Je dois te laisser aller, je suis un salaud
-On est condamnéEmbed"
+On est condamnéEmbed",Kalash
 Kévin Valleray,Snitch,"16 ContributorsSnitch Lyrics[Intro : Kalash]
 Double X on the track, bitch!
 Je ne sais rien du tout
@@ -8993,7 +8993,7 @@ Mieux vaut être enfermé dans un local, qu'avoir les couilles découpées dans 
 Vivre tourmenté ça le vaut pas, garde ton calme, annote vocal, hein
 [Outro : Kalash]
 Reste loyal
-Aucune pitié pour toi poucave4Embed"
+Aucune pitié pour toi poucave4Embed",Kalash
 Kévin Valleray,SO COMAN,"6 ContributorsSO COMAN Lyrics[Intro]
 Yo
 Bad gyal, bad boy
@@ -9063,7 +9063,7 @@ Amigo dem fi know
 2024 nou pa'a débat épi bomboclat
 One shot, don't talk
 Han, Mikado riddim bad you know
-I'm outEmbed"
+I'm outEmbed",Kalash
 Kévin Valleray,Sound System,"10 ContributorsSound System Lyrics[Couplet 1 : Kalash]
 Give some Hennessy, j'm'arrache en sound système
 Je sens qu'se soir c'est la bonne!
@@ -9151,7 +9151,7 @@ Le sound system c'est pas un truc d’égoïste
 Woyo, woyo-yo-yo
 Woyo, wo-lolo-yo-yo yagayo
 Woyo, woyo-yo-yo
-Woyo, wo-lolo-yo-yo yagayoEmbed"
+Woyo, wo-lolo-yo-yo yagayoEmbed",Kalash
 Kévin Valleray,System,"6 ContributorsSystem Lyrics[Intro]
 Ouh ouh éh
 Ouh ouh
@@ -9211,7 +9211,7 @@ Je prend le large pour calmer ma haine et le ciel me réconforte (Nah no mercy)
 Quand viens le mal je m'éloigne de la Seine, seul au monde je me rendors (yeah)
 La lune est douce, je n'ai plus de remords
 Je donnerais tous pour effacer le sort
-On prend le large et le time est compté mais il faut qu'on s'en sorte1Embed"
+On prend le large et le time est compté mais il faut qu'on s'en sorte1Embed",Kalash
 Kévin Valleray,Taken,"26 ContributorsTaken Lyrics[Couplet 1]
 (Allô?)
 Hey baby allo, j'espère que j'vous dérange
@@ -9279,7 +9279,7 @@ J'lui niquerai sa race, oh, j'lui niquerai sa race
 Baby, j'suis tellement désolé
 Insulte-moi en face, rien qu'une fois en face
 Putain, j'ai la rage, t'a-t-il déjà giflé?
-J'lui niquerai sa race, oh, j'lui niquerai sa race4Embed"
+J'lui niquerai sa race, oh, j'lui niquerai sa race4Embed",Kalash
 Kévin Valleray,Tennessee,"5 ContributorsTennessee Lyrics[Paroles de ""Tennessee"" ft. Ninho]
 
 [Intro : Kalash & Ninho]
@@ -9351,7 +9351,7 @@ Trop d'Hennessy
 Vers le Tennessee, oui
 Mwaka boss
 Jefe
-Binks, eh, c'est lourd, c'est lourdEmbed"
+Binks, eh, c'est lourd, c'est lourdEmbed",Kalash
 Kévin Valleray,Tombolo,"11 ContributorsTombolo Lyrics[Paroles de ""Tombolo""]
 
 [Couplet 1]
@@ -9413,7 +9413,7 @@ An gwo lanmè
 [Outro]
 Kon zétwal adan syel an mwen
 Kon zétwal adan syel la
-Kon zétwal adan syel an mwenEmbed"
+Kon zétwal adan syel an mwenEmbed",Kalash
 Kévin Valleray,Top à top,"4 ContributorsTop à top Lyrics[Intro]
 Baby gyal, Heyyyy ouuuuuuuhh
 
@@ -9497,7 +9497,7 @@ U R di top à top, lady
 Kalashnikov!!
 Baby Girl Ouh Ouh UOUh
 Ahhh pow pow powwww
-Greeeeh Ka BOoM!!!2Embed"
+Greeeeh Ka BOoM!!!2Embed",Kalash
 Kévin Valleray,Toujou la,"5 ContributorsToujou la Lyrics[Intro]
 You know you are the best for me
 No me no need another wife pon me
@@ -9560,7 +9560,7 @@ Mwen pa bizin pliss lanné
 Pliss tan pou komprann
 Malgré tou sa ki ja passé
 Tempètt é miraj, ou toujou la
-Tempètt é niaj, ou toujou la1Embed"
+Tempètt é niaj, ou toujou la1Embed",Kalash
 Kévin Valleray,Traka,"7 ContributorsTraka Lyrics[Sample : Booba]
 Je repense à mon clan
 Destin de vie, le déclin, je pense qu'à gruger
@@ -9637,7 +9637,7 @@ Je leur mets la hagra
 
 [Outro]
 Ma vie est sale et saccadée
-Je leur met la hagra (Free up, free up)Embed"
+Je leur met la hagra (Free up, free up)Embed",Kalash
 Kévin Valleray,Trèt,"5 ContributorsTrèt Lyrics[Intro: Marcé]
 Pwéféré ou ni afè èpi enemi
 Pa èpi on trèt, ki ka decalé'w
@@ -9695,8 +9695,8 @@ Kriyé ""Judas"" ([i]Judas[/i]), kriyé ""Judas"" ([i]Judas[/i])
 Kriyé ""Judas"" ([i]Judas[/i]), kriyé ""Judas"" ([i]Judas[/i])
 
 [Pont 2: Kalash]
-Pwéféré ou ni...1Embed"
-Kévin Valleray,Tribute,2 ContributorsTribute Lyrics...You might also likeEmbed
+Pwéféré ou ni...1Embed",Kalash
+Kévin Valleray,Tribute,2 ContributorsTribute Lyrics...You might also likeEmbed,Kalash
 Kévin Valleray,Troll,"10 ContributorsTroll Lyrics[Paroles de ""Troll""]
 
 [Intro]
@@ -9756,7 +9756,7 @@ On s'en fout (On s'en fout), s'en fout (S'en fout)
 [Outro]
 Dès le premier jour (Dès le premier jour), oh, oh, tu doutes de mon amour
 Déjà bandé mou ? Ai-je déjà bandé mou ?
-HanEmbed"
+HanEmbed",Kalash
 Kévin Valleray,Tu le sais,"7 ContributorsTu le sais Lyrics[Paroles de ""Tu le sais"" ft. Gazo]
 
 [Intro : Gazo]
@@ -9817,7 +9817,7 @@ La moula t'a fait oublier, tu n'penses qu'à la money
 [Outro : Kalash]
 J'ai compris qu't'aimes le hip-hop que pour les vues sur TikTok
 Tu fais genre, tu craches sur le bloc
-Mais tu kiffes c'que ça rapporte2Embed"
+Mais tu kiffes c'que ça rapporte2Embed",Kalash
 Kévin Valleray,U R my everything,"3 ContributorsU R my everything Lyrics[Intro]
 An han han han an
 An han han han an
@@ -9903,7 +9903,7 @@ Anhhh han
 Anhhh han
 Anhhh han
 Ey ey
-WouhouEmbed"
+WouhouEmbed",Kalash
 Kévin Valleray,Van noir,"9 ContributorsVan noir Lyrics[Paroles de ""Van noir"" ft. Hamza]
 
 [Intro : Kalash]
@@ -9965,8 +9965,8 @@ Et j'fais la une, ue-r
 Mwaka, roulé pure, cure
 Posé sans rancune, fume
 T'es chaud, t'as pas d'feu, t'es en ch-
-Qui t'a-Embed"
-Kévin Valleray,VEX,2 ContributorsVEX LyricsLyricsYou might also likeEmbed
+Qui t'a-Embed",Kalash
+Kévin Valleray,VEX,2 ContributorsVEX LyricsLyricsYou might also likeEmbed,Kalash
 Kévin Valleray,VIP (Radio Release),"5 ContributorsVIP (Radio Release) Lyrics[Paroles de ""VIP (Radio Release)"" ft. Aya Nakamura]
 
 [Intro: Aya Nakamura]
@@ -10036,7 +10036,7 @@ Mwen anvi koké kité-mwen, lambi-a
 Vinn vwè-mwen pou nou, la vi-a
 Mwen anvi koké kité-mwen, lambi-a
 (Mmh-mh-mmh)
-(Mmh mh-mmh)Embed"
+(Mmh mh-mmh)Embed",Kalash
 Kévin Valleray,Weed,"1 ContributorWeed Lyrics[Intro : Kalash & Azrock]
 ...
 
@@ -10062,7 +10062,7 @@ Kévin Valleray,Weed,"1 ContributorWeed Lyrics[Intro : Kalash & Azrock]
 ...
 
 [Refrain : Kalash & Azrock]
-...You might also likeEmbed"
+...You might also likeEmbed",Kalash
 Kévin Valleray,Weed (Outro),"5 ContributorsWeed (Outro) Lyrics[Paroles de ""Weed (Outro)""]
 
 [Refrain]
@@ -10100,7 +10100,7 @@ C'n'est pas d'la drogue, c'est de la weed
 Sous l'effet
 J'suis sous l'effet
 J'suis sous l'effet d'Marie
-Sous l'effetEmbed"
+Sous l'effetEmbed",Kalash
 Kévin Valleray,Why,"10 ContributorsWhy Lyrics[Intro: Kalash]
 Stephen
 Supa Dups
@@ -10164,7 +10164,7 @@ Everybody cry and cry
 Everybody cry
 Everybody cry and cry
 Everybody cry
-Everybody cry and cryEmbed"
+Everybody cry and cryEmbed",Kalash
 Kévin Valleray,Willie Lynch,"8 ContributorsWillie Lynch Lyrics""On a tout ce qu’on mérite""
 M’faire fouetter en 2018, j’évite
 Aucune condition
@@ -10224,7 +10224,7 @@ Aucune condition
 Django, Django, a si bien tué Samuel
 
 Black and Rich
-Fuck William Lynch2Embed"
+Fuck William Lynch2Embed",Kalash
 Kévin Valleray,Yen a vla,"10 ContributorsYen a vla Lyrics[Intro]
 K.L.H
 Chez nous pas de lâches
@@ -10279,4 +10279,4 @@ Repose-toi papa s'en charge, t'en fais pas
 Les portes fermées, faire du sale va de soi
 À grands coups de pied, j'fais une place, croyez-moi
 Les torts causés font du mal chaque soir
-Repose-toi papa s'en charge, t'en fais pas2Embed"
+Repose-toi papa s'en charge, t'en fais pas2Embed",Kalash
