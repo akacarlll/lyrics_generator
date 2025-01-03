@@ -23,7 +23,7 @@ def add_release_year_column(df):
     """
 
     # Authentification avec Spotify
-    sp = Spotify(client_credentials_manager=SpotifyClientCredentials(client_id="c14b20ba16e147ffb6af73cc595b861a", client_secret='5c32bb0df3264e8ba010c00a43b706e0'))
+    sp = Spotify(client_credentials_manager=SpotifyClientCredentials(client_id=CLIENT_ID, client_secret=CLIENT_SECRET))
 
     # Liste pour stocker les années de sortie
     release_years = []
