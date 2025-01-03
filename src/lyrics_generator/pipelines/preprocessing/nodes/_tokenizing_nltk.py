@@ -1,5 +1,3 @@
-# src/<your_project>/nodes/tokenization.py
-
 import nltk
 from nltk.tokenize import word_tokenize
 import pandas as pd
@@ -18,8 +16,6 @@ def tokenize_nltk(df: pd.DataFrame) -> pd.DataFrame:
     - DataFrame avec une nouvelle colonne contenant les tokens.
     """
     df = df.dropna()
-    nltk.download('punkt')
-    nltk.download('punkt_tab')
     
     if "Lyrics" not in df.columns:
         raise ValueError("La colonne 'Lyrics' est manquante dans la DataFrame.")

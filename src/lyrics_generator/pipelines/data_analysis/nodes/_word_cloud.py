@@ -25,14 +25,10 @@ def clean_text(text):
     """
     # Convertir en minuscules
     text = text.lower()
-    
-    # Remplacer les caractères spéciaux par des espaces
-    # text = re.sub(r'[^\w\s]', ' ', text)
-    # Remplacer les chiffres par des espaces
-    # text = re.sub(r'\d+', ' ', text)
+
     # Remplacer les espaces multiples par un seul espace
-    
     text = re.sub(r'\s+', ' ', text)
+    
     return text.strip()
 
 def create_wordcloud(df):
@@ -46,15 +42,13 @@ def create_wordcloud(df):
     - save_path : Chemin où sauvegarder le nuage de mots généré.
     """
     # Filtrer la DataFrame pour l'artiste spécifié
-    # artist_lyrics = df[df['Artist'].str.lower() == artist_name.lower()]['Lyrics']
     artist_lyrics = df["Lyrics"]
-    
-    # Limiter à 'num_songs' chansons si spécifié
-    
+
     # Combiner toutes les paroles en une seule chaîne de texte et nettoyer
     artist_lyrics = artist_lyrics.dropna().astype(str)
     combined_lyrics = ' '.join(artist_lyrics)
     cleaned_lyrics = clean_text(combined_lyrics)
+    
     # Créer une liste de mots en excluant les stop words
     word_list = []
     

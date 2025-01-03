@@ -3,26 +3,38 @@ from transformers import GPT2Tokenizer
 
 def tokenize_gpt2(df: pd.DataFrame) -> pd.DataFrame:
     """
-    Tokenise les paroles dans une DataFrame et ajoute une nouvelle colonne avec les tokens.
+    Tokenizes lyrics for GPT-2 fine-tuning and adds columns for input IDs and attention masks.
 
-    Paramètre:
-    - df (DataFrame) : La DataFrame contenant la colonne 'Lyrics' à tokeniser.
+    Parameters:
+    - df (pd.DataFrame): The DataFrame containing the 'Lyrics' column to tokenize.
 
-    Retourne:
-    - DataFrame avec une nouvelle colonne 'tokens' contenant les textes tokenisés.
+    Returns:
+    - pd.DataFrame: The DataFrame with added columns 'input_ids' and 'attention_mask'.
     """
-    df = df.dropna()
-    # Vérifier si la colonne 'Lyrics' existe dans la DataFrame
+    # Drop rows with missing 'Lyrics'
+    df = df.dropna(subset=["Lyrics"])
+    
+    # Ensure 'Lyrics' column exists
     if 'Lyrics' not in df.columns:
-        raise ValueError("La DataFrame doit contenir une colonne 'Lyrics'.")
-
-    # Charger le tokenizer GPT2
+        raise ValueError("The DataFrame must contain a 'Lyrics' column.")
+    
+    # Load GPT-2 tokenizer
     tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
     
-    # Définir le token de padding comme étant le token de fin de phrase (eos_token)
+    # Set padding token to EOS token
     tokenizer.pad_token = tokenizer.eos_token
-
-    # Tokeniser les paroles et ajouter la nouvelle colonne 'tokens'
-    df['tokens_gpt2'] = df['Lyrics'].apply(lambda x: tokenizer(x, return_tensors="pt", truncation=True, padding=True))
-
+    
+    # Batch tokenize lyrics
+    tokenized = tokenizer.batch_encode_plus(
+        df['Lyrics'].tolist(),
+        max_length= 512,
+        padding="max_length",
+        truncation=True,
+        return_tensors="pt"
+    )
+    
+    # Add tokenized data to the DataFrame
+    df['input_ids'] = tokenized['input_ids'].tolist()
+    df['attention_mask'] = tokenized['attention_mask'].tolist()
+    
     return df

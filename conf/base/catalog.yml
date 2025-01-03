@@ -14,7 +14,7 @@ _csv: &csv
     index: False
 
 "_{dataset_name}#xlsx":
-  type: pandas.ExcelDataset
+  type: pandas.CSVDataset
   filepath: C:/Users/carlf/Documents/GitHub/lyrics_generator/data/03_advanced/_{dataset_name}.xlsx  
   save_args:
     index: False
