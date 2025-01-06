@@ -24,7 +24,7 @@ def add_genre_column(df: pd.DataFrame) -> pd.DataFrame:
     - La DataFrame avec une nouvelle colonne 'Genre'.
     """
     # Authentification avec Spotify
-    sp = Spotify(client_credentials_manager=SpotifyClientCredentials(client_id="c14b20ba16e147ffb6af73cc595b861a", client_secret='5c32bb0df3264e8ba010c00a43b706e0'))
+    sp = Spotify(client_credentials_manager=SpotifyClientCredentials(client_id=CLIENT_ID, client_secret=CLIENT_SECRET))
     
     # Extraire les noms uniques d'artistes
     unique_artists = df['Artist'].unique()
