@@ -12,13 +12,10 @@ def get_file_names(folder_path):
             # Ignorer les fichiers commençant par ".git"
             if file_name.startswith(".git"):
                 continue
-            # Supprime l'extension .csv si elle est présente
             if file_name.endswith(".xlsx"):
                 file_name = file_name[:-5]  # Retire les 4 derniers caractères (".xlsx")
-            # Remplace les espaces par des underscores
-            # file_name = file_name.replace(" ", "_")
-            # file_name = file_name.replace("'", "")
-            # Ajoute le nom de fichier transformé à la liste
+            if file_name.startswith("_"):
+                file_name = file_name[1:]
             file_names.append(file_name)
     
     return file_names

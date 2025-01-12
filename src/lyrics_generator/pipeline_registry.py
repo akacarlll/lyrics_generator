@@ -10,20 +10,6 @@ from  lyrics_generator.pipelines.add_features.pipeline import create_pipeline2
 from  lyrics_generator.pipelines.data_analysis.pipeline import create_pipeline3
 from  lyrics_generator.pipelines.concatenate.pipeline import create_pipeline4
 
-  # Importer create_pipeline
-# from .pipelines import data_cleaning as dc_pipeline
-
-
-# def register_pipelines() -> Dict[str, Pipeline]:
-#     """Register the project's pipelines.
-
-#     Returns:
-#         A mapping from pipeline names to ``Pipeline`` objects.
-#     """
-#     pipelines = find_pipelines()
-#     pipelines["__default__"] = sum(pipelines.values())
-#     return pipelines
-
 def register_pipelines() -> Dict[str, Pipeline]:
     """
     Register the project's pipelines by combining multiple pipelines.
@@ -35,12 +21,12 @@ def register_pipelines() -> Dict[str, Pipeline]:
     folder_path1 = "C:/Users/carlf/Documents/GitHub/lyrics_generator/data/01_raw"
     folder_path2 = "C:/Users/carlf/Documents/GitHub/lyrics_generator/data/02_intermediate"
     folder_path3 = "C:/Users/carlf/Documents/GitHub/lyrics_generator/data/03_advanced"
-    folder_path = r"C:\Users\carlf\Documents\GitHub\lyrics_generator\data\03_advanced"
+    
     # Créer les pipelines individuels
     pipeline1 = create_pipeline(folder_path1)
     pipeline2 = create_pipeline2(folder_path2)
     pipeline3 = create_pipeline3(folder_path3)
-    pipeline4 = create_pipeline4(folder_path)
+    pipeline4 = create_pipeline4(folder_path3)
 
     # Fusionner les pipelines
     combined_pipeline = pipeline1 + pipeline2 + pipeline3 + pipeline4
