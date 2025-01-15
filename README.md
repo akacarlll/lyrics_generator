@@ -1,101 +1,101 @@
-# Lyrics Generation
+# 🎤 Lyrics Generation Project
 
-[![Powered by Kedro](https://img.shields.io/badge/powered_by-kedro-ffc900?logo=kedro)](https://kedro.org)
+## 📋 Overview
+This project focuses on generating song lyrics inspired by French rappers. Using data science and natural language processing (NLP) techniques, the project analyzes lyrics, extracts key patterns, and generates new verses mimicking the style of specific artists.
 
-## Overview
+## 🎯 Objectives
+- Retrieve and preprocess song lyrics from **Genius**.
+- Analyze lyrics to uncover stylistic elements, including common words and themes.
+- Generate new lyrics using advanced machine learning models.
+- Provide tools for sentiment analysis and visualization of lyrics data.
 
-This is your new Kedro project with Kedro-Viz setup, which was generated using `kedro 0.19.9`.
+## 🛠️ Tools and Technologies
+- **Python 3.12.4**: Programming language.
+- **Kedro**: For project pipeline management and reproducibility.
+- **Pandas**: For data manipulation.
+- **NLP Libraries**: Spacy, NLTK, or Transformers for text processing and generation.
+- **Visualization**: Matplotlib and WordCloud for graphical analysis.
+- **Genius API**: To retrieve song lyrics.
 
-Take a look at the [Kedro documentation](https://docs.kedro.org) to get started.
-
-## Rules and guidelines
-
-In order to get the best out of the template:
-
-* Don't remove any lines from the `.gitignore` file we provide
-* Make sure your results can be reproduced by following a [data engineering convention](https://docs.kedro.org/en/stable/faq/faq.html#what-is-data-engineering-convention)
-* Don't commit data to your repository
-* Don't commit any credentials or your local configuration to your repository. Keep all your credentials and local configuration in `conf/local/`
-
-## How to install dependencies
-
-Declare any dependencies in `requirements.txt` for `pip` installation.
-
-To install them, run:
-
+## 📂 Project Structure
+The project follows a structured pipeline to ensure clean and efficient workflows:
 ```
-pip install -r requirements.txt
-```
-
-## How to run your Kedro pipeline
-
-You can run your Kedro project with:
-
-```
-kedro run
-```
-
-## How to test your Kedro project
-
-Have a look at the files `src/tests/test_run.py` and `src/tests/pipelines/data_science/test_pipeline.py` for instructions on how to write your tests. Run the tests as follows:
-
-```
-pytest
+├── data
+│   ├── raw                # Raw data retrieved from Genius
+│   ├── 02_intermediate    # Preprocessed data ready for analysis
+|   ├── 03_advanced        # Preprocessed data with new information added
+|   ├── 04_feature         # Wordcloud
+├── notebooks              # Jupyter notebooks for analysis and testing
+├── src
+│   ├── preprocessing      # Scripts for data cleaning and preprocessing
+│   ├── add_features       # Scripts for adding new informations to the datasets
+│   ├── data_analysis      # Scripts for word cloud, sentiment analysis and summarization
+│   ├── concatenate        # Code to merge all the datasets
+├── tests                  # Unit tests for the project
+├── README.md              # Project overview
+└── requirements.txt       # Dependencies
 ```
 
-To configure the coverage threshold, look at the `.coveragerc` file.
+## 📊 Features
+1. **Lyrics Retrieval**: 
+   - Automates the retrieval of lyrics for specific artists and songs using the Genius API.
+2. **Data Analysis**:
+   - Word clouds to visualize the most cited words by artists.
+   - Sentiment analysis of lyrics.
+3. **Lyrics Generation**:
+   - Leverages deep learning models (e.g., GPT2, CamemBert) to generate new lyrics mimicking the artist's style, or to classify these lyrics.
+4. **Visualization**:
+   - Provides graphical representations of word frequencies and thematic elements.
 
-## Project dependencies
+## 🚀 Getting Started
 
-To see and update the dependency requirements for your project use `requirements.txt`. Install the project requirements with `pip install -r requirements.txt`.
+### Prerequisites
+Make sure you have the following installed:
+- Python 3.12 or later
+- pip (Python package manager)
+- conda 
 
-[Further information about project dependencies](https://docs.kedro.org/en/stable/kedro_project_setup/dependencies.html#project-specific-dependencies)
+### Installation
+1. Clone this repository:
+   ```powershell
+   git clone https://github.com/akacarlll/lyrics_generator.git
+   ```
+2. Navigate to the project directory:
+   ```powershell
+   cd lyrics_generator
+   ```
+3. Install the dependencies:
+   ```powershell
+    pip install -r requirements.txt
+            or
+    conda env create -f environment.yml
+   ```
 
-## How to work with Kedro and notebooks
+### Usage
+1. Retrieve and preprocess data:
+   ```
+    Use :
+        python get_lyrics.py
+            or
+    Use :
+        the scrape.ipynb
+   
+   ```
+2. Analyze lyrics:
+   ```powershell
+    kedro run --pipeline thrid_pipeline
+   ```
+3. Train and generate lyrics:
+   ```
+   Use the notebook finetune_GPT2.ipynb
+   ```
 
-> Note: Using `kedro jupyter` or `kedro ipython` to run your notebook provides these variables in scope: `catalog`, `context`, `pipelines` and `session`.
->
-> Jupyter, JupyterLab, and IPython are already included in the project requirements by default, so once you have run `pip install -r requirements.txt` you will not need to take any extra steps before you use them.
 
-### Jupyter
-To use Jupyter notebooks in your Kedro project, you need to install Jupyter:
+## 📚 Future Work
+- Expand the dataset to include more artists and genres.
+- Improve the lyric generation model using transformer-based architectures like GPT3.
+- Implement more advanced analyses, such as rhyme schemes or thematic clustering.
 
-```
-pip install jupyter
-```
 
-After installing Jupyter, you can start a local notebook server:
-
-```
-kedro jupyter notebook
-```
-
-### JupyterLab
-To use JupyterLab, you need to install it:
-
-```
-pip install jupyterlab
-```
-
-You can also start JupyterLab:
-
-```
-kedro jupyter lab
-```
-
-### IPython
-And if you want to run an IPython session:
-
-```
-kedro ipython
-```
-
-### How to ignore notebook output cells in `git`
-To automatically strip out all output cell contents before committing to `git`, you can use tools like [`nbstripout`](https://github.com/kynan/nbstripout). For example, you can add a hook in `.git/config` with `nbstripout --install`. This will run `nbstripout` before anything is committed to `git`.
-
-> *Note:* Your output cells will be retained locally.
-
-[Further information about using notebooks for experiments within Kedro projects](https://docs.kedro.org/en/develop/notebooks_and_ipython/kedro_and_notebooks.html).
-## Package your Kedro project
-
-[Further information about building project documentation and packaging your project](https://docs.kedro.org/en/stable/tutorial/package_a_project.html).
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).

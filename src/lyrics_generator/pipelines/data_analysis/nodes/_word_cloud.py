@@ -16,22 +16,33 @@ STOP_WORDS_FR = set([
     'est', 'sont', 'étaient', 'était', 'seront', 'étant', 'été', 'être', 'sera', 'au', 'aux', 'à', 'se', "c'est", 'ça', 'ceci', 'cela', 
     'qui', 'que', 'quoi', 'dont', 'où', 'lorsque', 'quand', 'comme', 'si', 'tandis', 'puisque', 'afin', 'car', 'parce', 
     'oui', 'non', "ouais", "nan", "yeah","bah","ok","is", "cur","oh" 'ne', 'pas', 'ni', "n'est", 'plus', 'toujours', 'jamais',"fait","fais", "peux", "ma","qu",
-    "pe","as","ai","vais", "va","my", "là",
-])
+    "pe","as","ai","vais", "va","my", "là","j'ai", "j'suis", "ne","suis","sont","suis","sont","y'a","t'es","j'vais", "j'suis", "j'fais","qu'on","jai", "cest","quon", "jsuis",
+    "ya", "jfais", "jvais", "yen", "jpeux", "jai", "jpeux", "jvais",
+    ])
 
-def clean_text(text):
+def clean_text(text : str ) -> str:
     """
-    Nettoie le texte en retirant les caractères spéciaux et en mettant tout en minuscules.
+    Cleans the text by removing special characters, punctuation, 
+    and converting everything to lowercase.
+    
+    Args:
+    - text (str): The input text to clean.
+
+    Returns:
+    - str: The cleaned text.
     """
     # Convertir en minuscules
     text = text.lower()
+
+    # Supprimer les ponctuations
+    text = re.sub(r"[^\w\s']", '', text)  # Garde les mots, espaces et apostrophes
 
     # Remplacer les espaces multiples par un seul espace
     text = re.sub(r'\s+', ' ', text)
     
     return text.strip()
 
-def create_wordcloud(df):
+def create_wordcloud(df:pd.DataFrame):
     """
     Crée un nuage de mots basé sur les paroles nettoyées d'un artiste dans une DataFrame.
 

@@ -24,18 +24,18 @@ def create_pipeline2(folder_path, **kwargs):
             node(
                 func=add_release_year_column,
                 inputs=f"____{dataset_name}",
-                outputs=f"_____{dataset_name}",
+                outputs=f"year_{dataset_name}",
                 name=f"yeared_{dataset_name}"
             ),
             node(
                 func=divide_genre,
-                inputs=f"_____{dataset_name}",
-                outputs=f"______{dataset_name}",
+                inputs=f"year_{dataset_name}",
+                outputs=f"separate_{dataset_name}_",
                 name=f"separating_genre_{dataset_name}"
             ),
             node(
                 func=add_lyrics_stats,
-                inputs=f"______{dataset_name}",
+                inputs=f"separate_{dataset_name}_",
                 outputs=f"_{dataset_name}#xlsx",
                 name=f"complete_{dataset_name}"
             ),
